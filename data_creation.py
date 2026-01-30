@@ -649,6 +649,7 @@ class DataGenerator:
             print("\n" + "=" * 60)
             print("Generation Complete!")
             print("=" * 60)
+            return 0
 
         except Exception as e:
             print(f"\n✗ Fatal error: {e}")
@@ -711,11 +712,13 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument(
         "--product-data-prompt",
         type=Path,
+        default=Path("products_system.prompt"),
         help="The system prompt for product data creation"
     )
     parser.add_argument(
         "--questions-prompt",
         type=Path,
+        default=Path("questions_system.prompt"),
         help="The system prompt for question creation"
     )
 
