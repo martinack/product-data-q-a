@@ -1,4 +1,4 @@
-# product-data-q-a
+# Synthetic product data
 
 Generate fully synthetic product records and grounded Q&A pairs using a local Ollama model.
 
