@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the battery capacity of the Aerobex PulseBand 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which Bluetooth version does the Aerobex PulseBand 2.0 support?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "How many days can the Aerobex PulseBand 2.0 operate on a single charge?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the weight of the Aerobex PulseBand 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Aerobex PulseBand 2.0 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Aerobex PulseBand 2.0 come with a warranty for the battery?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the expected lifespan of the silicone strap on the Aerobex PulseBand 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is there a discount available for bulk purchases of the Aerobex PulseBand 2.0?",
+    "question_type": "trap"
+  }
+]

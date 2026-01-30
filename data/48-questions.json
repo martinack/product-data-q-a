@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the power consumption of the GreenSprout Hydroponic Grow Light?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the GreenSprout Hydroponic Grow Light?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the GreenSprout Hydroponic Grow Light?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the GreenSprout Hydroponic Grow Light in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What materials are used in the construction of the GreenSprout Hydroponic Grow Light?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum operating temperature of the GreenSprout Hydroponic Grow Light?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Which LED driver model is compatible with the GreenSprout Hydroponic Grow Light?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Does the GreenSprout Hydroponic Grow Light come with a remote control?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the collapsed length of the Vanguard Trek Lightweight Trekking Poles?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many poles are included in the set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which country is the product manufactured in?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the product in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the product?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum load capacity of the trekking poles?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the serial number of the product?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the power consumption of the LuminoTech LumenGlow 60W bulb?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which wireless protocols does the LuminoTech LumenGlow 60W support?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for this product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the LuminoTech LumenGlow 60W manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the bulb in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the size of the bulb in inches?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the bulb support voice control via Amazon Alexa?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the lifespan of the bulb in hours?",
+    "question_type": "trap"
+  }
+]

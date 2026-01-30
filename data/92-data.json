@@ -1,0 +1,66 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "92",  
+    "category": "Smart Home",  
+    "subcategory": "Thermostat",  
+    "name": "Velara SmartTherm 3.0",  
+    "brand_name": "Velara",  
+    "model_number": "VST-300",  
+    "sku": "VEL-STH-300-RED",  
+    "synthetic_code": "7543210987654",  
+    "description": "The Velara SmartTherm 3.0 is a compact, Wi‑Fi‑enabled thermostat designed for modern homes seeking precise temperature control and energy savings. Its sleek 10 cm × 10 cm × 3 cm chassis houses an integrated OLED display and a touch‑responsive interface. The device supports both Wi‑Fi and Zigbee, allowing seamless integration with existing smart‑home ecosystems. A 15 W power consumption keeps it efficient while the built‑in 3‑phase heating element delivers consistent warmth. The thermostat features programmable schedules, remote monitoring via a dedicated app, and adaptive learning to adjust settings based on occupancy patterns. Constructed from anodized aluminum and durable polycarbonate, the unit is lightweight yet robust, making it suitable for wall or ceiling mounting.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 10,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 0.4,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 15,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "aluminum",  
+        "polycarbonate"  
+      ],  
+      "color": "Matte Black",  
+      "capacity": {  
+        "value": null,  
+        "unit": null,  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "Wi-Fi",  
+        "Zigbee"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "China",  
+    "release_date": "2024-11-01",  
+    "price": {  
+      "amount": 129.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "HomeTech Supplies",  
+      "rating": 4.2,  
+      "location": "Shanghai, China"  
+    },  
+    "tags": [  
+      "smart thermostat",  
+      "Wi-Fi",  
+      "Zigbee",  
+      "energy efficient",  
+      "home automation"  
+    ]  
+  }  
+}

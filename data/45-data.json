@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "46",
+    "category": "Photography",
+    "subcategory": "Camera Lens",
+    "name": "Aurelio SnapShot 45mm Prime",
+    "brand_name": "Aurelio",
+    "model_number": "AS-45PP",
+    "sku": "AUR-SNAP-45PP",
+    "synthetic_code": "7424123456789",
+    "description": "The Aurelio SnapShot 45mm Prime delivers sharp, high‑contrast imagery for both stills and video. With a wide f/1.8 aperture, the lens excels in low‑light scenes, producing shallow depth of field and pleasing bokeh. A compact 7.5‑cm barrel houses a 9‑element optical design, including two ultra‑low‑dispersion glass elements that reduce chromatic aberration. The metal‑alloy mount provides robust compatibility with Canon EF, Sony E, and Fujifilm X systems, while a lightweight 0.45‑kg body keeps the setup balanced for handheld shooting. An integrated optical image‑stabilization module offers up to 3 stops of shake compensation, making it suitable for handheld video. The matte black finish adds a professional look to any kit.",
+    "specs": {
+      "dimensions": {
+        "value": 7.5,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.45,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "glass",
+        "metal alloy",
+        "plastic"
+      ],
+      "color": "black",
+      "capacity": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "compatibility": [
+        "Canon EF",
+        "Sony E",
+        "Fujifilm X"
+      ]
+    },
+    "warranty_months": 24,
+    "country_of_origin": "Vietnam",
+    "release_date": "2024-10-01",
+    "price": {
+      "amount": 199.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "LensMartix",
+      "rating": 4.5,
+      "location": "New York, US"
+    },
+    "tags": [
+      "camera lens",
+      "prime",
+      "45mm",
+      "wide aperture",
+      "image stabilization",
+      "black"
+    ]
+  }
+}

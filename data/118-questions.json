@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the height of the TerraGlow PathLight 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many hours of illumination does the PathLight 2.0 provide after sunset?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for this product in months?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which materials are used in the construction of the PathLight 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the TerraGlow PathLight 2.0 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum operating temperature of the TerraGlow PathLight 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the TerraGlow PathLight 2.0 come with a built‑in battery?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the exact serial number of the solar panel used in this product?",
+    "question_type": "trap"
+  }
+]

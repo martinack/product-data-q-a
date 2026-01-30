@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "160",
+    "category": "Photography",
+    "subcategory": "Camera Lens",
+    "name": "Velara LensMaster 35mm f/1.4",
+    "brand_name": "Velara",
+    "model_number": "VM-35F1.4",
+    "sku": "VEL-LENS-35F1.4-RED",
+    "synthetic_code": "7532146789012",
+    "description": "Velara LensMaster 35mm f/1.4 is a compact prime lens designed for full‑frame cameras. Its 35mm focal length delivers a natural perspective that is ideal for street, portrait, and documentary photography. The lens features a fast f/1.4 aperture, providing shallow depth of field and excellent low‑light performance. A 7‑element optical design incorporates high‑index glass to reduce distortion and chromatic aberration. The body is constructed from anodized aluminum, giving a lightweight yet durable feel. With a 7 cm barrel length and a 0.8 kg weight, the LensMaster balances portability with optical quality. The matte black finish offers a professional look, while the 9‑stop manual focus ring allows precise control. This lens is compatible with 35mm lenses and full‑frame camera bodies.",
+    "specs": {
+      "dimensions": {
+        "value": 7,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.8,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "high‑index glass",
+        "anodized aluminum"
+      ],
+      "color": "black",
+      "capacity": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "compatibility": [
+        "35mm lenses",
+        "full‑frame cameras"
+      ]
+    },
+    "warranty_months": 12,
+    "country_of_origin": "Germany",
+    "release_date": "2025-05-20",
+    "price": {
+      "amount": 599.99,
+      "currency": "USD"
+    },
+    "stock_status": "low_stock",
+    "seller": {
+      "name": "OpticHub",
+      "rating": 4.3,
+      "location": "Berlin, Germany"
+    },
+    "tags": [
+      "camera lens",
+      "prime",
+      "35mm",
+      "f1.4",
+      "black"
+    ]
+  }
+}

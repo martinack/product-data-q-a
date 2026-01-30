@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Velora Prime 85mm f/1.4 lens?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What are the dimensions of the Velora Prime 85mm f/1.4 lens?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which camera mounts is the Velora Prime 85mm f/1.4 lens compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Velora Prime 85mm f/1.4 lens?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the Velora Prime 85mm f/1.4 lens?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Velora Prime 85mm f/1.4 lens have autofocus?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the battery life of the Velora Prime 85mm f/1.4 lens?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the minimum aperture of the Velora Prime 85mm f/1.4 lens?",
+    "question_type": "trap"
+  }
+]

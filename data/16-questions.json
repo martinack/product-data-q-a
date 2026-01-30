@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Aurelio NovaKey 61?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What are the dimensions of the Aurelio NovaKey 61?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the power consumption of the Aurelio NovaKey 61?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What materials are used in the construction of the Aurelio NovaKey 61?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the Aurelio NovaKey 61?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the Aurelio NovaKey 61?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Aurelio NovaKey 61 support Bluetooth connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "How many built-in speakers does the Aurelio NovaKey 61 have?",
+    "question_type": "trap"
+  }
+]

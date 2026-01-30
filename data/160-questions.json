@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Velara LensMaster 35mm f/1.4?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the warranty period for this lens?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "When was the Velara LensMaster 35mm f/1.4 released?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the lens in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Which camera systems is the lens compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the power consumption of the Velara LensMaster 35mm f/1.4?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the capacity of the lens?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What type of autofocus system does the lens use?",
+    "question_type": "trap"
+  }
+]

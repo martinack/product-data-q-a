@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the LabSynth Precision 500mL Flask?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which materials are used to construct the LabSynth Precision 500mL Flask?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the LabSynth Precision 500mL Flask?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the LabSynth Precision 500mL Flask manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the LabSynth Precision 500mL Flask?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the serial number of the LabSynth Precision 500mL Flask?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the LabSynth Precision 500mL Flask have a built‑in temperature sensor?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the expected lifespan of the screw‑top cap in years?",
+    "question_type": "trap"
+  }
+]

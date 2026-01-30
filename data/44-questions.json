@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Velara CurlCraft 2-in-1 Curling Iron?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the power rating of the Velara CurlCraft 2-in-1 Curling Iron?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What color finish does the Velara CurlCraft 2-in-1 Curling Iron have?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the Velara CurlCraft 2-in-1 Curling Iron manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Velara CurlCraft 2-in-1 Curling Iron in EUR?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Velara CurlCraft 2-in-1 Curling Iron have a built‑in timer?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum heat temperature the barrel of the Velara CurlCraft 2-in-1 Curling Iron can reach?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the Velara CurlCraft 2-in-1 Curling Iron compatible with synthetic hair extensions?",
+    "question_type": "trap"
+  }
+]

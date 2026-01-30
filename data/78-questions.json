@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the warranty period for the Aurelio ProType 104 keyboard?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Aurelio ProType 104?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What color is the Aurelio ProType 104?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which operating systems is the Aurelio ProType 104 compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "How much does the Aurelio ProType 104 cost?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the return policy for the Aurelio ProType 104?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Aurelio ProType 104 support wireless connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "How many RGB lighting profiles does the Aurelio ProType 104 offer?",
+    "question_type": "trap"
+  }
+]

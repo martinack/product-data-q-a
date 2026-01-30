@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the model number of the Velara SmartTherm 3.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the power consumption of the Velara SmartTherm 3.0 in watts?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What are the dimensions of the Velara SmartTherm 3.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which wireless protocols does the Velara SmartTherm 3.0 support?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Velara SmartTherm 3.0 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the Velara SmartTherm 3.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Velara SmartTherm 3.0 support Bluetooth connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum temperature setting available on the Velara SmartTherm 3.0?",
+    "question_type": "trap"
+  }
+]

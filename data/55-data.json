@@ -1,0 +1,68 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "567890123457",  
+    "category": "Lab/Science supplies",  
+    "subcategory": "Lab Probe",  
+    "name": "Aurelio LabProbe 500",  
+    "brand_name": "Aurelio",  
+    "model_number": "ALP-500",  
+    "sku": "AUR-LAB-PRB-500",  
+    "synthetic_code": "7424001234567",  
+    "description": "The Aurelio LabProbe 500 is a precision instrument for measuring temperature and pH in laboratory solutions. Its stainless‑steel tip offers corrosion resistance and accurate contact, while the integrated digital readout displays values to two decimal places. The probe is powered by a single 3‑V rechargeable battery, providing up to 30 hours of operation. A USB‑C interface allows direct connection to computers for data logging, and optional Bluetooth 5.0 support enables wireless transfer to mobile devices. Compact and lightweight, the probe is suitable for bench‑top experiments, quality control, and educational demonstrations.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 15,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 0.3,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 0.5,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "stainless steel",  
+        "polycarbonate"  
+      ],  
+      "color": "Silver",  
+      "capacity": {  
+        "value": null,  
+        "unit": null,  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "USB‑C",  
+        "Bluetooth 5.0",  
+        "Windows 10+",  
+        "macOS 10.15+"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Germany",  
+    "release_date": "2024-11-01",  
+    "price": {  
+      "amount": 199.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "AurelioLab Supplies",  
+      "rating": 4.8,  
+      "location": "Munich, Germany"  
+    },  
+    "tags": [  
+      "lab probe",  
+      "temperature",  
+      "pH",  
+      "digital",  
+      "stainless steel"  
+    ]  
+  }  
+}

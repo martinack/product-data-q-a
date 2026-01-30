@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the Pawsome Hydration Bowl 600ml?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the diameter of the Pawsome Hydration Bowl 600ml?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the Pawsome Hydration Bowl 600ml?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Is the Pawsome Hydration Bowl 600ml dishwasher safe?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "How many months of warranty does the Pawsome Hydration Bowl 600ml come with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Pawsome Hydration Bowl 600ml have a warranty specifically for its silicone material?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the price of the Pawsome Hydration Bowl 600ml in euros?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the return policy for the Pawsome Hydration Bowl 600ml?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,65 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "120",  
+    "category": "Beauty & Personal Care",  
+    "subcategory": "Hair Styling Tool",  
+    "name": "Velora CurlWave 3-in-1 Styling Iron",  
+    "brand_name": "Velora",  
+    "model_number": "CW-301",  
+    "sku": "VEL-CW301-RED",  
+    "synthetic_code": "8425907612345",  
+    "description": "The Velora CurlWave 3-in-1 Styling Iron offers salon‑quality curling at home. Its compact 35‑cm body houses a ceramic plate that heats evenly to 200°C, ensuring smooth, long‑lasting curls. The iron features three adjustable heat settings and a 30‑second auto‑off safety switch. A lightweight 0.9‑kg design makes it easy to maneuver, while the ergonomic handle provides a secure grip during styling. The product is built with an ABS housing and a detachable cord for convenient storage. Users can switch between curling, straightening, and texturizing modes without changing tools, making it ideal for quick daily routines.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 35,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 0.9,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 1200,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "Ceramic plate",  
+        "ABS body"  
+      ],  
+      "color": "Ruby Red",  
+      "capacity": {  
+        "value": null,  
+        "unit": "L",  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "All hair types"  
+      ]  
+    },  
+    "warranty_months": 12,  
+    "country_of_origin": "Vietnam",  
+    "release_date": "2024-09-01",  
+    "price": {  
+      "amount": 89.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "GlowStyle Market",  
+      "rating": 4.5,  
+      "location": "Los Angeles, US"  
+    },  
+    "tags": [  
+      "hair",  
+      "curling",  
+      "styling",  
+      "ceramic",  
+      "red"  
+    ]  
+  }  
+}

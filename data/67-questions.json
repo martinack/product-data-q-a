@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the TerraLite Trail Lantern 500?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the battery capacity of the TerraLite Trail Lantern 500 in mAh?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What color is the TerraLite Trail Lantern 500?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How much does the TerraLite Trail Lantern 500 cost in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the TerraLite Trail Lantern 500?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period in years for the TerraLite Trail Lantern 500?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the battery voltage of the TerraLite Trail Lantern 500?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the manufacturer’s contact phone number for the TerraLite Trail Lantern 500?",
+    "question_type": "trap"
+  }
+]

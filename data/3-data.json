@@ -1,0 +1,65 @@
+{ 
+  "meta": { 
+    "version": "1.0", 
+    "description": "Synthetic product data for research use." 
+  }, 
+  "product": { 
+    "product_id": "3", 
+    "category": "Pet Supplies", 
+    "subcategory": "Cat Litter Box", 
+    "name": "PurrGuard Eco Litter Box", 
+    "brand_name": "PurrGuard", 
+    "model_number": "PG-ELB-01", 
+    "sku": "PURR-ELB-01-WHT", 
+    "synthetic_code": "1234567890123", 
+    "description": "The PurrGuard Eco Litter Box offers a hygienic and odor‑controlled solution for cat owners. Designed with a low‑profile entrance to reduce dust, the box features a removable absorbent pad that can be replaced after each use. The outer shell is made from durable, recyclable plastic, while the inner lining is treated with a natural deodorizing agent that neutralizes smells without chemicals. A shallow tray holds up to 0.5 L of litter, and a built‑in waste compartment collects clumps for easy disposal. Its white finish blends with any décor, and the compact 40 cm size fits comfortably in apartments or homes with limited space.", 
+    "specs": { 
+      "dimensions": { 
+        "value": 40, 
+        "unit": "cm" 
+      }, 
+      "weight": { 
+        "value": 1.2, 
+        "unit": "kg" 
+      }, 
+      "power": { 
+        "value": null, 
+        "unit": "W", 
+        "applicable": false 
+      }, 
+      "materials": [ 
+        "plastic", 
+        "absorbent pad" 
+      ], 
+      "color": "White", 
+      "capacity": { 
+        "value": 0.5, 
+        "unit": "L", 
+        "applicable": true 
+      }, 
+      "compatibility": [ 
+        "Standard cat litter" 
+      ] 
+    }, 
+    "warranty_months": 12, 
+    "country_of_origin": "Vietnam", 
+    "release_date": "2024-10-01", 
+    "price": { 
+      "amount": 29.99, 
+      "currency": "USD" 
+    }, 
+    "stock_status": "in_stock", 
+    "seller": { 
+      "name": "PetSupply Hub", 
+      "rating": 4.5, 
+      "location": "London, UK" 
+    }, 
+    "tags": [ 
+      "cat", 
+      "litter box", 
+      "eco-friendly", 
+      "absorbent", 
+      "white" 
+    ] 
+  } 
+}

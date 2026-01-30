@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "175",
+    "category": "Grocery",
+    "subcategory": "Grains & Cereals",
+    "name": "EcoFresh Organic Quinoa 500g",
+    "brand_name": "EcoFresh",
+    "model_number": "EFQ-500",
+    "sku": "EF-QUINOA-500G",
+    "synthetic_code": "9876543210987",
+    "description": "EcoFresh Organic Quinoa 500g delivers a premium, sustainably sourced grain that supports a balanced diet. Harvested from high‑altitude Andean farms, the quinoa is certified organic and free from GMOs, providing a rich source of plant‑based protein, fiber, and essential minerals. The 500‑gram pouch features a resealable zipper for long‑term freshness and is packaged in recyclable materials to minimize environmental impact. Ideal for salads, pilafs, or as a hearty side, this quinoa offers a nutty flavor and fluffy texture when cooked. With a shelf life of up to 18 months under cool, dry storage, it is a convenient pantry staple for health‑conscious consumers.",
+    "specs": {
+      "dimensions": {
+        "value": 20,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.5,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "quinoa",
+        "organic packaging"
+      ],
+      "color": "golden",
+      "capacity": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "compatibility": []
+    },
+    "warranty_months": 0,
+    "country_of_origin": "Peru",
+    "release_date": "2025-08-15",
+    "price": {
+      "amount": 9.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "GreenGrocer Wholesale",
+      "rating": 4.2,
+      "location": "Lima, Peru"
+    },
+    "tags": [
+      "organic",
+      "quinoa",
+      "grain",
+      "non-perishable",
+      "healthy"
+    ]
+  }
+}

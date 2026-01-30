@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the name of the product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many blocks are included in the BouncyBlox MegaStack 500 set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the BouncyBlox MegaStack 500?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the BouncyBlox MegaStack 500?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the BouncyBlox MegaStack 500 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the power consumption of the BouncyBlox MegaStack 500?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum temperature the BouncyBlox MegaStack 500 can withstand?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Does the BouncyBlox MegaStack 500 come with a set of instructions?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the name of the product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the maximum load capacity of the chair?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the price of the chair?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the chair in months?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Which materials are used in the construction of the chair?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the weight of the chair in pounds?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum load capacity of the chair in pounds?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the color of the chair's armrests?",
+    "question_type": "trap"
+  }
+]

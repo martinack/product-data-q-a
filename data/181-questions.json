@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of VitaBloom Soy Milk 1L?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the capacity of the bottle in liters?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "In which country was VitaBloom Soy Milk 1L manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of VitaBloom Soy Milk 1L in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "How long is the shelf life of VitaBloom Soy Milk 1L when kept refrigerated?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the expiration date of the product?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the nutritional content per 100 ml of VitaBloom Soy Milk 1L?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Does the product contain any allergens such as peanuts?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "22",
+    "category": "Lab/Science supplies",
+    "subcategory": "Glassware Set",
+    "name": "Aurelio LabGlass 12-Piece Set",
+    "brand_name": "Aurelio",
+    "model_number": "AL-GLS12",
+    "sku": "AUR-LG12-STD",
+    "synthetic_code": "9876543210987",
+    "description": "The Aurelio LabGlass 12-Piece Set offers a versatile collection of high‑clarity glassware designed for routine laboratory tasks. The set includes four 250 mL beakers, two 100 mL graduated cylinders, and six 50 mL test tubes with screw‑cap lids. Each component is made from tempered borosilicate glass to withstand thermal shock and chemical exposure, while the silicone caps provide a secure seal for storage and transport. The clear design allows for easy visual inspection of contents, and the ergonomic handle on the beakers facilitates precise pouring. Ideal for educational settings, research laboratories, or home science kits, this set delivers durability and consistent performance across a range of experimental procedures.",
+    "specs": {
+      "dimensions": {
+        "value": 30,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 1.2,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "glass",
+        "silicone",
+        "plastic"
+      ],
+      "color": "Transparent",
+      "capacity": {
+        "value": 250,
+        "unit": "mL",
+        "applicable": true
+      },
+      "compatibility": [
+        "Microscopes",
+        "Laboratory benches"
+      ]
+    },
+    "warranty_months": 12,
+    "country_of_origin": "Germany",
+    "release_date": "2024-08-15",
+    "price": {
+      "amount": 89.99,
+      "currency": "EUR"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "LabEquip Mart",
+      "rating": 4.2,
+      "location": "Berlin, Germany"
+    },
+    "tags": [
+      "glassware",
+      "lab",
+      "microscope",
+      "set",
+      "12-piece"
+    ]
+  }
+}

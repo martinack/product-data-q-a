@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "173",
+    "category": "Smart Home",
+    "subcategory": "Smart Lighting",
+    "name": "Luminex Aura 60W Smart LED Bulb",
+    "brand_name": "Luminex",
+    "model_number": "LUX-A60",
+    "sku": "LUX-A60-STD",
+    "synthetic_code": "1234567890123",
+    "description": "The Luminex Aura 60W Smart LED Bulb offers a versatile lighting solution for modern homes. Designed with a sleek polycarbonate housing and a high‑brightness LED array, it delivers up to 800 lumens of warm white light while consuming only 60 watts of power. The bulb features built‑in Wi‑Fi connectivity, allowing remote control via a dedicated app or voice assistants. It supports the standard E27 socket and includes a 2.4GHz Wi‑Fi band for reliable communication. Energy‑efficient operation, adjustable brightness, and a 24‑month warranty make it suitable for both residential and small commercial settings.",
+    "specs": {
+      "dimensions": {
+        "value": 10,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.2,
+        "unit": "kg"
+      },
+      "power": {
+        "value": 60,
+        "unit": "W",
+        "applicable": true
+      },
+      "materials": [
+        "polycarbonate",
+        "LED array",
+        "glass"
+      ],
+      "color": "warm white",
+      "capacity": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "compatibility": [
+        "E27",
+        "LED",
+        "Wi-Fi 2.4GHz"
+      ]
+    },
+    "warranty_months": 24,
+    "country_of_origin": "Germany",
+    "release_date": "2025-07-01",
+    "price": {
+      "amount": 29.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "HomeTech Distributors",
+      "rating": 4.5,
+      "location": "Berlin, Germany"
+    },
+    "tags": [
+      "smart lighting",
+      "Wi-Fi",
+      "LED",
+      "warm white",
+      "energy efficient"
+    ]
+  }
+}

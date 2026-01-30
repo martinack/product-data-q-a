@@ -1,0 +1,66 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "175",  
+    "category": "Lab/Science supplies",  
+    "subcategory": "Chemical Storage Cabinet",  
+    "name": "ChemGuard 200L Safety Cabinet",  
+    "brand_name": "ChemGuard",  
+    "model_number": "CG-200S",  
+    "sku": "CG-200L-CAB",  
+    "synthetic_code": "8427610395721",  
+    "description": "The ChemGuard 200L Safety Cabinet provides secure containment for hazardous chemicals in research and industrial settings. Constructed from corrosion‑resistant stainless steel and reinforced polycarbonate, the unit features a double‑door design with airtight seals and an integrated ventilation system. It supports up to 200 liters of liquid or solid storage, with adjustable shelving to accommodate various container sizes. The cabinet is equipped with a digital temperature monitor and an alarm for temperature excursions, ensuring compliance with safety protocols. Its modular layout allows easy reconfiguration for different laboratory workflows.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 200,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 120,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "stainless steel",  
+        "polycarbonate"  
+      ],  
+      "color": "silver",  
+      "capacity": {  
+        "value": 200,  
+        "unit": "L",  
+        "applicable": true  
+      },  
+      "compatibility": [  
+        "ISO 9001 compliant",  
+        "ANSI/ASSE B30.3"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Germany",  
+    "release_date": "2025-07-01",  
+    "price": {  
+      "amount": 1499.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "LabSupply Hub",  
+      "rating": 4.5,  
+      "location": "Berlin, Germany"  
+    },  
+    "tags": [  
+      "chemical storage",  
+      "safety cabinet",  
+      "lab equipment",  
+      "industrial",  
+      "high-capacity"  
+    ]  
+  }  
+}

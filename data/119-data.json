@@ -1,0 +1,64 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "119",  
+    "category": "Furniture",  
+    "subcategory": "Office Chair",  
+    "name": "ErgoSeat Pro 4.0",  
+    "brand_name": "ErgoCraft",  
+    "model_number": "ES-P4",  
+    "sku": "ERG-ESP4-GR",  
+    "synthetic_code": "9876543210987",  
+    "description": "The ErgoSeat Pro 4.0 is engineered for long‑duration comfort in office environments. A breathable mesh back and seat panel distribute pressure evenly, while a lightweight aluminum frame supports a 12‑kg build. Adjustable height, lumbar support, and 360° casters allow users to customize ergonomics. The chair’s finish is a matte charcoal grey that blends with contemporary workspaces. It meets basic fire‑resistance standards for office furniture and is easy to assemble with minimal tools. The design focuses on durability, user comfort, and a sleek aesthetic suitable for corporate and home‑office settings.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 100,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 12,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "Mesh fabric",  
+        "Aluminum frame",  
+        "Polyurethane foam"  
+      ],  
+      "color": "Charcoal Grey",  
+      "capacity": {  
+        "value": null,  
+        "unit": "L",  
+        "applicable": false  
+      },  
+      "compatibility": []  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Germany",  
+    "release_date": "2024-11-15",  
+    "price": {  
+      "amount": 179.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "UrbanFurnish Co.",  
+      "rating": 4.2,  
+      "location": "Berlin, Germany"  
+    },  
+    "tags": [  
+      "office",  
+      "ergonomic",  
+      "mesh",  
+      "adjustable",  
+      "chair"  
+    ]  
+  }  
+}

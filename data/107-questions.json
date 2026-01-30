@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the Velora FieldPack 3L?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What materials are used to construct the Velora FieldPack 3L?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "In which country was the Velora FieldPack 3L manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Velora FieldPack 3L in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the weight of the Velora FieldPack 3L?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the exact water resistance rating (e.g., IPX rating) of the Velora FieldPack 3L?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Velora FieldPack 3L support Wi‑Fi connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Does the Velora FieldPack 3L have a built‑in battery?",
+    "question_type": "trap"
+  }
+]

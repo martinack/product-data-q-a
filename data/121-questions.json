@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Aurelio ChillPad X2?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What type of power port does the Aurelio ChillPad X2 use?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the maximum airflow produced by the dual‑fan system of the Aurelio ChillPad X2?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How many months of warranty does the Aurelio ChillPad X2 come with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Aurelio ChillPad X2 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period in years for the Aurelio ChillPad X2?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Which CPU model is supported by the Aurelio ChillPad X2?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the battery capacity of the Aurelio ChillPad X2?",
+    "question_type": "trap"
+  }
+]

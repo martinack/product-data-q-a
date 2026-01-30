@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the model number of the Aurelio SmartTherm 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the power draw of the Aurelio SmartTherm 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which wireless protocols are supported by the Aurelio SmartTherm 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How many months of warranty does the Aurelio SmartTherm 2.0 come with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Aurelio SmartTherm 2.0 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Aurelio SmartTherm 2.0 have a battery backup feature?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What color is the silicone gasket on the Aurelio SmartTherm 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the Aurelio SmartTherm 2.0 compatible with Bluetooth 5.0?",
+    "question_type": "trap"
+  }
+]

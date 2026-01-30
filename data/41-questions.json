@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the Pawsome Hydration Bottle 500ml?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What materials are used to make the Pawsome Hydration Bottle 500ml?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "In which country was the Pawsome Hydration Bottle 500ml manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How much does the Pawsome Hydration Bottle 500ml cost in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the Pawsome Hydration Bottle 500ml?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the Pawsome Hydration Bottle 500ml?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Pawsome Hydration Bottle 500ml come with a built‑in filter?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum temperature the Pawsome Hydration Bottle 500ml can withstand?",
+    "question_type": "trap"
+  }
+]

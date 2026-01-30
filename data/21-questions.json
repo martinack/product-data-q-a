@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the storage capacity of the Aurelio DataVault 4TB?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which operating systems is the Aurelio DataVault 4TB compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the Aurelio DataVault 4TB?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How much does the Aurelio DataVault 4TB cost in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the Aurelio DataVault 4TB?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Aurelio DataVault 4TB support Wi‑Fi connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum file size that the Aurelio DataVault 4TB can store?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is there any free software bundled with the Aurelio DataVault 4TB?",
+    "question_type": "trap"
+  }
+]

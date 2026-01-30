@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the power consumption of the Luminex Aura 60W Smart LED Bulb?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which socket type is compatible with this bulb?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "How many lumens of light does the bulb produce?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the Luminex Aura 60W Smart LED Bulb?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Luminex Aura 60W Smart LED Bulb manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the price of the Luminex Aura 60W Smart LED Bulb in euros?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Luminex Aura 60W Smart LED Bulb support Bluetooth connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum temperature rating of the Luminex Aura 60W Smart LED Bulb?",
+    "question_type": "trap"
+  }
+]

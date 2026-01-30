@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the ErgoFlex Mesh Executive Chair?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the ErgoFlex Mesh Executive Chair?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What materials are used in the ErgoFlex Mesh Executive Chair?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What color is the ErgoFlex Mesh Executive Chair?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "How much does the ErgoFlex Mesh Executive Chair cost?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the chair come with a 5-year warranty?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum weight the chair can support?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the chair's power consumption?",
+    "question_type": "trap"
+  }
+]

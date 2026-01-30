@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the model number of the AuroraSense ThermoControl 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the power consumption of the AuroraSense ThermoControl 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "How long is the warranty period for the AuroraSense ThermoControl 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which wireless protocols does the AuroraSense ThermoControl 2.0 support?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the listed price of the AuroraSense ThermoControl 2.0 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the AuroraSense ThermoControl 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the AuroraSense ThermoControl 2.0 support Apple HomeKit integration?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum temperature setting that the AuroraSense ThermoControl 2.0 can achieve?",
+    "question_type": "trap"
+  }
+]

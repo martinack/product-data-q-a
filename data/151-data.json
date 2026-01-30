@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "151",
+    "category": "Garden & Outdoor",
+    "subcategory": "Outdoor Lighting",
+    "name": "LumenField Solar Path Light 12V",
+    "brand_name": "Luminex",
+    "model_number": "LF-PL12V",
+    "sku": "LUM-PL12V-RED",
+    "synthetic_code": "9876543210987",
+    "description": "The LumenField Solar Path Light 12V offers a reliable, energy‑efficient illumination solution for gardens, walkways, and patios. Its 12‑V DC LED array delivers up to 150 lumens, while a built‑in solar panel charges a rechargeable 2000 mAh battery during daylight, allowing continuous operation for up to 8 hours after sunset. The lantern’s polycarbonate housing and aluminum frame provide weather‑resistant durability, and the matte black finish blends seamlessly with natural surroundings. A simple pull‑cord switch and adjustable mounting bracket enable easy installation on posts or walls. Ideal for eco‑conscious homeowners and landscaping projects, this light combines sustainable power with low maintenance.",
+    "specs": {
+      "dimensions": {
+        "value": 30,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 1.2,
+        "unit": "kg"
+      },
+      "power": {
+        "value": 12,
+        "unit": "W",
+        "applicable": true
+      },
+      "materials": [
+        "polycarbonate",
+        "aluminum"
+      ],
+      "color": "Matte Black",
+      "capacity": {
+        "value": null,
+        "unit": "L|mAh|GB|pieces",
+        "applicable": false
+      },
+      "compatibility": [
+        "12V DC"
+      ]
+    },
+    "warranty_months": 24,
+    "country_of_origin": "Vietnam",
+    "release_date": "2025-10-01",
+    "price": {
+      "amount": 49.99,
+      "currency": "USD"
+    },
+    "stock_status": "low_stock",
+    "seller": {
+      "name": "GreenHarvest Supplies",
+      "rating": 4.2,
+      "location": "Hanoi, Vietnam"
+    },
+    "tags": [
+      "solar",
+      "path light",
+      "garden",
+      "eco-friendly",
+      "LED"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "q_1",
+    "answer": "The model number is DT-100."
+  },
+  {
+    "id": "q_2",
+    "answer": "The battery lasts 48 hours on a single charge. 48 hours × 60 minutes/hour = 2,880 minutes."
+  },
+  {
+    "id": "q_3",
+    "answer": "The probe weighs 0.15 kg. 0.15 kg × 1,000 g/kg = 150 grams."
+  },
+  {
+    "id": "q_4",
+    "answer": "The dimensions are 12 cm."
+  },
+  {
+    "id": "q_5",
+    "answer": "The warranty period is 24 months."
+  },
+  {
+    "id": "q_6",
+    "answer": "I cannot answer this question because of missing data"
+  },
+  {
+    "id": "q_7",
+    "answer": "I cannot answer this question because of missing data"
+  },
+  {
+    "id": "q_8",
+    "answer": "I cannot answer this question because of missing data"
+  }
+]

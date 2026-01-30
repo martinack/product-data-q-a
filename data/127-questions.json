@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the Aurelio SkinShield 30ml serum?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the color of the Aurelio SkinShield bottle?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the Aurelio SkinShield product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Aurelio SkinShield 30ml serum?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Where is the seller of the Aurelio SkinShield product located?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the expiration date of the Aurelio SkinShield serum?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the recommended storage temperature for the Aurelio SkinShield product?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the return policy for the Aurelio SkinShield serum?",
+    "question_type": "trap"
+  }
+]

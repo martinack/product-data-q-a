@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the VigorFlex Elastic Band Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How much does the VigorFlex Elastic Band Set weigh?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the VigorFlex Elastic Band Set in months?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "When was the VigorFlex Elastic Band Set released?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the VigorFlex Elastic Band Set in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the VigorFlex Elastic Band Set?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum load capacity of the VigorFlex Elastic Band Set?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the recommended age group for using the VigorFlex Elastic Band Set?",
+    "question_type": "trap"
+  }
+]

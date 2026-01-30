@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "9876543210",
+    "category": "Kitchenware",
+    "subcategory": "Pressure Cooker",
+    "name": "GourmetNova UltraPressure 10L",
+    "brand_name": "GourmetNova",
+    "model_number": "GNR-ULP10",
+    "sku": "GNR-ULP10-RED",
+    "synthetic_code": "9876543210123",
+    "description": "The GourmetNova UltraPressure 10L is a high‑performance electric pressure cooker designed for busy households and culinary enthusiasts. Its 10‑liter stainless steel chamber delivers rapid, even heating, while the integrated safety valve and digital temperature control keep cooking precise and safe. A silicone gasket seals the lid for optimal pressure retention, and the sleek matte black finish complements modern kitchen décor. The unit features a 1500‑W heating element, a programmable timer, and a child‑lock safety latch. Ideal for stews, grains, and quick week‑night meals, it offers convenience without sacrificing quality.",
+    "specs": {
+      "dimensions": {
+        "value": 35,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 4.5,
+        "unit": "kg"
+      },
+      "power": {
+        "value": 1500,
+        "unit": "W",
+        "applicable": true
+      },
+      "materials": [
+        "stainless steel",
+        "silicone gasket"
+      ],
+      "color": "Matte Black",
+      "capacity": {
+        "value": 10,
+        "unit": "L",
+        "applicable": true
+      },
+      "compatibility": [
+        "electric outlet 220V",
+        "standard stove burners"
+      ]
+    },
+    "warranty_months": 24,
+    "country_of_origin": "Vietnam",
+    "release_date": "2024-10-15",
+    "price": {
+      "amount": 129.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "CulinaryHub",
+      "rating": 4.5,
+      "location": "Berlin, Germany"
+    },
+    "tags": [
+      "pressure cooker",
+      "kitchen appliance",
+      "electric",
+      "10L",
+      "matte black"
+    ]
+  }
+}

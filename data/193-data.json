@@ -1,0 +1,64 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "194",  
+    "category": "Furniture",  
+    "subcategory": "Living Room Sofa",  
+    "name": "Velora ComfortSection 3‑Seater",  
+    "brand_name": "Velora",  
+    "model_number": "VS-3C",  
+    "sku": "VEL-SEC-3C-NEO",  
+    "synthetic_code": "1234567890123",  
+    "description": "The Velora ComfortSection 3‑Seater is a modular sectional designed for modern living spaces. Its low‑profile frame is constructed from engineered wood and reinforced with steel rods, while the upholstery is a durable microfiber blend in a muted charcoal tone. The sofa measures 240 cm in length, 95 cm in depth, and 85 cm in height, providing ample seating for three adults. A hidden storage compartment under the back cushions offers convenient space for blankets or remote controls. The unit is easy to assemble with a quick‑connect system and can be reconfigured into a loveseat or a single chair as needed.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 240,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 45,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "Engineered wood",  
+        "Steel reinforcement",  
+        "Microfiber upholstery"  
+      ],  
+      "color": "Charcoal",  
+      "capacity": {  
+        "value": null,  
+        "unit": "L",  
+        "applicable": false  
+      },  
+      "compatibility": []  
+    },  
+    "warranty_months": 12,  
+    "country_of_origin": "Poland",  
+    "release_date": "2024-08-01",  
+    "price": {  
+      "amount": 899.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "FurniMart",  
+      "rating": 4.2,  
+      "location": "Barcelona, Spain"  
+    },  
+    "tags": [  
+      "sectional",  
+      "sofa",  
+      "livingroom",  
+      "velora",  
+      "comfort"  
+    ]  
+  }  
+}

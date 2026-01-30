@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the power rating of the NurtureNest WarmMate 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How long does it take to heat a 0.5‑liter bottle with the WarmMate 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the NurtureNest WarmMate 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the NurtureNest WarmMate 2.0 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the NurtureNest WarmMate 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the NurtureNest WarmMate 2.0 have a built‑in Bluetooth feature?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the expected battery life of the NurtureNest WarmMate 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the NurtureNest WarmMate 2.0 compatible with 12‑oz baby bottles?",
+    "question_type": "trap"
+  }
+]

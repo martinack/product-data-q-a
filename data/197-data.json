@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "197",
+    "category": "Garden & Outdoor",
+    "subcategory": "Garden Hose",
+    "name": "Velara EcoHose 25m",
+    "brand_name": "Velara",
+    "model_number": "VH-25M",
+    "sku": "VEL-ECOS-25M",
+    "synthetic_code": "8423910765432",
+    "description": "The Velara EcoHose 25m is a flexible, high‑pressure garden hose designed for residential and light commercial use. Constructed from a reinforced PVC core with a rubber outer sheath, it resists kinks and provides a durable seal against leaks. The hose features a 1.5‑inch diameter and a 25‑meter length, making it ideal for extended watering tasks while remaining lightweight at 3 kg. Its green finish blends with outdoor décor, and the hose can handle pressures up to 150 PSI. The EcoHose is easy to install with standard 1‑inch fittings and includes a 12‑month warranty for peace of mind.",
+    "specs": {
+      "dimensions": {
+        "value": 25,
+        "unit": "m"
+      },
+      "weight": {
+        "value": 3,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "PVC",
+        "rubber reinforcement"
+      ],
+      "color": "Forest Green",
+      "capacity": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "compatibility": []
+    },
+    "warranty_months": 12,
+    "country_of_origin": "China",
+    "release_date": "2024-07-15",
+    "price": {
+      "amount": 34.99,
+      "currency": "USD"
+    },
+    "stock_status": "low_stock",
+    "seller": {
+      "name": "GardenPro Supplies",
+      "rating": 4.2,
+      "location": "Portland, US"
+    },
+    "tags": [
+      "garden hose",
+      "eco-friendly",
+      "PVC",
+      "durable"
+    ]
+  }
+}

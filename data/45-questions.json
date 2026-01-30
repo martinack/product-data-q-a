@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the focal length of the Aurelio SnapShot 45mm Prime?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which camera systems is the Aurelio SnapShot 45mm Prime compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the Aurelio SnapShot 45mm Prime lens?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Aurelio SnapShot 45mm Prime in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "When was the Aurelio SnapShot 45mm Prime released?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Aurelio SnapShot 45mm Prime lens have a built‑in flash?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the serial number of the Aurelio SnapShot 45mm Prime?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum zoom ratio of the Aurelio SnapShot 45mm Prime?",
+    "question_type": "trap"
+  }
+]

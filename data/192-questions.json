@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the model number of the Veridian EcoTemp 300?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many months of warranty does the Veridian EcoTemp 300 come with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which wireless protocols are supported by the Veridian EcoTemp 300?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the retail price of the Veridian EcoTemp 300 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the weight of the Veridian EcoTemp 300?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery capacity in mAh of the Veridian EcoTemp 300?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Veridian EcoTemp 300 have a built‑in speaker for voice commands?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum temperature range the thermostat can regulate?",
+    "question_type": "trap"
+  }
+]

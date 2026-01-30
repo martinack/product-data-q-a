@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the name of this product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which brand manufactures this styling kit?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the power rating of the styling kit?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How many months of warranty does the product come with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the product in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery capacity of the styling kit?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum temperature setting of the ceramic curling iron?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Does the kit come with a charging cable?",
+    "question_type": "trap"
+  }
+]

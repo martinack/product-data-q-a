@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "How many blocks are included in the BouncyBlox Stackable Building Blocks Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the BouncyBlox Stackable Building Blocks Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the BouncyBlox Stackable Building Blocks Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the BouncyBlox Stackable Building Blocks Set manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the BouncyBlox Stackable Building Blocks Set in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the size of each individual block in the BouncyBlox Stackable Building Blocks Set?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the BouncyBlox Stackable Building Blocks Set come with a user manual?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum recommended temperature for storing the BouncyBlox Stackable Building Blocks Set?",
+    "question_type": "trap"
+  }
+]

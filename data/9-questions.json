@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the price of the ErgoComfort Pro 300?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the ErgoComfort Pro 300?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What materials are used in the ErgoComfort Pro 300?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the ErgoComfort Pro 300?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the ErgoComfort Pro 300 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum weight capacity of the ErgoComfort Pro 300?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the power consumption of the ErgoComfort Pro 300?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the battery life of the ErgoComfort Pro 300?",
+    "question_type": "trap"
+  }
+]

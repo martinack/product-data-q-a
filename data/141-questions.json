@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the maximum read speed of the VortexTech Titan 2TB SSD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the VortexTech Titan 2TB SSD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which operating systems is the VortexTech Titan 2TB SSD compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How many months of warranty does the VortexTech Titan 2TB SSD provide?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the VortexTech Titan 2TB SSD in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the VortexTech Titan 2TB SSD?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the VortexTech Titan 2TB SSD support wireless connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the serial number of the VortexTech Titan 2TB SSD?",
+    "question_type": "trap"
+  }
+]

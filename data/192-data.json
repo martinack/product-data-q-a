@@ -1,0 +1,68 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "192",  
+    "category": "Smart Home",  
+    "subcategory": "Smart Thermostat",  
+    "name": "Veridian EcoTemp 300",  
+    "brand_name": "Veridian",  
+    "model_number": "VT-ET300",  
+    "sku": "VER-ET300-RED",  
+    "synthetic_code": "9876543210987",  
+    "description": "Veridian EcoTemp 300 delivers precise temperature control with a minimalist touch interface. The unit supports dual Wi‑Fi (802.11b/g/n) and Zigbee connectivity, enabling seamless integration with existing home‑automation hubs. A 4‑inch capacitive display shows real‑time temperature, humidity, and energy‑usage graphs. The thermostat’s adaptive learning algorithm adjusts set‑points based on occupancy patterns, reducing HVAC load by up to 15 %. Designed for both new installations and retrofit, it mounts flush to the wall and includes a rechargeable battery backup for up to 48 hours of operation during power outages. Its sleek matte‑black finish complements modern décor, while the optional remote app provides remote control and scheduling from any smartphone.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 12.5,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 0.85,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 15,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "ABS",  
+        "polycarbonate",  
+        "steel"  
+      ],  
+      "color": "Matte Black",  
+      "capacity": {  
+        "value": null,  
+        "unit": "L",  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "Wi‑Fi 802.11b/g/n",  
+        "Zigbee 3.0",  
+        "Bluetooth 5.0"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Vietnam",  
+    "release_date": "2024-07-15",  
+    "price": {  
+      "amount": 129.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "HomeNova",  
+      "rating": 4.4,  
+      "location": "Berlin, Germany"  
+    },  
+    "tags": [  
+      "smart thermostat",  
+      "wifi",  
+      "zigbee",  
+      "energy-saving",  
+      "homeautomation"  
+    ]  
+  }  
+}

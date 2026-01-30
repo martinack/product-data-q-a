@@ -1,0 +1,68 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "183",  
+    "category": "Grocery",  
+    "subcategory": "Dry Goods",  
+    "name": "NutriHarvest Brown Rice 1kg",  
+    "brand_name": "NutriHarvest",  
+    "model_number": "NH-BR-1KG",  
+    "sku": "NHR-BR-1KG-001",  
+    "synthetic_code": "1234567890123",  
+    "description": "NutriHarvest Brown Rice 1kg offers a pure, non-GMO grain harvested from sustainably managed paddies. The rice is milled to retain the bran and germ, delivering a nutty flavor and a chewy texture ideal for pilafs, risottos, and side dishes. Packaged in a resealable, recyclable paper pouch, the product maintains freshness and extends shelf life up to 24 months when stored in a cool, dry place. The 1‑kilogram bag provides a generous portion for families or meal‑prep enthusiasts, supporting a balanced diet rich in fiber and essential minerals. No artificial additives or preservatives are used, making it suitable for health‑conscious consumers and those following gluten‑free or low‑sodium meal plans.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 30,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 1.2,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": null,  
+        "applicable": false  
+      },  
+      "materials": [  
+        "rice",  
+        "plastic",  
+        "paper"  
+      ],  
+      "color": "off-white",  
+      "capacity": {  
+        "value": 1,  
+        "unit": "kg",  
+        "applicable": true  
+      },  
+      "compatibility": [  
+        "stovetop",  
+        "microwave",  
+        "oven"  
+      ]  
+    },  
+    "warranty_months": 0,  
+    "country_of_origin": "India",  
+    "release_date": "2025-10-15",  
+    "price": {  
+      "amount": 4.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "FreshMart Wholesale",  
+      "rating": 4.3,  
+      "location": "Mumbai, India"  
+    },  
+    "tags": [  
+      "brown rice",  
+      "organic",  
+      "dry goods",  
+      "non-perishable",  
+      "whole grain"  
+    ]  
+  }  
+}

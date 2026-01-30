@@ -1,0 +1,66 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "40",  
+    "category": "Garden & Outdoor",  
+    "subcategory": "Raised Beds",  
+    "name": "TerraBloom Raised Garden Bed Kit",  
+    "brand_name": "VerdantCraft",  
+    "model_number": "VC-RGB-01",  
+    "sku": "VC-RGB-01-RED",  
+    "synthetic_code": "7423920065944",  
+    "description": "The TerraBloom Raised Garden Bed Kit offers a ready‑to‑assemble solution for urban gardeners seeking a compact, sustainable planting space. Constructed from recycled composite lumber and stainless‑steel brackets, the kit supports a 120 cm by 80 cm bed height of 60 cm, providing ample root depth while keeping the structure lightweight at 25 kg. The forest‑green finish blends with any balcony or patio aesthetic. Included accessories feature a removable drainage tray, a set of seedling trays, and a detailed assembly guide. The kit is compatible with standard garden hoses, trellises, and vertical planters, making it ideal for herbs, vegetables, or ornamental plants in tight spaces.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 120,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 25,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "recycled composite lumber",  
+        "stainless steel"  
+      ],  
+      "color": "Forest Green",  
+      "capacity": {  
+        "value": null,  
+        "unit": "L",  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "garden hoses",  
+        "trellises",  
+        "vertical planters"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Vietnam",  
+    "release_date": "2024-10-15",  
+    "price": {  
+      "amount": 149.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "GreenGrow Supplies",  
+      "rating": 4.2,  
+      "location": "Hanoi, Vietnam"  
+    },  
+    "tags": [  
+      "raised bed",  
+      "garden kit",  
+      "urban gardening",  
+      "eco-friendly"  
+    ]  
+  }  
+}

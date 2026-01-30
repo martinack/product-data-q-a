@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Aurelio StrumMaster 12-String?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What materials are used in the construction of the Aurelio StrumMaster 12-String?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the Aurelio StrumMaster 12-String?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "When was the Aurelio StrumMaster 12-String released?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Aurelio StrumMaster 12-String?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the color of the Aurelio StrumMaster 12-String?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the recommended string gauge for this guitar?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Does the Aurelio StrumMaster 12-String come with a protective case?",
+    "question_type": "trap"
+  }
+]

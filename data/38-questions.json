@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the maximum power per socket that the Velara SmartPlug 2.0 supports?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the warranty period for the Velara SmartPlug 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which Wi‑Fi standard does the Velara SmartPlug 2.0 support?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the weight of the Velara SmartPlug 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Velara SmartPlug 2.0 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum current rating of the Velara SmartPlug 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Velara SmartPlug 2.0 have a built‑in temperature sensor?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the return policy period for the Velara SmartPlug 2.0?",
+    "question_type": "trap"
+  }
+]

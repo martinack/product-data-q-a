@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the Pawsome AquaGuard Water Bowl?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the diameter of the Pawsome AquaGuard Water Bowl?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the Pawsome AquaGuard Water Bowl?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Pawsome AquaGuard Water Bowl in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Pawsome AquaGuard Water Bowl manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the serial number of the Pawsome AquaGuard Water Bowl?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Is the Pawsome AquaGuard Water Bowl microwave safe?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the recommended cleaning temperature for the Pawsome AquaGuard Water Bowl?",
+    "question_type": "trap"
+  }
+]

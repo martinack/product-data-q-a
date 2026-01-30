@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the Aurelio FlexiTrip 1500?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What are the lock height options for the Aurelio FlexiTrip 1500 tripod?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What materials are used in the frame and legs of the Aurelio FlexiTrip 1500?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What type of head does the Aurelio FlexiTrip 1500 tripod have?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is included in the packaging of the Aurelio FlexiTrip 1500?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the weight of the Aurelio FlexiTrip 1500?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "How much does the Aurelio FlexiTrip 1500 cost?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Does the Aurelio FlexiTrip 1500 come in any colors other than black?",
+    "question_type": "trap"
+  }
+]

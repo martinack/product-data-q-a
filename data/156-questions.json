@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the NurtureNest Crib Mattress 75cm?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the NurtureNest Crib Mattress 75cm?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the price of the NurtureNest Crib Mattress 75cm and in which currency?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How long is the warranty period for the NurtureNest Crib Mattress 75cm?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Which country is the NurtureNest Crib Mattress 75cm manufactured in?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the CPU model of the NurtureNest Crib Mattress 75cm?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the NurtureNest Crib Mattress 75cm have a built‑in heating element?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the estimated delivery time for the NurtureNest Crib Mattress 75cm?",
+    "question_type": "trap"
+  }
+]

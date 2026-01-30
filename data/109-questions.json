@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the VividTrail Solar Lantern 200?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What materials are used in the construction of the lantern?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the power rating of the lantern?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for this product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the VividTrail Solar Lantern 200 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the lantern have a built‑in rechargeable battery?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum runtime of the lantern on a full charge?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is there a quick‑release mechanism for attaching the lantern to a tent?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the Velara DashMate 360?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the power rating of the Velara DashMate 360?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "In which country was the Velara DashMate 360 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the weight of the Velara DashMate 360?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Velara DashMate 360 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period in months for the Velara DashMate 360?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Velara DashMate 360 support wireless charging?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the exact release date of the Velara DashMate 360?",
+    "question_type": "trap"
+  }
+]

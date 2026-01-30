@@ -1,0 +1,63 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "100000000001",  
+    "category": "Fitness & Health",  
+    "subcategory": "Yoga Mat",  
+    "name": "VitaFlex Pro 6mm Mat",  
+    "brand_name": "VitaFlex",  
+    "model_number": "VF-P6",  
+    "sku": "VITAFLEX-P6-RED",  
+    "synthetic_code": "9876543210987",  
+    "description": "The VitaFlex Pro 6mm Mat is engineered for both beginners and seasoned practitioners seeking stability and comfort. Its 6mm thickness offers gentle cushioning for joints while maintaining a firm surface for balance. Constructed from premium TPE, the mat is lightweight yet durable, resisting wear from daily use. The non‑slip rubber backing prevents slippage during dynamic poses, and the breathable surface keeps sweat at bay. Available in Deep Charcoal, the design features a subtle geometric pattern that adds visual appeal without distraction. Ideal for yoga, Pilates, and general floor workouts, this mat delivers performance and style in a single, eco‑friendly package.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 180,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 2.5,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "TPE",  
+        "non-slip rubber backing"  
+      ],  
+      "color": "Deep Charcoal",  
+      "capacity": {  
+        "value": null,  
+        "unit": null,  
+        "applicable": false  
+      },  
+      "compatibility": []  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Thailand",  
+    "release_date": "2024-11-15",  
+    "price": {  
+      "amount": 39.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "FitGear Hub",  
+      "rating": 4.3,  
+      "location": "Berlin, Germany"  
+    },  
+    "tags": [  
+      "yoga",  
+      "mat",  
+      "non-slip",  
+      "6mm",  
+      "eco-friendly"  
+    ]  
+  }  
+}

@@ -1,0 +1,67 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "104",  
+    "category": "Smart Home",  
+    "subcategory": "Smart Thermostat",  
+    "name": "Veridian ThermoSense 3.0",  
+    "brand_name": "Veridian",  
+    "model_number": "VTS-3.0",  
+    "sku": "VER-TM3-THM",  
+    "synthetic_code": "1234567890123",  
+    "description": "The Veridian ThermoSense 3.0 is a next‑generation smart thermostat designed for residential HVAC systems. It features a sleek touch display, adaptive learning algorithms, and multi‑zone control that adjusts temperature based on occupancy and weather forecasts. The unit supports Wi‑Fi 5, Bluetooth 5.0, and Zigbee for seamless integration with existing smart home hubs. Users can set schedules, monitor energy usage, and receive maintenance alerts through a companion app. The thermostat’s low‑power design draws under 2 W when idle, while the stainless steel housing protects against dust and moisture. With its intuitive interface and energy‑saving modes, the ThermoSense 3.0 helps reduce utility costs without compromising comfort.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 15,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 0.45,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 2,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "Stainless steel",  
+        "Polycarbonate"  
+      ],  
+      "color": "Matte Black",  
+      "capacity": {  
+        "value": null,  
+        "unit": "pieces",  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "Wi‑Fi 5",  
+        "Bluetooth 5.0",  
+        "Zigbee"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Thailand",  
+    "release_date": "2025-04-15",  
+    "price": {  
+      "amount": 149.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "HomeTech Solutions",  
+      "rating": 4.7,  
+      "location": "London, UK"  
+    },  
+    "tags": [  
+      "smart thermostat",  
+      "wifi",  
+      "zigbee",  
+      "energy",  
+      "eco-friendly"  
+    ]  
+  }  
+}

@@ -1,0 +1,67 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "25",  
+    "category": "Sports & Outdoors",  
+    "subcategory": "Camping Gear",  
+    "name": "TrailMate Portable Stove",  
+    "brand_name": "TrailMate",  
+    "model_number": "TM-PST-01",  
+    "sku": "TRM-PST-01-RED",  
+    "synthetic_code": "9876543210123",  
+    "description": "TrailMate Portable Stove delivers reliable, lightweight cooking power for hikers and campers. Designed with a compact aluminum frame and stainless‑steel cooking surface, the stove can be powered directly from a standard 12‑V car adapter or a 120‑V household outlet via a USB‑C adapter. It features a quick‑start ignition system, adjustable flame control, and a spill‑proof fuel reservoir. The integrated heat‑shield protects the user from high temperatures, while the fold‑away legs provide stability on uneven terrain. With a 1200‑W output and a 1.5‑L fuel capacity, the stove can boil water in under five minutes, making it ideal for backpacking meals, emergency kits, or weekend getaways.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 25,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 1.8,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 1200,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "Aluminum",  
+        "Stainless Steel",  
+        "Plastic"  
+      ],  
+      "color": "Midnight Black",  
+      "capacity": {  
+        "value": 1.5,  
+        "unit": "L",  
+        "applicable": true  
+      },  
+      "compatibility": [  
+        "12V Car Adapter",  
+        "USB‑C Power Adapter"  
+      ]  
+    },  
+    "warranty_months": 12,  
+    "country_of_origin": "China",  
+    "release_date": "2024-10-15",  
+    "price": {  
+      "amount": 79.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "Outback Gear Co.",  
+      "rating": 4.3,  
+      "location": "Denver, USA"  
+    },  
+    "tags": [  
+      "camping",  
+      "portable stove",  
+      "outdoor",  
+      "electric",  
+      "compact"  
+    ]  
+  }  
+}

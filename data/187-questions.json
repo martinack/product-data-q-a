@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the TerraSpice Organic Turmeric Powder 250g?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which country is the TerraSpice Organic Turmeric Powder 250g manufactured in?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the price of the TerraSpice Organic Turmeric Powder 250g in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the dimension of the TerraSpice Organic Turmeric Powder 250g packaging?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Which seller is offering the TerraSpice Organic Turmeric Powder 250g?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the expiration date of the TerraSpice Organic Turmeric Powder 250g?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the TerraSpice Organic Turmeric Powder 250g contain any allergens?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the recommended storage temperature for the TerraSpice Organic Turmeric Powder 250g?",
+    "question_type": "trap"
+  }
+]

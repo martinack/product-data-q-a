@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the power consumption of the NurtureNest SleepSoothe 4-Panel Night Light?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the NurtureNest SleepSoothe 4-Panel Night Light?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the NurtureNest SleepSoothe 4-Panel Night Light?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the release date of the NurtureNest SleepSoothe 4-Panel Night Light?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the NurtureNest SleepSoothe 4-Panel Night Light in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum brightness level in lumens of the NurtureNest SleepSoothe 4-Panel Night Light?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What type of battery does the NurtureNest SleepSoothe 4-Panel Night Light use?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the return policy for the NurtureNest SleepSoothe 4-Panel Night Light?",
+    "question_type": "trap"
+  }
+]

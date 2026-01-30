@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the Aurelio Radiance Mask 5% Vitamin C?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How much does the Aurelio Radiance Mask 5% Vitamin C cost in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the Aurelio Radiance Mask 5% Vitamin C in kilograms?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the capacity of the Aurelio Radiance Mask 5% Vitamin C in liters?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "When was the Aurelio Radiance Mask 5% Vitamin C released?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the expiration date of the Aurelio Radiance Mask 5% Vitamin C?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Aurelio Radiance Mask 5% Vitamin C contain any allergens?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the recommended storage temperature for the Aurelio Radiance Mask 5% Vitamin C?",
+    "question_type": "trap"
+  }
+]

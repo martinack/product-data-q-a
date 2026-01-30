@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Aurelio LabGlass 12-Piece Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many 250 mL beakers are included in the set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for this product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Aurelio LabGlass 12-Piece Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Which materials are used to make the components of this glassware set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the set include a carrying case?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum temperature the glassware can withstand?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the set dishwasher safe?",
+    "question_type": "trap"
+  }
+]

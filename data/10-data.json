@@ -1,0 +1,68 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "10",  
+    "category": "Smart Home",  
+    "subcategory": "Smart Thermostat",  
+    "name": "AuroraSense ThermoControl 2.0",  
+    "brand_name": "AuroraSense",  
+    "model_number": "AS-TC20",  
+    "sku": "AUR-TC20-WHT",  
+    "synthetic_code": "9781234567890",  
+    "description": "The AuroraSense ThermoControl 2.0 offers precise temperature regulation for homes and small offices. Its sleek 12 cm square body houses a high‑resolution touch display and a built‑in sensor array that monitors ambient temperature, humidity, and air quality. Users can set schedules via the companion app, which syncs over Wi‑Fi or Zigbee, and the unit supports voice assistants through Bluetooth. Energy‑saving mode reduces consumption by up to 30 % during idle periods. Energy‑saving mode reduces consumption by up to 30 % during idle periods. The thermostat’s ceramic heating element delivers rapid warmth, while a silicone seal prevents drafts. Designed for easy wall mounting, the device includes a universal mounting bracket and a battery backup for power outages.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 12,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 1.5,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 15,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "ABS plastic",  
+        "ceramic",  
+        "silicone"  
+      ],  
+      "color": "White",  
+      "capacity": {  
+        "value": null,  
+        "unit": null,  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "Wi‑Fi 802.11b/g/n",  
+        "Zigbee 3.0",  
+        "Bluetooth 5.0"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "China",  
+    "release_date": "2024-12-15",  
+    "price": {  
+      "amount": 129.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "HomeTech Hub",  
+      "rating": 4.7,  
+      "location": "Berlin, Germany"  
+    },  
+    "tags": [  
+      "smart thermostat",  
+      "Wi‑Fi",  
+      "energy saving",  
+      "temperature control",  
+      "voice compatible"  
+    ]  
+  }  
+}

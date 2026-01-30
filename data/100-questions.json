@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the height of the TerraSprout 4‑Tier Vertical Planter?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many tiers does the TerraSprout 4‑Tier Vertical Planter have?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the TerraSprout 4‑Tier Vertical Planter?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which materials are used to construct the TerraSprout 4‑Tier Vertical Planter?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the TerraSprout 4‑Tier Vertical Planter in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the TerraSprout 4‑Tier Vertical Planter come with a 24‑month warranty?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the power consumption of the TerraSprout 4‑Tier Vertical Planter in watts?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the TerraSprout 4‑Tier Vertical Planter suitable for use in a greenhouse?",
+    "question_type": "trap"
+  }
+]

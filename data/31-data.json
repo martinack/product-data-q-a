@@ -1,0 +1,65 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "31",  
+    "category": "Beauty & Personal Care",  
+    "subcategory": "Hair Styling Tools",  
+    "name": "SilkGlide Ionic Hair Dryer",  
+    "brand_name": "Velora",  
+    "model_number": "VSG-DR-01",  
+    "sku": "VEL-SILKGLIDE-01",  
+    "synthetic_code": "1234567890123",  
+    "description": "The SilkGlide Ionic Hair Dryer offers a lightweight yet powerful solution for daily styling. Its ergonomic handle and 1200‑W heating element provide rapid drying while the integrated ionic chamber reduces static and frizz. The ceramic-coated barrel ensures even heat distribution, and the adjustable speed settings allow customization for fine to coarse hair. Designed with a quiet motor, it is suitable for use in salons or at home. The device features a 30‑cm barrel, a 5‑cm diameter, and a total length of 35 cm, making it easy to maneuver around the head. Its midnight black finish adds a subtle professional look.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 35,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 0.8,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 1200,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "ABS",  
+        "Ceramic"  
+      ],  
+      "color": "Midnight Black",  
+      "capacity": {  
+        "value": null,  
+        "unit": "L",  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "All hair types"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Vietnam",  
+    "release_date": "2024-11-01",  
+    "price": {  
+      "amount": 79.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "GlowEssence",  
+      "rating": 4.5,  
+      "location": "Ho Chi Minh City, Vietnam"  
+    },  
+    "tags": [  
+      "hair",  
+      "drying",  
+      "ionic",  
+      "black",  
+      "drybrush"  
+    ]  
+  }  
+}

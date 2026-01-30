@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the price of the Nexora ConnectPro 7-in-1 Hub?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many USB‑A 3.0 ports are included in the hub?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the power input capability of the hub?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the weight of the hub?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Nexora ConnectPro 7-in-1 Hub manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum data transfer speed of the HDMI output port?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the hub support wireless charging?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the battery capacity of the hub?",
+    "question_type": "trap"
+  }
+]

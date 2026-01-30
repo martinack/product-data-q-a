@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the length of the FlexiCore 10 Resistance Band Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the FlexiCore 10 Resistance Band Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which materials are used to make the FlexiCore 10 Resistance Band Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the FlexiCore 10 Resistance Band Set manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the FlexiCore 10 Resistance Band Set in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum power consumption of the FlexiCore 10 Resistance Band Set?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the warranty length in days for the FlexiCore 10 Resistance Band Set?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the product's capacity in liters?",
+    "question_type": "trap"
+  }
+]

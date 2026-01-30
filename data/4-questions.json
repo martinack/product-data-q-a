@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the Aurelio MultiComp Desk Organizer?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Aurelio MultiComp Desk Organizer?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for this product in months?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How much does the Aurelio MultiComp Desk Organizer cost and in which currency?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What materials are used to construct the Aurelio MultiComp Desk Organizer?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the power consumption of the Aurelio MultiComp Desk Organizer in watts?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the capacity of the Aurelio MultiComp Desk Organizer in liters?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the Aurelio MultiComp Desk Organizer compatible with tablet surfaces?",
+    "question_type": "trap"
+  }
+]

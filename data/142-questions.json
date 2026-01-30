@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the product name and model number of the NurtureNest SecureView 200?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How long is the battery life of the NurtureNest SecureView 200 on a single charge?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What are the dimensions and weight of the NurtureNest SecureView 200?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which connectivity options are supported by the NurtureNest SecureView 200?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the NurtureNest SecureView 200 and in which currency is it listed?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the NurtureNest SecureView 200 support 5G connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the battery capacity of the NurtureNest SecureView 200 in milliampere‑hours (mAh)?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the warranty coverage for accidental damage on the NurtureNest SecureView 200?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the length of the BarkBite Durable Chew Toy?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What materials are used to make the BarkBite Durable Chew Toy?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the BarkBite Durable Chew Toy?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which dogs is the BarkBite Durable Chew Toy compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price and currency of the BarkBite Durable Chew Toy?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the recommended age for the BarkBite Durable Chew Toy?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Is the BarkBite Durable Chew Toy machine washable?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the exact color code of the BarkBite Durable Chew Toy?",
+    "question_type": "trap"
+  }
+]

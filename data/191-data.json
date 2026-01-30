@@ -1,0 +1,67 @@
+{ 
+  "meta": { 
+    "version": "1.0", 
+    "description": "Synthetic product data for research use." 
+  }, 
+  "product": { 
+    "product_id": "192", 
+    "category": "Photography", 
+    "subcategory": "Camera Tripod", 
+    "name": "Aurelio FlexiTrip 1500", 
+    "brand_name": "Aurelio", 
+    "model_number": "AF-TRIP-1500", 
+    "sku": "AUR-FLEX-TRIP-1500", 
+    "synthetic_code": "1234567890123", 
+    "description": "The Aurelio FlexiTrip 1500 is a lightweight yet sturdy tripod designed for photographers who demand flexibility and reliability. Its aluminum alloy frame offers durability while the carbon‑fiber legs provide a smooth, vibration‑free extension. The tripod can lock into place at 120 cm, 150 cm, 180 cm, or 210 cm, making it suitable for studio, street, or outdoor shooting. A quick‑release plate and a 180° rotating head allow rapid camera changes and panoramic framing. The black finish blends with any gear, and the included carrying case keeps it protected during travel. Ideal for DSLR, mirrorless, and action cameras, it delivers a stable platform for sharp images and steady video." 
+  }, 
+  "specs": { 
+    "dimensions": { 
+      "value": 120, 
+      "unit": "cm" 
+    }, 
+    "weight": { 
+      "value": 2.5, 
+      "unit": "kg" 
+    }, 
+    "power": { 
+      "value": null, 
+      "unit": null, 
+      "applicable": false 
+    }, 
+    "materials": [ 
+      "aluminum alloy", 
+      "carbon fiber" 
+    ], 
+    "color": "black", 
+    "capacity": { 
+      "value": null, 
+      "unit": null, 
+      "applicable": false 
+    }, 
+    "compatibility": [ 
+      "DSLR", 
+      "mirrorless", 
+      "action camera" 
+    ] 
+  }, 
+  "warranty_months": 24, 
+  "country_of_origin": "Germany", 
+  "release_date": "2025-08-15", 
+  "price": { 
+    "amount": 149.99, 
+    "currency": "USD" 
+  }, 
+  "stock_status": "low_stock", 
+  "seller": { 
+    "name": "PhotoGear Hub", 
+    "rating": 4.3, 
+    "location": "Berlin, Germany" 
+  }, 
+  "tags": [ 
+    "tripod", 
+    "camera", 
+    "stabilizer", 
+    "portable", 
+    "black" 
+  ] 
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "124",
+    "category": "Smart Home",
+    "subcategory": "Smart Switch",
+    "name": "Aurelio SmartSwitch 5.0",
+    "brand_name": "Aurelio",
+    "model_number": "AS-5.0",
+    "sku": "AUR-SS5-BLK",
+    "synthetic_code": "9781234567890",
+    "description": "The Aurelio SmartSwitch 5.0 is a compact, wall‑mounted device that transforms any standard outlet into a controllable smart plug. Designed for modern homes, it supports both Wi‑Fi 802.11b/g/n and Zigbee 3.0 protocols, enabling seamless integration with a wide range of home‑automation hubs. The switch features a durable ABS housing with a brushed metal finish, a single on/off button, and an LED status indicator. Users can schedule power cycles, monitor energy usage, and create scenes via the companion app. The device draws a maximum of 5 W when idle and is rated for 16 A, making it suitable for lamps, fans, and small appliances. Its low‑profile design fits easily into any décor, providing convenience without sacrificing style.",
+    "specs": {
+      "dimensions": {
+        "value": 10,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.2,
+        "unit": "kg"
+      },
+      "power": {
+        "value": 5,
+        "unit": "W",
+        "applicable": true
+      },
+      "materials": [
+        "ABS",
+        "Brushed Metal"
+      ],
+      "color": "Black",
+      "capacity": {
+        "value": null,
+        "unit": "L",
+        "applicable": false
+      },
+      "compatibility": [
+        "Wi‑Fi 802.11b/g/n",
+        "Zigbee 3.0"
+      ]
+    },
+    "warranty_months": 12,
+    "country_of_origin": "Vietnam",
+    "release_date": "2024-10-15",
+    "price": {
+      "amount": 39.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "HomeTechMart",
+      "rating": 4.7,
+      "location": "San Francisco, US"
+    },
+    "tags": [
+      "smart",
+      "switch",
+      "wifi",
+      "zigbee",
+      "homeautomation"
+    ]
+  }
+}

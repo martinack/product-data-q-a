@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "165",
+    "category": "Beauty & Personal Care",
+    "subcategory": "Hair Styling Tool",
+    "name": "Velora CurlWave 3-in-1 Styling Iron",
+    "brand_name": "Velora",
+    "model_number": "VCW-3",
+    "sku": "VEL-CUR-3IN1-BLUE",
+    "synthetic_code": "7489123456789",
+    "description": "The Velora CurlWave 3‑in‑1 Styling Iron offers versatile hair care with a ceramic plate, a flat iron head, and a curling wand. It features adjustable heat settings up to 1200 W, a quick‑heat timer, and an auto‑shut‑off safety mechanism. The ergonomic handle is made from ABS plastic and is heat‑resistant, providing a comfortable grip during styling sessions. Designed for all hair types, the CurlWave delivers smooth curls, sleek straightening, and gentle heat styling without excessive drying. The unit is lightweight, compact, and suitable for both home use and travel.",
+    "specs": {
+      "dimensions": {
+        "value": 25,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.6,
+        "unit": "kg"
+      },
+      "power": {
+        "value": 1200,
+        "unit": "W",
+        "applicable": true
+      },
+      "materials": [
+        "ceramic plate",
+        "ABS plastic"
+      ],
+      "color": "blue",
+      "capacity": {
+        "value": null,
+        "unit": "pieces",
+        "applicable": false
+      },
+      "compatibility": [
+        "adjustable heat settings",
+        "auto shut‑off",
+        "heat‑resistant handle"
+      ]
+    },
+    "warranty_months": 12,
+    "country_of_origin": "China",
+    "release_date": "2025-08-15",
+    "price": {
+      "amount": 49.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "BeautyBazaar",
+      "rating": 4.4,
+      "location": "London, UK"
+    },
+    "tags": [
+      "curling iron",
+      "hair styling",
+      "3-in-1",
+      "blue"
+    ]
+  }
+}

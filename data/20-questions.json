@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the length and width of the GlowWave Ceramic Hair Straightener?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the power rating of the GlowWave Ceramic Hair Straightener?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What materials are used in the GlowWave Ceramic Hair Straightener?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the GlowWave Ceramic Hair Straightener?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the GlowWave Ceramic Hair Straightener?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the straightener have an automatic shut‑off feature?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum temperature setting of the straightener?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the return policy for this product?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the battery life of the VectraTech GlidePro 2.0 on a single charge?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which charging port does the VectraTech GlidePro 2.0 use?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the VectraTech GlidePro 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the VectraTech GlidePro 2.0 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the VectraTech GlidePro 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum DPI setting of the VectraTech GlidePro 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the VectraTech GlidePro 2.0 support wired connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the price of the VectraTech GlidePro 2.0 in euros?",
+    "question_type": "trap"
+  }
+]

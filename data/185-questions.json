@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of GreenHarvest Organic Chickpeas 400g?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "In which country was GreenHarvest Organic Chickpeas 400g produced?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the price of GreenHarvest Organic Chickpeas 400g in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the brand name of GreenHarvest Organic Chickpeas 400g?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the size dimension of the packaging of GreenHarvest Organic Chickpeas 400g?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the expiry date of GreenHarvest Organic Chickpeas 400g?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the CPU model used in GreenHarvest Organic Chickpeas 400g?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the shipping cost for GreenHarvest Organic Chickpeas 400g?",
+    "question_type": "trap"
+  }
+]

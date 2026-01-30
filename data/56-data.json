@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "56",
+    "category": "Automotive Accessories",
+    "subcategory": "Dashboard Organizer",
+    "name": "Velara DashMate 360",
+    "brand_name": "Velara",
+    "model_number": "VDM-360",
+    "sku": "VEL-DASH-360-RED",
+    "synthetic_code": "7424109876543",
+    "description": "The Velara DashMate 360 is a compact dashboard organizer designed for modern vehicles. Its modular layout features two large compartments for phones, cards, and small tools, and a dedicated slot for a 12‑V power adapter. A built‑in USB‑A port provides quick charging for smartphones, while a magnetic closure keeps contents secure during turns. The organizer is constructed from durable polypropylene and a soft silicone lining that protects against scratches. Lightweight yet sturdy, it fits most standard dashboards without blocking air vents or mirrors. Ideal for commuters and road‑trippers alike, the DashMate 360 offers a tidy solution for everyday essentials.",
+    "specs": {
+      "dimensions": {
+        "value": 30,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.5,
+        "unit": "kg"
+      },
+      "power": {
+        "value": 5,
+        "unit": "W",
+        "applicable": true
+      },
+      "materials": [
+        "polypropylene",
+        "silicone"
+      ],
+      "color": "Midnight Black",
+      "capacity": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "compatibility": [
+        "USB‑A",
+        "USB‑C",
+        "Car 12V"
+      ]
+    },
+    "warranty_months": 12,
+    "country_of_origin": "Vietnam",
+    "release_date": "2024-09-15",
+    "price": {
+      "amount": 39.99,
+      "currency": "USD"
+    },
+    "stock_status": "low_stock",
+    "seller": {
+      "name": "AutoGear Hub",
+      "rating": 4.2,
+      "location": "Detroit, US"
+    },
+    "tags": [
+      "dashboard organizer",
+      "USB charger",
+      "car accessory",
+      "magnetic closure"
+    ]
+  }
+}

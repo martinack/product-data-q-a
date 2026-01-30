@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the Velara CoolPad 2025?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Velara CoolPad 2025?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the power consumption of the Velara CoolPad 2025?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which materials are used in the construction of the Velara CoolPad 2025?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Velara CoolPad 2025?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery capacity of the Velara CoolPad 2025?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Velara CoolPad 2025 support Bluetooth connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum laptop weight it can support?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "134",
+    "category": "Sports & Outdoors",
+    "subcategory": "Backpacks",
+    "name": "TrailBlaze TrekPro 22L",
+    "brand_name": "TrailBlaze",
+    "model_number": "TB-22L",
+    "sku": "TRB-TREK22-RED",
+    "synthetic_code": "7591234567890",
+    "description": "The TrailBlaze TrekPro 22L is a rugged hiking backpack designed for day trips and multi‑day excursions. Constructed from high‑tenacity nylon and reinforced polyester panels, it offers a 22‑liter capacity that comfortably holds a sleeping bag, tent, and gear. The pack features a 2.5‑kg weight, a padded back panel, and a ventilated mesh frame that distributes load evenly. A single main compartment with a zippered side pocket, a hydration reservoir sleeve, and adjustable shoulder straps provide versatility and comfort. The Crimson Red finish is water‑resistant, and the durable zippers withstand frequent use. Ideal for backpackers, trekkers, and outdoor enthusiasts seeking a reliable, lightweight companion.",
+    "specs": {
+      "dimensions": {
+        "value": 70,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 2.5,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "Nylon",
+        "Polyester",
+        "Zipper"
+      ],
+      "color": "Crimson Red",
+      "capacity": {
+        "value": 22,
+        "unit": "L",
+        "applicable": true
+      },
+      "compatibility": [
+        "Water Bottle",
+        "Sleeping Bag",
+        "Tent"
+      ]
+    },
+    "warranty_months": 24,
+    "country_of_origin": "Vietnam",
+    "release_date": "2025-08-15",
+    "price": {
+      "amount": 129.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "PeakGear Traders",
+      "rating": 4.5,
+      "location": "Denver, US"
+    },
+    "tags": [
+      "hiking",
+      "backpack",
+      "outdoor",
+      "durable",
+      "waterproof"
+    ]
+  }
+}

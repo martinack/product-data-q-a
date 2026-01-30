@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "141",
+    "category": "Computers & Accessories",
+    "subcategory": "External Hard Drive",
+    "name": "VortexTech Titan 2TB SSD",
+    "brand_name": "VortexTech",
+    "model_number": "VT-2TB",
+    "sku": "VTX-2TB-SSD",
+    "synthetic_code": "7543210987654",
+    "description": "The VortexTech Titan 2TB SSD is a high‑performance portable storage solution designed for professionals and creatives who demand speed and reliability. Encased in a lightweight aluminum shell, the drive delivers read speeds up to 550 MB/s and write speeds up to 520 MB/s, making large file transfers and backup operations swift. Its 2 TB capacity accommodates extensive media libraries, project files, and system backups. The Titan is compatible with USB 3.0 and USB 3.1 interfaces, supporting both Windows and macOS platforms without additional drivers. A built‑in 3‑year warranty and a sleek matte black finish make it a durable and stylish addition to any mobile workstation.",
+    "specs": {
+      "dimensions": {
+        "value": 10.5,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.25,
+        "unit": "kg"
+      },
+      "power": {
+        "value": 5,
+        "unit": "W",
+        "applicable": true
+      },
+      "materials": [
+        "aluminum",
+        "plastic"
+      ],
+      "color": "black",
+      "capacity": {
+        "value": 2000,
+        "unit": "GB",
+        "applicable": true
+      },
+      "compatibility": [
+        "USB 3.0",
+        "USB 3.1",
+        "Windows 10/11",
+        "macOS 10.15+"
+      ]
+    },
+    "warranty_months": 24,
+    "country_of_origin": "China",
+    "release_date": "2025-10-01",
+    "price": {
+      "amount": 129.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "TechNova Hub",
+      "rating": 4.7,
+      "location": "San Jose, US"
+    },
+    "tags": [
+      "external hard drive",
+      "ssd",
+      "portable",
+      "2tb",
+      "usb3"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the ErgoCraft ComfortSeat 2026?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the warranty period for the ErgoCraft ComfortSeat 2026 in months?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "In which country was the ErgoCraft ComfortSeat 2026 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the ErgoCraft ComfortSeat 2026 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the color of the ErgoCraft ComfortSeat 2026?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the power consumption of the ErgoCraft ComfortSeat 2026?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum weight capacity of the ErgoCraft ComfortSeat 2026?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "When will the ErgoCraft ComfortSeat 2026 be back in stock?",
+    "question_type": "trap"
+  }
+]

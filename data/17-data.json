@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "18",
+    "category": "Sports & Outdoors",
+    "subcategory": "Backpacks",
+    "name": "Trailblaze Trek 20L",
+    "brand_name": "Vistara",
+    "model_number": "VT-20",
+    "sku": "VIST-TRK-20-RED",
+    "synthetic_code": "7423912345678",
+    "description": "The Trailblaze Trek 20L Backpack is engineered for weekend hikers and day‑trippers who need a lightweight, durable pack. The 60‑cm body holds a 20‑liter main compartment, a front zip pocket, and a dedicated hydration sleeve that fits a standard 1.5‑liter water bladder. Constructed from high‑strength polyester and nylon with reinforced stitching, the pack offers a water‑resistant finish and adjustable compression straps that keep gear snug during steep climbs. A padded back panel and a breathable mesh shoulder straps provide comfort on long routes. The backpack also features a reflective strip for low‑light visibility and a detachable daypack for shorter excursions. Ideal for trekking, camping, or everyday commuting.",
+    "specs": {
+      "dimensions": {
+        "value": 60,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.8,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "polyester",
+        "nylon"
+      ],
+      "color": "Crimson Red",
+      "capacity": {
+        "value": 20,
+        "unit": "L",
+        "applicable": true
+      },
+      "compatibility": [
+        "waterproof",
+        "compression straps"
+      ]
+    },
+    "warranty_months": 24,
+    "country_of_origin": "Vietnam",
+    "release_date": "2024-10-01",
+    "price": {
+      "amount": 79.99,
+      "currency": "USD"
+    },
+    "stock_status": "low_stock",
+    "seller": {
+      "name": "GearHub",
+      "rating": 4.4,
+      "location": "Denver, US"
+    },
+    "tags": [
+      "hiking",
+      "backpack",
+      "20L",
+      "waterproof",
+      "compression"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the model number of the Quantix Digital ThermoProbe?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many minutes can the Quantix Digital ThermoProbe's battery last on a single charge?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the Quantix Digital ThermoProbe in grams?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What are the dimensions of the Quantix Digital ThermoProbe?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the Quantix Digital ThermoProbe?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery capacity in milliampere-hours (mAh) of the Quantix Digital ThermoProbe?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Quantix Digital ThermoProbe support Wi‑Fi connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum operating altitude for the Quantix Digital ThermoProbe?",
+    "question_type": "trap"
+  }
+]

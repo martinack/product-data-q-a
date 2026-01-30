@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the TerraGear TrailBlaze 30L Hiking Pack?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which materials are used in the TerraGear TrailBlaze 30L Hiking Pack?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "In which country was the TerraGear TrailBlaze 30L Hiking Pack manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the TerraGear TrailBlaze 30L Hiking Pack in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the weight of the TerraGear TrailBlaze 30L Hiking Pack in kilograms?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum weight the TerraGear TrailBlaze 30L Hiking Pack can support?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the TerraGear TrailBlaze 30L Hiking Pack come with a built‑in hydration reservoir?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the battery life of the TerraGear TrailBlaze 30L Hiking Pack?",
+    "question_type": "trap"
+  }
+]

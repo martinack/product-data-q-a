@@ -1,0 +1,67 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "20",  
+    "category": "Computers & Accessories",  
+    "subcategory": "Laptop Cooling Pad",  
+    "name": "Aurevio ChillPad X1",  
+    "brand_name": "Aurevio",  
+    "model_number": "ACX-1",  
+    "sku": "AV-CPX1-RED",  
+    "synthetic_code": "7423987654321",  
+    "description": "The Aurevio ChillPad X1 delivers efficient cooling for laptops up to 17 inches, using a dual‑fan system powered by a 5‑W USB‑C or USB‑A adapter. Its 30 cm × 20 cm surface is covered with a heat‑conductive silicone pad that maintains a comfortable distance from the device, preventing overheating during intensive tasks. The aluminum alloy base offers structural stability while keeping the overall weight at 0.5 kg, making it easy to transport. A built‑in LED indicator shows fan status, and the adjustable fan speed can be controlled via a small on‑board button. The ChillPad X1 is compatible with most laptops and is ideal for office, travel, and gaming setups.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 30,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 0.5,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 5,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "aluminum alloy",  
+        "silicone rubber"  
+      ],  
+      "color": "Slate Gray",  
+      "capacity": {  
+        "value": null,  
+        "unit": null,  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "Laptop 8-17 inches",  
+        "USB-C",  
+        "USB-A"  
+      ]  
+    },  
+    "warranty_months": 12,  
+    "country_of_origin": "Vietnam",  
+    "release_date": "2024-09-01",  
+    "price": {  
+      "amount": 39.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "TechNova",  
+      "rating": 4.5,  
+      "location": "Berlin, Germany"  
+    },  
+    "tags": [  
+      "laptop cooling",  
+      "USB-C",  
+      "silicone",  
+      "aluminum",  
+      "portable"  
+    ]  
+  }  
+}

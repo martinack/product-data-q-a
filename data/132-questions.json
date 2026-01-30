@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the power consumption of the Quantix SpectraScan 300?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which interface does the Quantix SpectraScan 300 use for data transfer?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the Quantix SpectraScan 300?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the Quantix SpectraScan 300 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Quantix SpectraScan 300 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the serial number of the Quantix SpectraScan 300?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the battery capacity of the Quantix SpectraScan 300?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the operating temperature range of the Quantix SpectraScan 300?",
+    "question_type": "trap"
+  }
+]

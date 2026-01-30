@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the power rating of the SilkGlide Ionic Hair Dryer?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the SilkGlide Ionic Hair Dryer?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the SilkGlide Ionic Hair Dryer?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the SilkGlide Ionic Hair Dryer manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price and currency of the SilkGlide Ionic Hair Dryer?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the SilkGlide Ionic Hair Dryer have a built‑in timer?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum airflow speed of the SilkGlide Ionic Hair Dryer in meters per second?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the SilkGlide Ionic Hair Dryer CE certified?",
+    "question_type": "trap"
+  }
+]

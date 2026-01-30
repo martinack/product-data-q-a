@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the maximum extension length of the Aurelio Apex Tripod?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Aurelio Apex Tripod?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which materials are used in the construction of the Aurelio Apex Tripod?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which camera types is the Aurelio Apex Tripod compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the Aurelio Apex Tripod?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum load capacity of the Aurelio Apex Tripod?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the power consumption of the Aurelio Apex Tripod?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the return policy for the Aurelio Apex Tripod?",
+    "question_type": "trap"
+  }
+]

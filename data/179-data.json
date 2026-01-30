@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "180",
+    "category": "Grocery",
+    "subcategory": "Dry Goods",
+    "name": "NutriBlend Almond Butter 250g",
+    "brand_name": "NutriBlend",
+    "model_number": "NB-ALB-250",
+    "sku": "NB-ALB-250-GB",
+    "synthetic_code": "8456123984750",
+    "description": "NutriBlend Almond Butter 250g is a creamy, smooth spread crafted from 100% roasted almonds. The product offers a natural source of healthy fats, protein, and essential minerals, making it a convenient addition to breakfasts, snacks, or cooking. Packaged in a resealable glass jar, the butter retains freshness and flavor for extended periods without added preservatives. The 250‑gram portion is ideal for individual use or small households, providing a balanced portion of calories and nutrients. This spread is suitable for individuals seeking a dairy‑free, soy‑free, and gluten‑free alternative to traditional butter, and can be incorporated into baking, sauces, or simply spread on toast.",
+    "specs": {
+      "dimensions": {
+        "value": 20,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.3,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "materials": [
+        "plastic",
+        "aluminum lid"
+      ],
+      "color": "brown",
+      "capacity": {
+        "value": 0.25,
+        "unit": "kg",
+        "applicable": true
+      },
+      "compatibility": [
+        "standard jar lid"
+      ]
+    },
+    "warranty_months": 0,
+    "country_of_origin": "USA",
+    "release_date": "2025-05-01",
+    "price": {
+      "amount": 4.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "GroceryMart",
+      "rating": 4.2,
+      "location": "Chicago, USA"
+    },
+    "tags": [
+      "almond butter",
+      "nut butter",
+      "dry goods",
+      "non-perishable",
+      "250g"
+    ]
+  }
+}

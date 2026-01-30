@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the Pawsome GentleBrush 2‑Tone?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How much does the Pawsome GentleBrush 2‑Tone weigh?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What color is the Pawsome GentleBrush 2‑Tone?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What materials are used in the Pawsome GentleBrush 2‑Tone?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "How much does the Pawsome GentleBrush 2‑Tone cost?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Pawsome GentleBrush 2‑Tone have a battery life specification?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the warranty coverage for accidental damage on the Pawsome GentleBrush 2‑Tone?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum storage capacity of the Pawsome GentleBrush 2‑Tone?",
+    "question_type": "trap"
+  }
+]

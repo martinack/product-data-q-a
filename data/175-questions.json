@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the ChemGuard 200L Safety Cabinet in liters?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which materials are used in the construction of the ChemGuard 200L Safety Cabinet?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which country is the ChemGuard 200L Safety Cabinet manufactured in?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the ChemGuard 200L Safety Cabinet in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the ChemGuard 200L Safety Cabinet?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum temperature the digital temperature monitor can detect?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the weight of the ChemGuard 200L Safety Cabinet in pounds?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the serial number of the ChemGuard 200L Safety Cabinet?",
+    "question_type": "trap"
+  }
+]

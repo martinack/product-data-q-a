@@ -1,0 +1,17 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "194",  
+    "category": "Pet Supplies",  
+    "subcategory": "Automatic Pet Feeder",  
+    "name": "Pawsome AutoFeeder 2L",  
+    "brand_name": "Pawsome",  
+    "model_number": "PAF-2L",  
+    "sku": "PAWS-AUTO-2L-RED",  
+    "synthetic_code": "9876543210987",  
+    "description": "The Pawsome AutoFeeder 2L delivers a convenient, hands‑free feeding solution for dogs and cats. A programmable micro‑controller schedules up to 12 portions per day, while a built‑in 2‑liter reservoir supplies fresh kibble until refilled. The feeder’s stainless‑steel bowl and ABS housing resist chewing and accidental spills. A simple rotary dial adjusts portion size from 10 to 50 grams, and a low‑battery indicator alerts owners when the internal 5‑W power supply needs replacement. Compact yet robust, the unit fits easily on kitchen counters or pet‑friendly tables, keeping feeding times predictable and messes minimal."  
+  }  
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the power consumption of the Aurelio SmartSense 360° Air Quality Monitor?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the monitor in kilograms?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What color is the Aurelio SmartSense 360° Air Quality Monitor?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How long is the warranty period for this product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Where was the Aurelio SmartSense 360° Air Quality Monitor manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the monitor?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum temperature range the monitor can operate in?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What firmware version is installed on the device?",
+    "question_type": "trap"
+  }
+]

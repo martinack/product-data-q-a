@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the NurtureNest DreamCloud 3-Piece Crib Bedding Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many pieces are included in the NurtureNest DreamCloud 3-Piece Crib Bedding Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What materials are used to make the NurtureNest DreamCloud 3-Piece Crib Bedding Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the weight of the NurtureNest DreamCloud 3-Piece Crib Bedding Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the NurtureNest DreamCloud 3-Piece Crib Bedding Set in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the NurtureNest DreamCloud 3-Piece Crib Bedding Set have a power rating?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Is the NurtureNest DreamCloud 3-Piece Crib Bedding Set machine washable?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the shipping cost for the NurtureNest DreamCloud 3-Piece Crib Bedding Set?",
+    "question_type": "trap"
+  }
+]

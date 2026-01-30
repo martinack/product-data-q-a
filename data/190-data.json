@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "190",
+    "category": "Grocery",
+    "subcategory": "Snacks",
+    "name": "Velora Artisan Dark Chocolate 200g",
+    "brand_name": "Velora",
+    "model_number": "VA-DC-200",
+    "sku": "VEL-ART-DC-200",
+    "synthetic_code": "9876543210123",
+    "description": "Velora Artisan Dark Chocolate 200g offers a premium tasting experience with a deep cocoa flavor profile. The chocolate is crafted from sustainably sourced cocoa beans, refined sugar, cocoa butter, and a hint of natural vanilla. Each 200‑gram bar is wrapped in recyclable parchment, ensuring freshness and minimal environmental impact. The product is suitable for connoisseurs and casual snackers alike, providing a rich, bittersweet bite that pairs well with coffee or tea. The bar is free from artificial additives, dairy, and soy, making it suitable for vegan and allergy‑aware consumers. It delivers a satisfying indulgence while maintaining a commitment to quality and ethical sourcing.",
+    "specs": {
+      "dimensions": {
+        "value": 10,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.2,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "materials": [
+        "cocoa beans",
+        "sugar",
+        "cocoa butter",
+        "vanilla"
+      ],
+      "color": "dark brown",
+      "capacity": {
+        "value": 200,
+        "unit": "pieces",
+        "applicable": true
+      },
+      "compatibility": [
+        "none"
+      ]
+    },
+    "warranty_months": 12,
+    "country_of_origin": "Switzerland",
+    "release_date": "2025-11-01",
+    "price": {
+      "amount": 5.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "ChocoMart",
+      "rating": 4.7,
+      "location": "Zurich, Switzerland"
+    },
+    "tags": [
+      "dark chocolate",
+      "snack",
+      "organic",
+      "vegan-friendly",
+      "premium"
+    ]
+  }
+}

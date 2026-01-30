@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the combined power output of the Aurelio PowerPort 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which USB port types are supported by the Aurelio PowerPort 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the length of the power cable that comes with the charger?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How much does the Aurelio PowerPort 2.0 weigh?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Aurelio PowerPort 2.0 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty coverage for accidental damage on the Aurelio PowerPort 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Aurelio PowerPort 2.0 support wireless charging?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum operating temperature of the Aurelio PowerPort 2.0?",
+    "question_type": "trap"
+  }
+]

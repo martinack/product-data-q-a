@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the model number of the Veridian ThermoSense 3.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the power consumption of the thermostat when idle?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which communication protocols does the thermostat support?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the thermostat manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period in months for this product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the thermostat support voice control via Amazon Alexa?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum temperature range the thermostat can set?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is there a discount available for bulk orders of this thermostat?",
+    "question_type": "trap"
+  }
+]

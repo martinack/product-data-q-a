@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of EcoFresh Organic Quinoa 500g?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the price of EcoFresh Organic Quinoa 500g?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "From which country does EcoFresh Organic Quinoa 500g originate?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the shelf life of EcoFresh Organic Quinoa 500g?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What are the dimensions of the EcoFresh Organic Quinoa 500g pouch?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty duration in years for EcoFresh Organic Quinoa 500g?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the CPU model of EcoFresh Organic Quinoa 500g?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is EcoFresh Organic Quinoa 500g compatible with other products?",
+    "question_type": "trap"
+  }
+]

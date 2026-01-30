@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the length of the Velora ComfortSection 3–Seater?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Velora ComfortSection 3–Seater?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which materials are used in the construction of the Velora ComfortSection 3–Seater?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the Velora ComfortSection 3–Seater?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Velora ComfortSection 3–Seater manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the expected delivery time for the Velora ComfortSection 3–Seater?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum weight capacity of the Velora ComfortSection 3–Seater?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Does the Velora ComfortSection 3–Seater come with a user manual?",
+    "question_type": "trap"
+  }
+]

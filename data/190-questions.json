@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Velora Artisan Dark Chocolate 200g?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How long is the warranty period for this product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "In which country was the Velora Artisan Dark Chocolate 200g produced?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Velora Artisan Dark Chocolate 200g in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What materials are used to make the Velora Artisan Dark Chocolate 200g?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the expiration date of the Velora Artisan Dark Chocolate 200g?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the nutritional information per 100g for this chocolate?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the recommended storage temperature for the Velora Artisan Dark Chocolate 200g?",
+    "question_type": "trap"
+  }
+]

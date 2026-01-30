@@ -1,0 +1,63 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "111",  
+    "category": "Kitchenware",  
+    "subcategory": "Cutting Board",  
+    "name": "Aurelio Precision Bamboo Cutting Board",  
+    "brand_name": "Aurelio",  
+    "model_number": "AB-BCB-01",  
+    "sku": "AUR-BCB-01",  
+    "synthetic_code": "9876543210987",  
+    "description": "The Aurelio Precision Bamboo Cutting Board offers a durable, eco‑friendly surface for everyday kitchen tasks. Crafted from sustainably harvested bamboo, the board measures 35 cm by 25 cm and weighs 1.2 kg, providing a stable cutting area that resists warping. A silicone edge guard protects countertops and keeps the board from slipping during use. Its natural grain finish is easy to clean and dishwasher safe, while the smooth surface is gentle on knives. Ideal for slicing vegetables, herbs, and meats, the board supports both professional chefs and home cooks. The board’s lightweight design makes it easy to store in drawers or hang on a wall-mounted rack, combining functionality with a minimalist aesthetic.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 35,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 1.2,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "Bamboo",  
+        "Silicone"  
+      ],  
+      "color": "Natural Bamboo",  
+      "capacity": {  
+        "value": null,  
+        "unit": "pieces",  
+        "applicable": false  
+      },  
+      "compatibility": []  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Vietnam",  
+    "release_date": "2025-11-01",  
+    "price": {  
+      "amount": 39.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "CulinaryHub",  
+      "rating": 4.7,  
+      "location": "Chicago, US"  
+    },  
+    "tags": [  
+      "cutting board",  
+      "bamboo",  
+      "kitchen",  
+      "chef",  
+      "sustainable"  
+    ]  
+  }  
+}

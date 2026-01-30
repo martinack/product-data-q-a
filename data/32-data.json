@@ -1,0 +1,73 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "32",  
+    "category": "Computers & Accessories",  
+    "subcategory": "USB Hubs",  
+    "name": "Aurelio UltraPort 8-in-1 Hub",  
+    "brand_name": "Aurelio",  
+    "model_number": "AP-UH8",  
+    "sku": "AUR-ULTRAPORT-8",  
+    "synthetic_code": "9876543210987",  
+    "description": "The Aurelio UltraPort 8-in-1 Hub delivers versatile connectivity for laptops, tablets, and desktop systems. Compact and lightweight, it features a 12‑cm chassis that houses a USB‑C power delivery port, two USB‑3.0 data ports, an HDMI output, an Ethernet RJ‑45 port, and dual SD card readers. The aluminum housing offers durability while the matte gray finish gives a professional look. The hub draws power from the USB‑C source, eliminating the need for an external adapter. With plug‑and‑play compatibility, users can connect multiple peripherals simultaneously, improving workflow efficiency in both office and home‑office environments.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 12,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 0.25,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "ABS",  
+        "Aluminum"  
+      ],  
+      "color": "Midnight Gray",  
+      "capacity": {  
+        "value": null,  
+        "unit": "L",  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "USB‑C",  
+        "USB 3.0",  
+        "USB 2.0",  
+        "HDMI",  
+        "Ethernet",  
+        "SD Card Reader",  
+        "USB 3.1 Gen 1",  
+        "USB 3.1 Gen 2"  
+      ]  
+    },  
+    "warranty_months": 12,  
+    "country_of_origin": "China",  
+    "release_date": "2024-09-15",  
+    "price": {  
+      "amount": 49.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "TechNova",  
+      "rating": 4.7,  
+      "location": "Shenzhen, China"  
+    },  
+    "tags": [  
+      "usb hub",  
+      "8-in-1",  
+      "usb-c",  
+      "hdmi",  
+      "ethernet",  
+      "portable"  
+    ]  
+  }  
+}

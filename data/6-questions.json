@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the MindQuest Logic Challenge board game?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which materials are used in the MindQuest Logic Challenge?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the MindQuest Logic Challenge?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the MindQuest Logic Challenge manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the MindQuest Logic Challenge in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the MindQuest Logic Challenge come with a power adapter?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "How many players can play the MindQuest Logic Challenge?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum number of tiles that can be assembled in a single game session?",
+    "question_type": "trap"
+  }
+]

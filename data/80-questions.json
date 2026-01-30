@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the GourmetNova UltraPressure 10L pressure cooker?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the power rating of the GourmetNova UltraPressure 10L?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the GourmetNova UltraPressure 10L?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the GourmetNova UltraPressure 10L manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the color of the GourmetNova UltraPressure 10L?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum temperature the cooker can reach?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the brand rating of GourmetNova?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the cooker compatible with 110V outlets?",
+    "question_type": "trap"
+  }
+]

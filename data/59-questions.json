@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the VortexTech Titan 75% RGB keyboard?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What are the dimensions of the VortexTech Titan 75% RGB keyboard?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the VortexTech Titan 75% RGB keyboard?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the VortexTech Titan 75% RGB keyboard?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Which operating systems is the VortexTech Titan 75% RGB keyboard compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the VortexTech Titan 75% RGB keyboard?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the VortexTech Titan 75% RGB keyboard support wireless connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the return policy for the VortexTech Titan 75% RGB keyboard?",
+    "question_type": "trap"
+  }
+]

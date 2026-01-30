@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the resistance capacity of the FlexiFit Pro 30kg Resistance Band Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the length of each band in the FlexiFit Pro 30kg Resistance Band Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What materials are used to make the bands in the FlexiFit Pro 30kg Resistance Band Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Where is the FlexiFit Pro 30kg Resistance Band Set manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the FlexiFit Pro 30kg Resistance Band Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the power consumption of the FlexiFit Pro 30kg Resistance Band Set?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the product include a USB charger?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum temperature the bands can withstand?",
+    "question_type": "trap"
+  }
+]

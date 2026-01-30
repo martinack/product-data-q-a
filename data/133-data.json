@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "133",
+    "category": "Garden & Outdoor",
+    "subcategory": "Outdoor Lighting",
+    "name": "Luminex Solar Lantern 3.0",
+    "brand_name": "Luminex",
+    "model_number": "SL-3.0",
+    "sku": "LUM-SL3-OUT",
+    "synthetic_code": "7482910456789",
+    "description": "The Luminex Solar Lantern 3.0 delivers reliable illumination for gardens, patios, and camping trips. A 15‑W integrated solar panel charges a 4000‑mAh lithium‑ion battery during daylight, allowing up to 12 hours of continuous LED output at 800 lumens. The lantern’s anodized aluminum body and polycarbonate housing are weather‑resistant, rated IP65 for dust and splash protection. A silicone gasket seals the lid, and a USB‑C port provides quick recharging. Adjustable brightness levels and a built‑free operation. Its compact 30‑cm height and 1.8‑kg weight make it easy to mount on walls or carry in a backpack. Ideal for outdoor events, emergency kits, or everyday garden lighting.",
+    "specs": {
+      "dimensions": {
+        "value": 30,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 1.8,
+        "unit": "kg"
+      },
+      "power": {
+        "value": 15,
+        "unit": "W",
+        "applicable": true
+      },
+      "materials": [
+        "Aluminum",
+        "Polycarbonate",
+        "Silicone"
+      ],
+      "color": "Midnight Blue",
+      "capacity": {
+        "value": 4000,
+        "unit": "mAh",
+        "applicable": true
+      },
+      "compatibility": [
+        "Solar",
+        "USB-C"
+      ]
+    },
+    "warranty_months": 24,
+    "country_of_origin": "Vietnam",
+    "release_date": "2025-07-01",
+    "price": {
+      "amount": 89.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "GreenGear Supplies",
+      "rating": 4.3,
+      "location": "Seattle, US"
+    },
+    "tags": [
+      "solar",
+      "lantern",
+      "outdoor",
+      "eco-friendly",
+      "LED"
+    ]
+  }
+}

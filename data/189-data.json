@@ -1,0 +1,65 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "190",  
+    "category": "Grocery",  
+    "subcategory": "Cereals",  
+    "name": "Sunrise Organic Rolled Oats 1kg",  
+    "brand_name": "NutriHarvest",  
+    "model_number": "NH-RO-1KG",  
+    "sku": "NUT-RO-1KG-001",  
+    "synthetic_code": "1234567890123",  
+    "description": "Sunrise Organic Rolled Oats 1kg delivers a wholesome breakfast option for health‑conscious consumers. The product is packed in a resealable, recyclable plastic pouch that preserves freshness and prevents moisture ingress. Each kilogram contains a blend of whole oat grains, lightly toasted to enhance flavor while retaining natural nutrients. The oats are certified organic, non‑GMO, and free from artificial additives, making them suitable for vegetarian, vegan, and gluten‑free diets. Ideal for porridge, baking, or as a crunchy topping, this cereal offers a convenient source of fiber and complex carbohydrates.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 30,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 1.0,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": null,  
+        "applicable": false  
+      },  
+      "materials": [  
+        "organic oats",  
+        "plastic packaging"  
+      ],  
+      "color": "brown",  
+      "capacity": {  
+        "value": 1,  
+        "unit": "kg",  
+        "applicable": true  
+      },  
+      "compatibility": [  
+        "none"  
+      ]  
+    },  
+    "warranty_months": 12,  
+    "country_of_origin": "Peru",  
+    "release_date": "2025-10-15",  
+    "price": {  
+      "amount": 4.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "HarvestMart",  
+      "rating": 4.5,  
+      "location": "Lima, Peru"  
+    },  
+    "tags": [  
+      "organic",  
+      "cereal",  
+      "rolled oats",  
+      "gluten-free",  
+      "vegan"  
+    ]  
+  }  
+}

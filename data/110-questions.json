@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the Aurelio CarCompartment 3.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Aurelio CarCompartment 3.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which vehicle models is the Aurelio CarCompartment 3.0 compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Aurelio CarCompartment 3.0 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "How many months of warranty does the Aurelio CarCompartment 3.0 come with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period of the Aurelio CarCompartment 3.0 in years?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the power consumption of the Aurelio CarCompartment 3.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "How many pieces can the Aurelio CarCompartment 3.0 hold?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the price of the BouncyBlox UltraStack 250?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the BouncyBlox UltraStack 250?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What materials are used to make the BouncyBlox UltraStack 250 blocks?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the BouncyBlox UltraStack 250?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "When was the BouncyBlox UltraStack 250 released?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the recommended maximum stacking height for the BouncyBlox UltraStack 250?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the return policy for the BouncyBlox UltraStack 250?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the shipping cost for the BouncyBlox UltraStack 250?",
+    "question_type": "trap"
+  }
+]

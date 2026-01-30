@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "How long are the tines of the TerraGrip Garden Fork 8?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the TerraGrip Garden Fork 8?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What warranty period does the TerraGrip Garden Fork 8 come with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which materials are used in the construction of the TerraGrip Garden Fork 8?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the TerraGrip Garden Fork 8 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the power rating of the TerraGrip Garden Fork 8?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the TerraGrip Garden Fork 8 have a capacity rating?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum soil depth the TerraGrip Garden Fork 8 can handle?",
+    "question_type": "trap"
+  }
+]

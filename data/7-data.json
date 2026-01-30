@@ -1,0 +1,66 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "8234567890",  
+    "category": "Photography",  
+    "subcategory": "Tripod",  
+    "name": "Vistara ProTrip 3000",  
+    "brand_name": "Vistara",  
+    "model_number": "VT-3000",  
+    "sku": "VIST-TRP-3000-RED",  
+    "synthetic_code": "8423456789012",  
+    "description": "Vistara ProTrip 3000 is a lightweight yet robust tripod designed for DSLR and mirrorless cameras. The frame is constructed from high‑strength aluminum alloy with carbon‑fiber legs, providing stability on uneven surfaces. A 1/4‑inch screw head allows quick attachment to any standard camera. The tripod collapses to a compact 30 cm height for travel and expands to a maximum 150 cm for studio use. Integrated rubber feet prevent slippage, and a quick‑release plate facilitates fast mounting. Ideal for photographers who need a portable yet durable support for handheld shooting, video, or studio setups.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 150,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 2.5,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "aluminum alloy",  
+        "carbon fiber",  
+        "rubber"  
+      ],  
+      "color": "Matte Black",  
+      "capacity": {  
+        "value": null,  
+        "unit": null,  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "1/4\" screw mount"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Vietnam",  
+    "release_date": "2024-11-01",  
+    "price": {  
+      "amount": 199.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "SnapGear Distributors",  
+      "rating": 4.3,  
+      "location": "Los Angeles, US"  
+    },  
+    "tags": [  
+      "tripod",  
+      "photography",  
+      "camera accessory",  
+      "sturdy",  
+      "portable"  
+    ]  
+  }  
+}

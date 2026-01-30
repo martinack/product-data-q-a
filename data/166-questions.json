@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the video resolution of the Nexora DC200 dashboard camera?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Nexora DC200?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What power sources can the Nexora DC200 use?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How much does the Nexora DC200 cost in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Nexora DC200 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum operating temperature range for the Nexora DC200?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Nexora DC200 come with a detachable cable?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the warranty coverage for accidental damage on the Nexora DC200?",
+    "question_type": "trap"
+  }
+]

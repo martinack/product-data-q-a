@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the VortexTech UltraPrime 85mm f/1.8 lens?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which camera bodies is the VortexTech UltraPrime 85mm f/1.8 lens compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the VortexTech UltraPrime 85mm f/1.8 lens?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "When was the VortexTech UltraPrime 85mm f/1.8 lens released?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the VortexTech UltraPrime 85mm f/1.8 lens in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the VortexTech UltraPrime 85mm f/1.8 lens?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the VortexTech UltraPrime 85mm f/1.8 lens support 4K video recording?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the return policy duration for the VortexTech UltraPrime 85mm f/1.8 lens?",
+    "question_type": "trap"
+  }
+]

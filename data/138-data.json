@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "139",
+    "category": "Office/Stationery",
+    "subcategory": "Desk Organizer",
+    "name": "Velara DeskPro 5-in-1",
+    "brand_name": "Velara",
+    "model_number": "VP-DP5",
+    "sku": "VEL-DSKP5-RED",
+    "synthetic_code": "8453721904567",
+    "description": "Velara DeskPro 5-in-1 is a compact desk organizer designed for modern workspaces. It features five integrated compartments for pens, sticky notes, charging cables, a tablet stand, and a small whiteboard. The unit measures 30 cm wide, 20 cm deep, and 10 cm tall, fitting comfortably on a standard desk. Constructed from durable ABS plastic with metal brackets, it offers stability and a sleek red finish. The design includes a detachable magnetic strip for accessories and a built‑in USB‑C charging port for devices. This organizer is lightweight at 1.2 kg, making it easy to move between desks or take on the go. It is suitable for offices, home study areas, and creative studios.",
+    "specs": {
+      "dimensions": {
+        "value": 30,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 1.2,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "ABS plastic",
+        "metal brackets"
+      ],
+      "color": "Red",
+      "capacity": {
+        "value": null,
+        "unit": "",
+        "applicable": false
+      },
+      "compatibility": []
+    },
+    "warranty_months": 12,
+    "country_of_origin": "Poland",
+    "release_date": "2025-09-15",
+    "price": {
+      "amount": 34.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "OfficeSupply Co.",
+      "rating": 4.3,
+      "location": "Berlin, DE"
+    },
+    "tags": [
+      "desk organizer",
+      "stationery",
+      "red",
+      "multi-compartment",
+      "portable"
+    ]
+  }
+}

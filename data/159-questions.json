@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the Aurelio Sonata 6-String Acoustic guitar?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What materials are used in the construction of the Aurelio Sonata 6-String Acoustic?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "How much does the Aurelio Sonata 6-String Acoustic weigh?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Aurelio Sonata 6-String Acoustic in GBP?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "When was the Aurelio Sonata 6-String Acoustic released?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period for the Aurelio Sonata 6-String Acoustic?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Aurelio Sonata 6-String Acoustic come with a battery?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the return policy for the Aurelio Sonata 6-String Acoustic?",
+    "question_type": "trap"
+  }
+]

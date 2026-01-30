@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the price of the MysticQuest 1000-Piece Adventure Puzzle?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What are the dimensions of the puzzle when completed?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the puzzle?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which country was the puzzle manufactured in?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What materials are used to make the puzzle pieces?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the recommended age range for this puzzle?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the puzzle come with a return policy?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "How long does shipping take to the United States?",
+    "question_type": "trap"
+  }
+]

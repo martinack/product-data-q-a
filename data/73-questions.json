@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the length of the TerraFlex 30m Garden Hose?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the TerraFlex 30m Garden Hose?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which materials are used in the TerraFlex 30m Garden Hose?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the TerraFlex 30m Garden Hose?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the TerraFlex 30m Garden Hose manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the price of the TerraFlex 30m Garden Hose in euros?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Is the TerraFlex 30m Garden Hose compatible with 1‑inch garden fittings?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum water flow rate of the TerraFlex 30m Garden Hose?",
+    "question_type": "trap"
+  }
+]

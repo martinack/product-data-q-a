@@ -1,0 +1,66 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "98",  
+    "category": "Lab/Science supplies",  
+    "subcategory": "Microscope Slide Rack",  
+    "name": "Quantix SlideRack 12-Pos",  
+    "brand_name": "Quantix",  
+    "model_number": "QR-12SR",  
+    "sku": "QTX-12SR-STD",  
+    "synthetic_code": "1234567890123",  
+    "description": "The Quantix SlideRack 12-Pos is a durable storage solution for laboratory microscope slides. Constructed from high‑density polypropylene and reinforced steel, it offers a compact footprint of 30 cm by 15 cm and a height of 5 cm, allowing easy placement on benches or in cabinets. The rack accommodates twelve 75 mm slides, each slot featuring a secure latch to prevent accidental dislodgement. Its neutral gray finish resists staining and is compatible with standard optical microscopes and slide handling equipment. Ideal for research labs, teaching facilities, and fieldwork, the SlideRack provides organized, accessible slide storage while maintaining sample integrity.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 30,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 1.2,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "polypropylene",  
+        "steel"  
+      ],  
+      "color": "Gray",  
+      "capacity": {  
+        "value": 12,  
+        "unit": "pieces",  
+        "applicable": true  
+      },  
+      "compatibility": [  
+        "Microscope",  
+        "Optical Slide Handling"  
+      ]  
+    },  
+    "warranty_months": 12,  
+    "country_of_origin": "Germany",  
+    "release_date": "2024-10-01",  
+    "price": {  
+      "amount": 79.99,  
+      "currency": "EUR"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "LabEquip Wholesale",  
+      "rating": 4.3,  
+      "location": "Berlin, Germany"  
+    },  
+    "tags": [  
+      "microscope",  
+      "slide rack",  
+      "lab equipment",  
+      "polypropylene",  
+      "steel"  
+    ]  
+  }  
+}

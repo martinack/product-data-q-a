@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the Velora SilkGlow 2-in-1 Hair Serum?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Velora SilkGlow 2-in-1 Hair Serum?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which materials are used in the bottle of the Velora SilkGlow 2-in-1 Hair Serum?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the Velora SilkGlow 2-in-1 Hair Serum?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Velora SilkGlow 2-in-1 Hair Serum manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the recommended storage temperature for the Velora SilkGlow 2-in-1 Hair Serum?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Velora SilkGlow 2-in-1 Hair Serum contain any dyes?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the product's return policy for the Velora SilkGlow 2-in-1 Hair Serum?",
+    "question_type": "trap"
+  }
+]

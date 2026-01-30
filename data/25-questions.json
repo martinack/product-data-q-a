@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Aurelio MacroPrime 50mm lens?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which camera bodies is the Aurelio MacroPrime 50mm lens compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the price of the Aurelio MacroPrime 50mm lens in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "When was the Aurelio MacroPrime 50mm lens released?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the Aurelio MacroPrime 50mm lens?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Aurelio MacroPrime 50mm lens have built‑in image stabilization?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Is the Aurelio MacroPrime 50mm lens compatible with Nikon F‑mount cameras?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the battery life of the Aurelio MacroPrime 50mm lens?",
+    "question_type": "trap"
+  }
+]

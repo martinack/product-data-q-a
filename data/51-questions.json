@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Velara CarVent Pro?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the price of the Velara CarVent Pro in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which vehicle types is the Velara CarVent Pro compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the Velara CarVent Pro?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the color of the Velara CarVent Pro?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the power consumption of the Velara CarVent Pro in watts?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum airflow speed of the Velara CarVent Pro?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the material composition of the fan in the Velara CarVent Pro?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the CulinaryPro Stainless Steel Chef's Knife 8-inch?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the price of the knife in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which country was the knife manufactured in?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for this product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the overall length of the knife in centimeters?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Is the knife dishwasher safe?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the power consumption of the knife?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What appliances is this knife compatible with?",
+    "question_type": "trap"
+  }
+]

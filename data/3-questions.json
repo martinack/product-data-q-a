@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the PurrGuard Eco Litter Box in liters?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the PurrGuard Eco Litter Box?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which country was the PurrGuard Eco Litter Box manufactured in?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the PurrGuard Eco Litter Box in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the PurrGuard Eco Litter Box in months?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the recommended maximum cat weight for this litter box?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the exact material composition of the absorbent pad?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the environmental certification of the product?",
+    "question_type": "trap"
+  }
+]

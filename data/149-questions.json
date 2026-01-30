@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Aurelio PercuLite 3-Piece Kit?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "In which country was the Aurelio PercuLite 3-Piece Kit manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the Aurelio PercuLite 3-Piece Kit?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Aurelio PercuLite 3-Piece Kit in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What materials are used in the Aurelio PercuLite 3-Piece Kit?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Aurelio PercuLite 3-Piece Kit come with a built-in electronic tuner?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum volume level (in decibels) that the kit can produce?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is there a color variant of the kit in white?",
+    "question_type": "trap"
+  }
+]

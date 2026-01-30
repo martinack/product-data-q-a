@@ -1,0 +1,68 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "142",  
+    "category": "Baby Products",  
+    "subcategory": "Baby Monitor",  
+    "name": "NurtureNest SecureView 200",  
+    "brand_name": "NurtureNest",  
+    "model_number": "NM-200",  
+    "sku": "NUR-BM-200",  
+    "synthetic_code": "8234567890123",  
+    "description": "The NurtureNest SecureView 200 is a compact wireless baby monitor designed for modern families. It streams high‑definition video and audio to a paired smartphone or tablet via Wi‑Fi and Bluetooth Low Energy, providing up to 120 minutes of battery life on a single charge. The monitor includes motion and temperature alerts, night‑vision infrared, and a two‑way intercom. Its ergonomic design fits comfortably on a nightstand, and the unit is constructed from durable ABS plastic with a soft-touch finish. The SecureView 200 offers a reliable, low‑maintenance solution for parents who want to keep an eye on their child from anywhere in the house.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 12.5,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 0.35,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 4,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "ABS plastic",  
+        "silicone"  
+      ],  
+      "color": "Midnight Blue",  
+      "capacity": {  
+        "value": null,  
+        "unit": null,  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "Wi‑Fi 802.11n",  
+        "Bluetooth 5.0",  
+        "iOS 12+",  
+        "Android 8+"  
+      ]  
+    },  
+    "warranty_months": 12,  
+    "country_of_origin": "Vietnam",  
+    "release_date": "2025-07-15",  
+    "price": {  
+      "amount": 89.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "LittleStar Supplies",  
+      "rating": 4.5,  
+      "location": "London, UK"  
+    },  
+    "tags": [  
+      "baby monitor",  
+      "wireless",  
+      "wifi",  
+      "bluetooth",  
+      "night vision"  
+    ]  
+  }  
+}

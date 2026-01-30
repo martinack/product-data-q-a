@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the Velora DeskMat Pro 30x20?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Velora DeskMat Pro?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What materials are used to make the Velora DeskMat Pro?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Velora DeskMat Pro?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "How long is the warranty for the Velora DeskMat Pro?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Velora DeskMat Pro have a built‑in USB charging port?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum weight capacity of the Velora DeskMat Pro?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the Velora DeskMat Pro compatible with wireless mice?",
+    "question_type": "trap"
+  }
+]

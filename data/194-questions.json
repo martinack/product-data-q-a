@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the model number of the Pawsome AutoFeeder 2L?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many portions can the feeder schedule per day?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the range of portion sizes adjustable on the feeder?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What material is the bowl of the feeder made from?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the power supply rating of the feeder?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period for this feeder?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the feeder support feeding rabbits?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the shipping weight of the product?",
+    "question_type": "trap"
+  }
+]

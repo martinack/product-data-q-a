@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the BambinoCare Silicone Feeding Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What materials are used in the BambinoCare Silicone Feeding Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for this product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the BambinoCare Silicone Feeding Set in EUR?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Where is the seller of this product located?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the product have a power consumption rating?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the return policy for this product?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "How long does shipping take from Vietnam to Germany?",
+    "question_type": "trap"
+  }
+]

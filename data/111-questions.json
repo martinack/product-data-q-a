@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the Aurelio Precision Bamboo Cutting Board?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the cutting board?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What materials are used to make the Aurelio Precision Bamboo Cutting Board?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Aurelio Precision Bamboo Cutting Board?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Aurelio Precision Bamboo Cutting Board manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the thickness of the cutting board?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the cutting board come with a stand?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum weight capacity of the cutting board?",
+    "question_type": "trap"
+  }
+]

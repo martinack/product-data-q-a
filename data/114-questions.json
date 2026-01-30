@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the board in centimeters?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the game set in kilograms?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which materials are used in the construction of the game?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How many months of warranty does the game have?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the game manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum number of players allowed for this game?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the game come with a digital companion app?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the exact color palette used in the game's design?",
+    "question_type": "trap"
+  }
+]

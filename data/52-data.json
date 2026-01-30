@@ -1,0 +1,67 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "53",  
+    "category": "Furniture",  
+    "subcategory": "Office Chair",  
+    "name": "Velora CompactMesh 300",  
+    "brand_name": "Velora",  
+    "model_number": "VM-300",  
+    "sku": "VEL-CM300-STD",  
+    "synthetic_code": "7643210987654",  
+    "description": "The Velora CompactMesh 300 offers a lightweight, ergonomic seating solution for home offices and compact workspaces. Its breathable mesh backrest and contoured foam seat provide continuous support while keeping the user cool during long hours. An adjustable lumbar support and height‑adjustable armrests allow personalized comfort. The aluminum frame delivers stability and a sleek profile that fits neatly under desks or beside workstations. Designed for a maximum load of 120 kg, the chair is both durable and versatile. Its neutral slate gray finish complements modern décor, and the compact footprint saves space without compromising comfort.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 95,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 12,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "mesh fabric",  
+        "aluminum frame",  
+        "foam seat"  
+      ],  
+      "color": "Slate Gray",  
+      "capacity": {  
+        "value": 120,  
+        "unit": "kg",  
+        "applicable": true  
+      },  
+      "compatibility": [  
+        "Desk",  
+        "Home Office"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Vietnam",  
+    "release_date": "2024-11-15",  
+    "price": {  
+      "amount": 149.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "OfficeGear Co",  
+      "rating": 4.2,  
+      "location": "Berlin, Germany"  
+    },  
+    "tags": [  
+      "ergonomic",  
+      "mesh",  
+      "office chair",  
+      "slate gray",  
+      "compact"  
+    ]  
+  }  
+}

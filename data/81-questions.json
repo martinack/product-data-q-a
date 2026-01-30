@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the price of the VortexTech LumiSwitch 3.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What are the dimensions of the LumiSwitch 3.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which materials is the LumiSwitch 3.0 made from?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which voltage ratings does the LumiSwitch 3.0 support?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the power consumption rating of the LumiSwitch 3.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the LumiSwitch 3.0 support Zigbee connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum current rating of the LumiSwitch 3.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the warranty period in weeks?",
+    "question_type": "trap"
+  }
+]

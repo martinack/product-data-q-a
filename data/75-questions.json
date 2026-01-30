@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the length of the Aurelio Harmonic 8-String Ukulele?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Aurelio Harmonic 8-String Ukulele?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "In which country was the Aurelio Harmonic 8-String Ukulele manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Aurelio Harmonic 8-String Ukulele?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "How many months of warranty does the Aurelio Harmonic 8-String Ukulele come with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery capacity of the Aurelio Harmonic 8-String Ukulele?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum recommended playing time per day for the Aurelio Harmonic 8-String Ukulele?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Does the Aurelio Harmonic 8-String Ukulele come with a case?",
+    "question_type": "trap"
+  }
+]

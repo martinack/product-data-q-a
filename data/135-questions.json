@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the Pawsome CozyNest 3‑Tier Elevated Dog Bed?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Pawsome CozyNest 3‑Tier Elevated Dog Bed?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "How many months of warranty does the Pawsome CozyNest 3‑Tier Elevated Dog Bed come with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "When was the Pawsome CozyNest 3‑Tier Elevated Dog Bed released?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Pawsome CozyNest 3‑Tier Elevated Dog Bed in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum number of dogs that can use the Pawsome CozyNest 3‑Tier Elevated Dog Bed?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the return policy for the Pawsome CozyNest 3‑Tier Elevated Dog Bed?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the shipping cost for the Pawsome CozyNest 3‑Tier Elevated Dog Bed?",
+    "question_type": "trap"
+  }
+]

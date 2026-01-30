@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the model number of the Velora ErgoSeat 2027?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the price of the Velora ErgoSeat 2027 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the Velora ErgoSeat 2027?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the Velora ErgoSeat 2027?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Which country was the Velora ErgoSeat 2027 manufactured in?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the power consumption of the Velora ErgoSeat 2027?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum load capacity of the Velora ErgoSeat 2027?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "When will the Velora ErgoSeat 2027 be back in stock?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the Aurelio Scientific Slide Rack Standard?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What materials are used in the construction of this slide rack?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the slide rack?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for this product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Where was the slide rack manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the shipping weight of the slide rack including packaging?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the slide rack come with a dust cover?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum temperature the slide rack can withstand?",
+    "question_type": "trap"
+  }
+]

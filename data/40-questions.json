@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the length dimension of the TerraBloom Raised Garden Bed Kit?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How much does the TerraBloom Raised Garden Bed Kit weigh?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What color is the TerraBloom Raised Garden Bed Kit?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which accessories are included with the TerraBloom Raised Garden Bed Kit?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the TerraBloom Raised Garden Bed Kit?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period for the TerraBloom Raised Garden Bed Kit?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the shipping cost to the United States for this product?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Does the TerraBloom Raised Garden Bed Kit have a power consumption rating?",
+    "question_type": "trap"
+  }
+]

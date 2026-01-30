@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "189",
+    "category": "Sports & Outdoors",
+    "subcategory": "Hiking Gear",
+    "name": "Vanguard Trek Lightweight Trekking Poles 4-Pack",
+    "brand_name": "Vanguard Trek",
+    "model_number": "VT-TP-4",
+    "sku": "VTR-TREK-4P-001",
+    "synthetic_code": "9876543210987",
+    "description": "The Vanguard Trek Lightweight Trekking Poles are engineered for long‑distance hikers who need reliable support without the bulk. Each pole measures 90 cm when collapsed and extends to 115 cm for full height, with a telescopic range that accommodates a wide range of users. Made from high‑strength aluminum alloy, the poles feature rubber‑coated grips that stay firm in wet or dry conditions. The set includes four poles, a carrying case, and a quick‑release adjustment tool. Designed to reduce joint strain, the poles are ideal for day hikes, backcountry treks, and trail running. Their sleek black finish and durable construction make them a practical addition to any outdoor kit.",
+    "specs": {
+      "dimensions": {
+        "value": 90,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 1.2,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "materials": [
+        "aluminum alloy",
+        "rubber grip"
+      ],
+      "color": "black",
+      "capacity": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "compatibility": [
+        "standard 2.5 mm diameter",
+        "quick‑release adjustment"
+      ]
+    },
+    "warranty_months": 24,
+    "country_of_origin": "Vietnam",
+    "release_date": "2025-09-01",
+    "price": {
+      "amount": 129.99,
+      "currency": "USD"
+    },
+    "stock_status": "low_stock",
+    "seller": {
+      "name": "PeakGear Retailers",
+      "rating": 4.7,
+      "location": "Denver, USA"
+    },
+    "tags": [
+      "hiking",
+      "trekking poles",
+      "lightweight",
+      "adjustable",
+      "aluminum"
+    ]
+  }
+}

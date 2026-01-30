@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the ErgoSeat Pro 4.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What color is the ErgoSeat Pro 4.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the ErgoSeat Pro 4.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which materials are used in the construction of the ErgoSeat Pro 4.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Where was the ErgoSeat Pro 4.0 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the ErgoSeat Pro 4.0 have a power supply?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum weight capacity of the ErgoSeat Pro 4.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Does the ErgoSeat Pro 4.0 come with a warranty in the United States?",
+    "question_type": "trap"
+  }
+]

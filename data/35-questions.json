@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Luminex EcoTherm 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which connectivity options are supported by the Luminex EcoTherm 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the power consumption of the Luminex EcoTherm 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What color is the Luminex EcoTherm 2.0 available in?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the Luminex EcoTherm 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Luminex EcoTherm 2.0 have a battery backup?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum temperature range the thermostat can set?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the firmware version of the Luminex EcoTherm 2.0?",
+    "question_type": "trap"
+  }
+]

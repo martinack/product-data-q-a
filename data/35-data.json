@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "35",
+    "category": "Smart Home",
+    "subcategory": "Smart Thermostat",
+    "name": "Luminex EcoTherm 2.0",
+    "brand_name": "Luminex",
+    "model_number": "LE-THERM2",
+    "sku": "LUX-THERM2-BL",
+    "synthetic_code": "1234567890123",
+    "description": "The Luminex EcoTherm 2.0 is a compact, wall‑mounted smart thermostat designed for modern homes seeking efficient temperature control. Its sleek chassis measures 10 cm wide, 5 cm deep, and 2 cm tall, fitting easily into any décor. Built with an ABS shell and polycarbonate faceplate, the unit offers durability while maintaining a lightweight profile of 0.3 kg. The EcoTherm operates on a 5‑W power draw and supports both Zigbee and Wi‑Fi connectivity, enabling seamless integration with existing home automation hubs. Users can program daily schedules, monitor real‑time energy consumption, and receive remote alerts via a companion app. The Midnight Blue finish adds a subtle accent to living spaces, and the thermostat’s low‑profile design keeps the wall clear of clutter.",
+    "specs": {
+      "dimensions": {
+        "value": 10,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.3,
+        "unit": "kg"
+      },
+      "power": {
+        "value": 5,
+        "unit": "W",
+        "applicable": true
+      },
+      "materials": [
+        "ABS",
+        "Polycarbonate",
+        "Silicone"
+      ],
+      "color": "Midnight Blue",
+      "capacity": {
+        "value": null,
+        "unit": "L",
+        "applicable": false
+      },
+      "compatibility": [
+        "Zigbee",
+        "Wi‑Fi"
+      ]
+    },
+    "warranty_months": 12,
+    "country_of_origin": "Germany",
+    "release_date": "2024-09-01",
+    "price": {
+      "amount": 129.99,
+      "currency": "USD"
+    },
+    "stock_status": "low_stock",
+    "seller": {
+      "name": "HomeTech Hub",
+      "rating": 4.2,
+      "location": "Berlin, Germany"
+    },
+    "tags": [
+      "smart thermostat",
+      "zigbee",
+      "wifi",
+      "energy saving",
+      "eco"
+    ]
+  }
+}

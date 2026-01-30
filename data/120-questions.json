@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Velora CurlWave 3-in-1 Styling Iron?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many adjustable heat settings does the Velora CurlWave 3-in-1 Styling Iron have?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the duration of the auto‑off safety switch on the Velora CurlWave 3-in-1 Styling Iron?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the Velora CurlWave 3-in-1 Styling Iron?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Velora CurlWave 3-in-1 Styling Iron manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the Velora CurlWave 3-in-1 Styling Iron?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Velora CurlWave 3-in-1 Styling Iron come with a heat‑resistant glove?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum hair thickness that the Velora CurlWave 3-in-1 Styling Iron can handle?",
+    "question_type": "trap"
+  }
+]

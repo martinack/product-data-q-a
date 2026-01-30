@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the length of the Pawsome Velvet Shear Brush?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How much does the Pawsome Velvet Shear Brush weigh?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the price of the Pawsome Velvet Shear Brush in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which material is used for the handle of the Pawsome Velvet Shear Brush?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the Pawsome Velvet Shear Brush?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the power rating of the Pawsome Velvet Shear Brush?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the capacity of the Pawsome Velvet Shear Brush?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the product's barcode?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Aurelio AC-CP5 laptop cooling pad?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which materials are used in the construction of the Aurelio AC-CP5?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the power consumption of the Aurelio AC-CP5?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the Aurelio AC-CP5?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Aurelio AC-CP5 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum laptop screen size that the Aurelio AC-CP5 can support?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Aurelio AC-CP5 come with a built‑in battery?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the price of the Aurelio AC-CP5 in euros?",
+    "question_type": "trap"
+  }
+]

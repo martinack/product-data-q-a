@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the color of the Velora LoungeSeat 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Velora LoungeSeat 2.0 in kilograms?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "How many recline positions does the Velora LoungeSeat 2.0 have?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the Velora LoungeSeat 2.0 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Velora LoungeSeat 2.0 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period in days for the Velora LoungeSeat 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the CPU model of the Velora LoungeSeat 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the power consumption of the Velora LoungeSeat 2.0?",
+    "question_type": "trap"
+  }
+]

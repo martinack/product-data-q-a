@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the Aurelio DeskMate 360?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the total footprint in centimeters of the Aurelio DeskMate 360?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "How many compartments can the Aurelio DeskMate 360 hold?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Aurelio DeskMate 360 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the Aurelio DeskMate 360?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Aurelio DeskMate 360 come with a warranty that covers accidental damage?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the estimated delivery time for the Aurelio DeskMate 360 to a customer in Canada?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the Aurelio DeskMate 360 compatible with wireless charging accessories?",
+    "question_type": "trap"
+  }
+]

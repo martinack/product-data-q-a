@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the ChemLab UltraSieve 50mm?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What materials is the ChemLab UltraSieve 50mm made from?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the price of the ChemLab UltraSieve 50mm?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which sieving frame is compatible with the ChemLab UltraSieve 50mm?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the ChemLab UltraSieve 50mm in months?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum temperature the sieve can withstand during operation?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the ChemLab UltraSieve 50mm come with a protective cover?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the battery life of the ChemLab UltraSieve 50mm?",
+    "question_type": "trap"
+  }
+]

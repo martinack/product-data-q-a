@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the thickness of the VitaFlex Pro 6mm Mat?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How much does the VitaFlex Pro 6mm Mat weigh?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which materials are used to manufacture the VitaFlex Pro 6mm Mat?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the VitaFlex Pro 6mm Mat?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the VitaFlex Pro 6mm Mat manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum weight the mat can support?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the VitaFlex Pro 6mm Mat come with a carry bag?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the return policy for this product?",
+    "question_type": "trap"
+  }
+]

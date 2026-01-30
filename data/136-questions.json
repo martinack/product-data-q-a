@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the TerraGrip Garden Rake 12?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the TerraGrip Garden Rake 12 in kilograms?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "When was the TerraGrip Garden Rake 12 released?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the TerraGrip Garden Rake 12 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the length of the steel tines on the TerraGrip Garden Rake 12?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period in years for the TerraGrip Garden Rake 12?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the warranty period in weeks for the TerraGrip Garden Rake 12?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the warranty period in days for the TerraGrip Garden Rake 12?",
+    "question_type": "trap"
+  }
+]

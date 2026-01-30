@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the Velara Curvex 3000?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What are the temperature settings available on the Velara Curvex 3000?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the Velara Curvex 3000?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the Velara Curvex 3000 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Velara Curvex 3000 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum temperature setting in Fahrenheit?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Velara Curvex 3000 have a built‑in battery?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the size of the barrel in inches?",
+    "question_type": "trap"
+  }
+]

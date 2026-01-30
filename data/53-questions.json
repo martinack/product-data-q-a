@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the CulinaryPro Precision 12-inch Frying Pan?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which cooktop types is the pan compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the price of the pan in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for this product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Where was the CulinaryPro Precision 12-inch Frying Pan manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period in years?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum temperature the pan can withstand?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the thickness of the aluminum alloy used in the pan?",
+    "question_type": "trap"
+  }
+]

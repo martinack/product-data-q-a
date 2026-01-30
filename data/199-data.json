@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "200",
+    "category": "Furniture",
+    "subcategory": "Outdoor Bench",
+    "name": "TerraCraft Rustic Oak Bench",
+    "brand_name": "TerraCraft",
+    "model_number": "TC-RO-OB",
+    "sku": "TC-RO-OB-01",
+    "synthetic_code": "8456723910456",
+    "description": "The TerraCraft Rustic Oak Bench offers a blend of classic design and durable construction, ideal for patios, gardens, or terrace settings. Crafted from sustainably sourced solid oak, the bench features a robust wooden frame and a smooth polyurethane finish that resists weathering and UV exposure. With a seat height of 90 cm and a generous width of 80 cm, it comfortably accommodates two adults. The natural oak grain is highlighted by subtle hand‑carved detailing, adding a touch of artisanal charm. Lightweight yet sturdy, the bench can be easily repositioned and is compatible with standard outdoor cushions for added comfort. Its low maintenance profile and 24‑month warranty make it a practical choice for long‑term outdoor use.",
+    "specs": {
+      "dimensions": {
+        "value": 180,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 15,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "solid oak",
+        "wooden frame",
+        "polyurethane finish"
+      ],
+      "color": "Natural Oak",
+      "capacity": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "compatibility": []
+    },
+    "warranty_months": 24,
+    "country_of_origin": "Italy",
+    "release_date": "2024-07-15",
+    "price": {
+      "amount": 199.99,
+      "currency": "EUR"
+    },
+    "stock_status": "low_stock",
+    "seller": {
+      "name": "Woodland Furnishings",
+      "rating": 4.2,
+      "location": "Milan, Italy"
+    },
+    "tags": [
+      "outdoor bench",
+      "wooden",
+      "rustic",
+      "garden furniture"
+    ]
+  }
+}

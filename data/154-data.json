@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "154",
+    "category": "Photography",
+    "subcategory": "Lighting",
+    "name": "LumaLite Portable LED Ring Light 10\"",
+    "brand_name": "LumaLite",
+    "model_number": "LRL-10USB",
+    "sku": "LL-10USB-BLK",
+    "synthetic_code": "8423957612345",
+    "description": "The LumaLite Portable LED Ring Light 10\" is a compact illumination solution for photographers and content creators. Designed for handheld use, the ring light features a 10‑inch diameter LED array that delivers even, diffused light. It connects via USB‑C, drawing power from a standard charger or a portable battery pack. The unit is lightweight, weighing under a kilogram, and its matte black finish resists fingerprints. The light can be adjusted in intensity through a simple dial, and the included mounting ring accommodates standard camera lenses or smartphone holders. It is ideal for portrait shoots, product photography, and live streaming setups.",
+    "specs": {
+      "dimensions": {
+        "value": 30,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.78,
+        "unit": "kg"
+      },
+      "power": {
+        "value": 5,
+        "unit": "W",
+        "applicable": true
+      },
+      "materials": [
+        "polycarbonate",
+        "aluminum"
+      ],
+      "color": "Black",
+      "capacity": {
+        "value": null,
+        "unit": "mAh",
+        "applicable": false
+      },
+      "compatibility": [
+        "USB‑C",
+        "LED 10\""
+      ]
+    },
+    "warranty_months": 12,
+    "country_of_origin": "China",
+    "release_date": "2025-12-01",
+    "price": {
+      "amount": 79.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "Photonix Retail",
+      "rating": 4.5,
+      "location": "Shanghai, China"
+    },
+    "tags": [
+      "portable",
+      "LED",
+      "ring light",
+      "photography",
+      "USB‑C"
+    ]
+  }
+}

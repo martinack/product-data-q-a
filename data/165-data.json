@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "166",
+    "category": "Lab/Science supplies",
+    "subcategory": "Digital Thermometer",
+    "name": "Quantix Digital ThermoProbe",
+    "brand_name": "Quantix",
+    "model_number": "DT-100",
+    "sku": "QUAN-DT100-RED",
+    "synthetic_code": "7489123456790",
+    "description": "The Quantix Digital ThermoProbe delivers precise temperature readings for laboratory and field applications. Its compact body houses a high‑resolution sensor that measures from –20 °C to 120 °C with ±0.3 °C accuracy. A clear LCD displays the value and the probe can be paired via Bluetooth 4.0 to a companion app for data logging. The unit is powered by a rechargeable 5 V USB‑C battery that lasts up to 48 hours on a single charge. Built with a stainless‑steel probe tip and a durable ABS housing, it resists corrosion and is suitable for use with chemicals and in sterile environments.",
+    "specs": {
+      "dimensions": {
+        "value": 12,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.15,
+        "unit": "kg"
+      },
+      "power": {
+        "value": 5,
+        "unit": "W",
+        "applicable": true
+      },
+      "materials": [
+        "stainless steel",
+        "ABS plastic"
+      ],
+      "color": "red",
+      "capacity": {
+        "value": null,
+        "unit": "pieces",
+        "applicable": false
+      },
+      "compatibility": [
+        "USB‑C charging",
+        "Bluetooth 4.0"
+      ]
+    },
+    "warranty_months": 24,
+    "country_of_origin": "Germany",
+    "release_date": "2025-03-10",
+    "price": {
+      "amount": 89.95,
+      "currency": "USD"
+    },
+    "stock_status": "low_stock",
+    "seller": {
+      "name": "LabGear Supply",
+      "rating": 4.7,
+      "location": "Berlin, Germany"
+    },
+    "tags": [
+      "digital thermometer",
+      "lab instrument",
+      "USB-C",
+      "portable"
+    ]
+  }
+}

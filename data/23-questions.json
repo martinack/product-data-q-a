@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the TerraGlow Solar Lantern 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the TerraGlow Solar Lantern 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What materials are used in the construction of the TerraGlow Solar Lantern 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How long can the TerraGlow Solar Lantern 2.0 glow continuously on a single charge?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the TerraGlow Solar Lantern 2.0 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum operating temperature of the TerraGlow Solar Lantern 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the TerraGlow Solar Lantern 2.0 come with a user manual?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the warranty coverage for accidental damage on the TerraGlow Solar Lantern 2.0?",
+    "question_type": "trap"
+  }
+]

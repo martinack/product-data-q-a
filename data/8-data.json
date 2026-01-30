@@ -1,0 +1,65 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "9",  
+    "category": "Garden & Outdoor",  
+    "subcategory": "Hose Reel",  
+    "name": "GreenScape EcoReel 200",  
+    "brand_name": "GreenScape",  
+    "model_number": "GR-200",  
+    "sku": "GR-ECO-REEL-200-GRN",  
+    "synthetic_code": "9234567890123",  
+    "description": "The GreenScape EcoReel 200 offers a lightweight yet robust solution for outdoor watering needs. Constructed from a reinforced PVC hose and a steel reel core, it supports up to 30 meters of flexible tubing while maintaining a compact footprint. The reel’s ergonomic handle and 360‑degree swivel allow easy deployment and retrieval, even on uneven ground. Designed with an eco‑friendly coating that resists corrosion, the unit remains functional for years with minimal maintenance. Ideal for residential gardens, community parks, or small commercial sites, it balances durability with a low environmental impact.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 200,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 3.5,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "PVC",  
+        "steel"  
+      ],  
+      "color": "Forest Green",  
+      "capacity": {  
+        "value": null,  
+        "unit": null,  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "1/2\" hose fittings"  
+      ]  
+    },  
+    "warranty_months": 12,  
+    "country_of_origin": "Thailand",  
+    "release_date": "2024-09-15",  
+    "price": {  
+      "amount": 49.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "Gardenia Wholesale",  
+      "rating": 4.7,  
+      "location": "Sydney, AU"  
+    },  
+    "tags": [  
+      "garden hose",  
+      "reel",  
+      "outdoor",  
+      "eco-friendly",  
+      "durable"  
+    ]  
+  }  
+}

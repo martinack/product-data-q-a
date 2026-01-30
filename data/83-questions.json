@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the BambinoCare SoftPlay 2‑Layer Activity Mat?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the BambinoCare SoftPlay 2‑Layer Activity Mat?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What materials are used to make the BambinoCare SoftPlay 2‑Layer Activity Mat?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What warranty period does the BambinoCare SoftPlay 2‑Layer Activity Mat come with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "How much does the BambinoCare SoftPlay 2‑Layer Activity Mat cost in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the BambinoCare SoftPlay 2‑Layer Activity Mat come with a built‑in storage bag?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum temperature the BambinoCare SoftPlay 2‑Layer Activity Mat can withstand when machine washing?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the BambinoCare SoftPlay 2‑Layer Activity Mat suitable for use on a carpeted floor?",
+    "question_type": "trap"
+  }
+]

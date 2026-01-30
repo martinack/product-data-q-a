@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the RoadGuard Reflective Mirror?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which materials are used in the construction of the RoadGuard Reflective Mirror?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the RoadGuard Reflective Mirror?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the RoadGuard Reflective Mirror manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the RoadGuard Reflective Mirror in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum temperature the RoadGuard Reflective Mirror can withstand?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the recommended installation temperature range for the RoadGuard Reflective Mirror?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the battery capacity of the RoadGuard Reflective Mirror?",
+    "question_type": "trap"
+  }
+]

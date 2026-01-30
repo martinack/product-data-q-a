@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the maximum height the Vistara ProTrip 3000 can expand to?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What materials are used to construct the Vistara ProTrip 3000?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What warranty period does the Vistara ProTrip 3000 come with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which country is the Vistara ProTrip 3000 manufactured in?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Vistara ProTrip 3000 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Vistara ProTrip 3000 have a built‑in battery?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum load capacity (in kg) of the Vistara ProTrip 3000?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the Vistara ProTrip 3000 compatible with 3/8\" screw mounts?",
+    "question_type": "trap"
+  }
+]

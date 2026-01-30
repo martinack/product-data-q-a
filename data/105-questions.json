@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Melodica Harmonic 12?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What materials are used in the construction of the Melodica Harmonic 12?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the Melodica Harmonic 12?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Melodica Harmonic 12 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "When was the Melodica Harmonic 12 released?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "How many strings does the Melodica Harmonic 12 have?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the recommended string gauge for the Melodica Harmonic 12?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the battery life of the Melodica Harmonic 12?",
+    "question_type": "trap"
+  }
+]

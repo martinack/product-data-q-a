@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the length of the Velara EcoHose 25m?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Velara EcoHose 25m?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What maximum pressure can the Velara EcoHose 25m handle?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What color is the Velara EcoHose 25m?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What warranty period does the Velara EcoHose 25m offer?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the price of the Velara EcoHose 25m in euros?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Velara EcoHose 25m include a nozzle in the package?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum temperature the Velara EcoHose 25m can withstand?",
+    "question_type": "trap"
+  }
+]

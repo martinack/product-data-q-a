@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the power rating of the VerdantGrow EcoGrow 60W LED Hydroponic Light?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the VerdantGrow EcoGrow 60W LED Hydroponic Light?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the length of the aluminum frame on the VerdantGrow EcoGrow 60W LED Hydroponic Light?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which materials are used in the construction of the VerdantGrow EcoGrow 60W LED Hydroponic Light?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the VerdantGrow EcoGrow 60W LED Hydroponic Light manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum operating temperature of the VerdantGrow EcoGrow 60W LED Hydroponic Light?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the recommended plant spacing for optimal growth under this light?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the exact model number of the LED driver included with the VerdantGrow EcoGrow 60W LED Hydroponic Light?",
+    "question_type": "trap"
+  }
+]

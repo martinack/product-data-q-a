@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the GreenScape EcoReel 200?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How much does the EcoReel 200 weigh?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What materials are used to construct the EcoReel 200?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How long is the warranty for the EcoReel 200?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the rating of the seller for this product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum water pressure the hose can handle?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the product have a built-in water filter?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the recommended maintenance schedule for the EcoReel 200?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the length of the Quantix Objective Lens Adapter?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Quantix Objective Lens Adapter?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which microscope brands are compatible with the Quantix Objective Lens Adapter?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Quantix Objective Lens Adapter in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the Quantix Objective Lens Adapter?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the adapter support 1.0-inch threads?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the material of the quick-release screw on the adapter?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the energy consumption of the Quantix Objective Lens Adapter?",
+    "question_type": "trap"
+  }
+]

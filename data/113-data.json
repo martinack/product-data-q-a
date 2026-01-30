@@ -1,0 +1,62 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "113",  
+    "category": "Fitness & Health",  
+    "subcategory": "Yoga Mat",  
+    "name": "FlexiFit Mat Pro 3mm",  
+    "brand_name": "FlexiFit",  
+    "model_number": "FF-MAT-3P",  
+    "sku": "FF-MAT-3P-180X60",  
+    "synthetic_code": "9876543210987",  
+    "description": "The FlexiFit Mat Pro 3mm is a premium yoga surface engineered for stability and comfort during stretching, pilates, and martial arts. Its 3‑millimeter EVA core is cushioned with a natural rubber top layer that delivers a firm yet forgiving feel, reducing joint impact while maintaining grip on any floor. The 180 cm by 60 cm dimensions accommodate most practitioners, and the matte finish prevents slipping even in sweaty sessions. Made from recycled thermoplastic polyurethane, the mat is lightweight, durable, and easy to roll. The edge‑reinforced design resists fraying, and the product comes with a breathable carrying strap for on‑the‑go use. Ideal for studios or home practice, it blends performance with eco‑responsibility.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 180,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 1.2,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "Thermoplastic Polyurethane",  
+        "Natural Rubber"  
+      ],  
+      "color": "Midnight Blue",  
+      "capacity": {  
+        "value": null,  
+        "unit": "L",  
+        "applicable": false  
+      },  
+      "compatibility": []  
+    },  
+    "warranty_months": 12,  
+    "country_of_origin": "Vietnam",  
+    "release_date": "2025-09-01",  
+    "price": {  
+      "amount": 49.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "FitGearHub",  
+      "rating": 4.7,  
+      "location": "Berlin, Germany"  
+    },  
+    "tags": [  
+      "yoga",  
+      "mat",  
+      "non-slip",  
+      "eco-friendly"  
+    ]  
+  }  
+}

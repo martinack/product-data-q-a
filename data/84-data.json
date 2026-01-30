@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "84",
+    "category": "Pet Supplies",
+    "subcategory": "Grooming Tools",
+    "name": "Pawsome GentleBrush 2‑Tone",
+    "brand_name": "Pawsome",
+    "model_number": "PWS-GBL",
+    "sku": "PAWS-GRBL-2T",
+    "synthetic_code": "9876543210123",
+    "description": "The Pawsome GentleBrush 2‑Tone is engineered for gentle yet effective grooming of medium to large dogs. Its dual‑tone silicone bristles provide a soft touch while efficiently removing loose hair and tangles, reducing shedding in the home. The ergonomic polypropylene handle offers a firm grip and is designed to minimize hand fatigue during extended grooming sessions. The brush’s compact 25 cm length allows easy maneuverability around the neck, ears, and paws, making it suitable for both everyday maintenance and pre‑show preparation. Its lightweight 0.3 kg construction and smooth finish make it easy to store and transport, ensuring a hassle‑free grooming routine for pet owners and professionals alike.",
+    "specs": {
+      "dimensions": {
+        "value": 25,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.3,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "silicone bristles",
+        "polypropylene handle"
+      ],
+      "color": "Soft Gray",
+      "capacity": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "compatibility": [
+        "medium to large dogs",
+        "all coat types"
+      ]
+    },
+    "warranty_months": 12,
+    "country_of_origin": "Thailand",
+    "release_date": "2024-10-01",
+    "price": {
+      "amount": 19.99,
+      "currency": "USD"
+    },
+    "stock_status": "low_stock",
+    "seller": {
+      "name": "FurryGoods Ltd.",
+      "rating": 4.3,
+      "location": "Bangkok, Thailand"
+    },
+    "tags": [
+      "pet",
+      "grooming",
+      "brush",
+      "dog",
+      "hair removal",
+      "silicone"
+    ]
+  }
+}

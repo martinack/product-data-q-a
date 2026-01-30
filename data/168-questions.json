@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the model number of the Aurelio PaperClip Hub 3-in-1?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many paperclips can the central clip holder accommodate?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the product manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the product in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period in weeks?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the material composition of the metal clip holder?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the product compatible with laptops?",
+    "question_type": "trap"
+  }
+]

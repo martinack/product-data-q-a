@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the PulseStride 10K Smart Treadmill Mat?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What materials are used in the construction of the PulseStride 10K Smart Treadmill Mat?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the PulseStride 10K Smart Treadmill Mat?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What color is the PulseStride 10K Smart Treadmill Mat?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the PulseStride 10K Smart Treadmill Mat?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the thickness of the PulseStride 10K Smart Treadmill Mat?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the PulseStride 10K Smart Treadmill Mat have a built‑in Bluetooth feature?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the recommended cleaning frequency for the PulseStride 10K Smart Treadmill Mat?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "182",
+    "category": "Photography",
+    "subcategory": "Camera Lens",
+    "name": "Velora Prime 85mm f/1.4",
+    "brand_name": "Velora",
+    "model_number": "VP85F14",
+    "sku": "VLR-PRIME85-F14-001",
+    "synthetic_code": "9876543210987",
+    "description": "Velora Prime 85mm f/1.4 delivers exceptional image quality for portrait and low‑light photography. The lens features a 9‑element, 7‑group optical design with an ultra‑fast f/1.4 aperture, enabling shallow depth of field and superior bokeh. A 12‑step manual focus ring provides precise control, while a built‑in focus limiter reduces focus travel. The robust metal barrel and rubberized focus ring offer durability and a comfortable grip. Compatible with Canon EF, Nikon F, and Sony E mount systems, the lens is versatile for both DSLR and mirrorless cameras. Its compact size and lightweight construction make it ideal for on‑the‑go shooting and studio work alike.",
+    "specs": {
+      "dimensions": {
+        "value": 8.5,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.8,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "materials": [
+        "glass",
+        "metal",
+        "rubber"
+      ],
+      "color": "black",
+      "capacity": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "compatibility": [
+        "Canon EF",
+        "Nikon F",
+        "Sony E"
+      ]
+    },
+    "warranty_months": 24,
+    "country_of_origin": "Germany",
+    "release_date": "2025-07-01",
+    "price": {
+      "amount": 899.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "LensCraft Pro",
+      "rating": 4.7,
+      "location": "Berlin, Germany"
+    },
+    "tags": [
+      "prime",
+      "85mm",
+      "f/1.4",
+      "manual focus",
+      "full-frame"
+    ]
+  }
+}

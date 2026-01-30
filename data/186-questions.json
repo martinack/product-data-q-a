@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Pawsome Catnip Sachet 50g?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which country is the Pawsome Catnip Sachet 50g manufactured in?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the price of the Pawsome Catnip Sachet 50g in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the color of the sachet?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "When was the Pawsome Catnip Sachet 50g released?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period for the Pawsome Catnip Sachet 50g?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Pawsome Catnip Sachet 50g have a power rating?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the compatibility of the Pawsome Catnip Sachet 50g with other pet products?",
+    "question_type": "trap"
+  }
+]

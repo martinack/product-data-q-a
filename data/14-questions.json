@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the TerraGrip Hand Spade?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the blade length of the TerraGrip Hand Spade?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which materials are used in the TerraGrip Hand Spade?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the TerraGrip Hand Spade manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the TerraGrip Hand Spade in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty coverage for accidental damage?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the battery capacity of the TerraGrip Hand Spade?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What soil type is recommended for using the TerraGrip Hand Spade?",
+    "question_type": "trap"
+  }
+]

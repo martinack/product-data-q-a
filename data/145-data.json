@@ -1,0 +1,67 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "146",  
+    "category": "Sports & Outdoors",  
+    "subcategory": "Hiking Backpack",  
+    "name": "TerraGear TrailBlaze 30L Hiking Pack",  
+    "brand_name": "TerraGear",  
+    "model_number": "TB-30-HB",  
+    "sku": "TGB-30-HB-GR",  
+    "synthetic_code": "9876543210987",  
+    "description": "The TerraGear TrailBlaze 30L Hiking Pack is engineered for day‑trip and multi‑day treks. A durable nylon shell with a breathable mesh back panel keeps the pack light and comfortable, while a padded shoulder strap system distributes weight evenly. The pack features a main compartment with a zippered organizer pocket, two side mesh pockets for water bottles, and a top‑load access panel for quick retrieval of gear. Integrated compression straps and a detachable rain cover add versatility. Ideal for hikers who need a reliable, weather‑resistant pack that balances capacity with ergonomic design.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 30,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 1.5,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "polyester",  
+        "nylon",  
+        "rubber"  
+      ],  
+      "color": "Forest Green",  
+      "capacity": {  
+        "value": 30,  
+        "unit": "L",  
+        "applicable": true  
+      },  
+      "compatibility": [  
+        "water bottle holder",  
+        "compression straps"  
+      ]  
+    },  
+    "warranty_months": 12,  
+    "country_of_origin": "Germany",  
+    "release_date": "2025-09-01",  
+    "price": {  
+      "amount": 89.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "PeakGear Supplies",  
+      "rating": 4.7,  
+      "location": "Munich, Germany"  
+    },  
+    "tags": [  
+      "hiking",  
+      "backpack",  
+      "outdoor",  
+      "30L",  
+      "durable"  
+    ]  
+  }  
+}

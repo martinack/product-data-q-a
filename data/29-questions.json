@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the LullabyCo DreamNest 3-Pack Swaddle Blanket?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many swaddles are included in the LullabyCo DreamNest set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of each blanket in the LullabyCo DreamNest 3-Pack Swaddle Blanket?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What materials are used to make the LullabyCo DreamNest swaddles?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the LullabyCo DreamNest 3-Pack Swaddle Blanket in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period in years for the LullabyCo DreamNest 3-Pack Swaddle Blanket?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the power consumption of the LullabyCo DreamNest 3-Pack Swaddle Blanket in watts?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the return policy for the LullabyCo DreamNest 3-Pack Swaddle Blanket?",
+    "question_type": "trap"
+  }
+]

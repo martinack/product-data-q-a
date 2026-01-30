@@ -1,0 +1,66 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "167",  
+    "category": "Kitchenware",  
+    "subcategory": "Saucepan",  
+    "name": "CulinaryPro Stainless 1.5L Saucepan",  
+    "brand_name": "CulinaryPro",  
+    "model_number": "CP-SS1.5",  
+    "sku": "CP-SS1.5-SILV",  
+    "synthetic_code": "7489123456789",  
+    "description": "The CulinaryPro Stainless 1.5L Saucepan is a versatile cookware piece designed for everyday use. Its 22‑cm diameter and 12‑cm height accommodate a range of cooking tasks from simmering sauces to boiling grains. Constructed from 18/10 stainless steel, the pan offers even heat distribution and durability. A heat‑resistant silicone handle provides a comfortable grip, while a flat bottom ensures stable placement on induction, gas, or electric stovetops. The 1.5‑liter capacity balances space efficiency with functionality, making it suitable for single‑person households or small families. The saucepan’s polished finish and secure lid make it a practical addition to any kitchen collection.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 22,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 0.8,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "stainless steel",  
+        "silicone"  
+      ],  
+      "color": "silver",  
+      "capacity": {  
+        "value": 1.5,  
+        "unit": "L",  
+        "applicable": true  
+      },  
+      "compatibility": [  
+        "induction",  
+        "gas",  
+        "electric"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Italy",  
+    "release_date": "2025-07-01",  
+    "price": {  
+      "amount": 39.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "GourmetHub",  
+      "rating": 4.7,  
+      "location": "Rome, Italy"  
+    },  
+    "tags": [  
+      "saucepan",  
+      "stainless steel",  
+      "induction compatible",  
+      "1.5L"  
+    ]  
+  }  
+}

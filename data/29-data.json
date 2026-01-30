@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "30",
+    "category": "Baby Products",
+    "subcategory": "Swaddles",
+    "name": "LullabyCo DreamNest 3‑Pack Swaddle Blanket",
+    "brand_name": "LullabyCo",
+    "model_number": "LDC-3PSB",
+    "sku": "LUL-DREAMNEST-3P",
+    "synthetic_code": "1234567890123",
+    "description": "The LullabyCo DreamNest 3‑Pack Swaddle Blanket offers gentle, breathable protection for newborns and infants. Each blanket measures 70 × 90 cm, crafted from 100 % organic cotton blended with bamboo fibers for superior softness and moisture‑wicking properties. The set includes three pastel‑blue swaddles, each featuring a secure, elastic‑free closure that allows easy adjustment without compromising the snug fit. Designed for temperatures ranging from 20 °C to 28 °C, the blankets maintain a comfortable micro‑climate while preventing overheating. The lightweight design, at just 0.3 kg per blanket, ensures portability for travel or on‑the‑go use. Ideal for parents seeking eco‑friendly, hypoallergenic bedding, the DreamNest set supports safe sleep practices and promotes restful nights.",
+    "specs": {
+      "dimensions": {
+        "value": 70,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.3,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "Organic Cotton",
+        "Bamboo"
+      ],
+      "color": "Pastel Blue",
+      "capacity": {
+        "value": null,
+        "unit": "L",
+        "applicable": false
+      },
+      "compatibility": []
+    },
+    "warranty_months": 12,
+    "country_of_origin": "Vietnam",
+    "release_date": "2024-11-01",
+    "price": {
+      "amount": 29.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "TinyNest Supplies",
+      "rating": 4.5,
+      "location": "Hanoi, Vietnam"
+    },
+    "tags": [
+      "swaddle",
+      "baby",
+      "blanket",
+      "organic",
+      "soft"
+    ]
+  }
+}

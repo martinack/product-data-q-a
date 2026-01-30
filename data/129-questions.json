@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the power rating of the CulinaryPro Precision 350W Immersion Blender?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What material is used for the shaft of the CulinaryPro Precision 350W Immersion Blender?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "How much does the CulinaryPro Precision 350W Immersion Blender weigh?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the CulinaryPro Precision 350W Immersion Blender manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the CulinaryPro Precision 350W Immersion Blender in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery capacity of the CulinaryPro Precision 350W Immersion Blender?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum speed setting of the CulinaryPro Precision 350W Immersion Blender?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the weight of the detachable silicone‑lined cup that comes with the CulinaryPro Precision 350W Immersion Blender?",
+    "question_type": "trap"
+  }
+]

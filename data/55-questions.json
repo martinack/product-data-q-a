@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Aurelio LabProbe 500 in kilograms?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many hours can the probe operate on a single charge?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the price of the Aurelio LabProbe 500 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "When was the Aurelio LabProbe 500 released?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Which operating systems is the probe compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery capacity of the Aurelio LabProbe 500 in mAh?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the probe support Wi‑Fi connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the price of the Aurelio LabProbe 500 in euros?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "118",
+    "category": "Garden & Outdoor",
+    "subcategory": "Outdoor Lighting",
+    "name": "TerraGlow PathLight 2.0",
+    "brand_name": "TerraGlow",
+    "model_number": "TG-PL2",
+    "sku": "TGL-PL2-RED",
+    "synthetic_code": "8765432101234",
+    "description": "The TerraGlow PathLight 2.0 delivers steady, energy‑efficient illumination for garden pathways and patio edges. Encased in a weather‑resistant aluminum shell with a polycarbonate lens, the light withstands rain, dust, and UV exposure while maintaining a sleek matte black finish. A 5‑W LED array powered by a 12‑V solar panel charges during daylight and automatically switches on at dusk, providing up to 12 hours of ambient glow. The compact 15‑cm height and 10‑cm diameter fit neatly into existing trellises or standalone posts. Its low‑profile design and integrated mounting brackets make installation quick and secure. Ideal for eco‑friendly landscaping, the PathLight 2.0 offers reliable, maintenance‑free lighting that enhances safety and aesthetics.",
+    "specs": {
+      "dimensions": {
+        "value": 15,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.6,
+        "unit": "kg"
+      },
+      "power": {
+        "value": 5,
+        "unit": "W",
+        "applicable": true
+      },
+      "materials": [
+        "Aluminum",
+        "Polycarbonate"
+      ],
+      "color": "Matte Black",
+      "capacity": {
+        "value": null,
+        "unit": "L",
+        "applicable": false
+      },
+      "compatibility": [
+        "Solar panel 12V"
+      ]
+    },
+    "warranty_months": 12,
+    "country_of_origin": "Thailand",
+    "release_date": "2024-10-01",
+    "price": {
+      "amount": 34.99,
+      "currency": "EUR"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "GreenLuxe Supplies",
+      "rating": 4.5,
+      "location": "Bangkok, Thailand"
+    },
+    "tags": [
+      "garden",
+      "solar",
+      "path",
+      "LED",
+      "outdoor",
+      "eco-friendly"
+    ]
+  }
+}

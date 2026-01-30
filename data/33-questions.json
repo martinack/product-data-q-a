@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the power rating of the CulinaryPro Compact 500W Blender?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the capacity of the blender's jar?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the CulinaryPro Compact 500W Blender?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which materials are used in the construction of the CulinaryPro Compact 500W Blender?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "How long is the warranty for the CulinaryPro Compact 500W Blender?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty duration in years for the CulinaryPro Compact 500W Blender?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the CulinaryPro Compact 500W Blender come with a detachable lid?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the CulinaryPro Compact 500W Blender compatible with 220V AC power?",
+    "question_type": "trap"
+  }
+]

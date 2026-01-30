@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Velora CarCompartment 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "In which country was the Velora CarCompartment 2.0 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the price of the Velora CarCompartment 2.0 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the color of the Velora CarCompartment 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Which cup holder configuration is the Velora CarCompartment 2.0 compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum capacity in liters of the Velora CarCompartment 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the power consumption of the Velora CarCompartment 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the weight of the Velora CarCompartment 2.0 in pounds?",
+    "question_type": "trap"
+  }
+]

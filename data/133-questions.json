@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the power rating of the Luminex Solar Lantern 3.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How long can the lantern operate continuously at maximum brightness?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the IP rating of the lantern?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the weight of the lantern?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the lantern in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the lantern have a built-in wind sensor?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the battery cycle life of the lantern?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum operating temperature range of the lantern?",
+    "question_type": "trap"
+  }
+]

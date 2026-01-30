@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the Quantix SlideRack 12-Pos?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What are the dimensions of the Quantix SlideRack 12-Pos as described in the product description?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What materials are used to construct the Quantix SlideRack 12-Pos?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Where is the Quantix SlideRack 12-Pos manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Quantix SlideRack 12-Pos?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum load capacity of the Quantix SlideRack 12-Pos in kilograms?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the exact date of manufacture of the Quantix SlideRack 12-Pos?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the shipping weight of the Quantix SlideRack 12-Pos?",
+    "question_type": "trap"
+  }
+]

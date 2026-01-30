@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Aurelio Resonant 12-String Guitar?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the warranty period for this guitar?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "In which country was the Aurelio Resonant 12-String Guitar manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the release date of the Aurelio Resonant 12-String Guitar?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Aurelio Resonant 12-String Guitar in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the recommended string gauge for the Aurelio Resonant 12-String Guitar?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum volume level of the built-in pickup system?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "How long does the battery last when using the built-in pickup system?",
+    "question_type": "trap"
+  }
+]

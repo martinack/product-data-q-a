@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the ChronoDesk 360° Modular Organizer?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What materials is the ChronoDesk 360° Modular Organizer made from?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "How long is the warranty for the ChronoDesk 360° Modular Organizer?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the ChronoDesk 360° Modular Organizer manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the ChronoDesk 360° Modular Organizer in euros?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum load capacity of the ChronoDesk 360° Modular Organizer in kilograms?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the power consumption of the ChronoDesk 360° Modular Organizer in watts?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the return policy duration for the ChronoDesk 360° Modular Organizer in days?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Aurevio ChillPad X1?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the power consumption of the ChillPad X1?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which materials are used in the construction of the ChillPad X1?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the ChillPad X1 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the ChillPad X1 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What color is the LED indicator on the ChillPad X1?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the exact model number of the USB-C adapter that powers the ChillPad X1?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Does the ChillPad X1 come with a carrying case?",
+    "question_type": "trap"
+  }
+]

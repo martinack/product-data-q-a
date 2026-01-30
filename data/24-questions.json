@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the power output of the TrailMate Portable Stove?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the fuel capacity of the TrailMate Portable Stove?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which power adapters is the TrailMate Portable Stove compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the weight of the TrailMate Portable Stove?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the TrailMate Portable Stove manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period in years for the TrailMate Portable Stove?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the TrailMate Portable Stove have a built‑in windscreen?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum altitude at which the TrailMate Portable Stove can be used?",
+    "question_type": "trap"
+  }
+]

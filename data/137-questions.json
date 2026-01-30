@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the CulinaryPro PulseBlend 650W?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the CulinaryPro PulseBlend 650W?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the power rating of the CulinaryPro PulseBlend 650W?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the capacity of the jar on the CulinaryPro PulseBlend 650W?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the CulinaryPro PulseBlend 650W?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the CulinaryPro PulseBlend 650W have a built‑in timer?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the noise level of the CulinaryPro PulseBlend 650W in decibels?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Is the CulinaryPro PulseBlend 650W compatible with 240V AC power?",
+    "question_type": "trap"
+  }
+]

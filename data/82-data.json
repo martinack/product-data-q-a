@@ -1,0 +1,66 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "83",  
+    "category": "Furniture",  
+    "subcategory": "Office Chair",  
+    "name": "ErgoCraft ComfortSeat 2026",  
+    "brand_name": "ErgoCraft",  
+    "model_number": "EC-C2026",  
+    "sku": "ERGO-C2026-RED",  
+    "synthetic_code": "9876543210123",  
+    "description": "The ErgoCraft ComfortSeat 2026 is a high‑performance office chair designed for prolonged sitting. It features a steel frame with a reinforced backrest, adjustable lumbar support, and a 120‑kg weight capacity. The seat and back are covered in breathable mesh fabric that adapts to body contours, while the armrests are fully adjustable in height and width. Height and tilt can be fine‑tuned through a lever mechanism, and the chair includes a 360° caster wheel set for smooth mobility. The ergonomic design is suitable for office, study, or home‑work environments, providing comfort and posture support over long periods.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 80,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 12,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "steel frame",  
+        "mesh fabric"  
+      ],  
+      "color": "Charcoal",  
+      "capacity": {  
+        "value": null,  
+        "unit": null,  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "adjustable height",  
+        "tilt control"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Germany",  
+    "release_date": "2024-10-15",  
+    "price": {  
+      "amount": 199.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "OfficeSupplyCo",  
+      "rating": 4.3,  
+      "location": "Berlin, Germany"  
+    },  
+    "tags": [  
+      "office chair",  
+      "ergonomic",  
+      "mesh",  
+      "adjustable",  
+      "charcoal"  
+    ]  
+  }  
+}

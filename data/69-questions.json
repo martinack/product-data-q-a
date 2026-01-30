@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the Velara NotePad Pro?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the battery capacity of the Velara NotePad Pro?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the internal storage capacity of the Velara NotePad Pro?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Velara NotePad Pro in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Who is the seller of the Velara NotePad Pro and what is their rating?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Velara NotePad Pro support Wi‑Fi connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the processor model used in the Velara NotePad Pro?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "How many USB‑C ports does the Velara NotePad Pro have?",
+    "question_type": "trap"
+  }
+]

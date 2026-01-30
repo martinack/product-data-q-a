@@ -1,0 +1,34 @@
+[
+  {
+    "id": "q_1",
+    "answer": "The mattress measures 75 cm by 45 cm."
+  },
+  {
+    "id": "q_2",
+    "answer": "The mattress weighs 4.5 kg."
+  },
+  {
+    "id": "q_3",
+    "answer": "The price is 129.99 USD."
+  },
+  {
+    "id": "q_4",
+    "answer": "The warranty period is 12 months."
+  },
+  {
+    "id": "q_5",
+    "answer": "It is manufactured in India."
+  },
+  {
+    "id": "q_6",
+    "answer": "I cannot answer this question because of missing data"
+  },
+  {
+    "id": "q_7",
+    "answer": "I cannot answer this question because of missing data"
+  },
+  {
+    "id": "q_8",
+    "answer": "I cannot answer this question because of missing data"
+  }
+]

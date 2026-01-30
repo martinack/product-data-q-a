@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "95",
+    "category": "Baby Products",
+    "subcategory": "Infant Lighting",
+    "name": "NurtureNest SleepSoothe 4-Panel Night Light",
+    "brand_name": "NurtureNest",
+    "model_number": "NS-SS4NL",
+    "sku": "NUR-SL4NL-GLC",
+    "synthetic_code": "9876543210987",
+    "description": "The NurtureNest SleepSoothe 4-Panel Night Light provides a gentle, soothing glow designed to calm newborns and toddlers during bedtime. Each panel features a soft LED that emits a warm, low-intensity light, creating a comforting ambience without disrupting sleep cycles. It runs on a 5 W power supply, offering up to 12 hours of continuous operation on a single battery set. The durable acrylic housing protects the LEDs, while the adjustable brightness setting allows parents to tailor the light to their child’s needs. Ideal for nurseries, infant rooms, and sleep‑training environments.",
+    "specs": {
+      "dimensions": {
+        "value": 25,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.4,
+        "unit": "kg"
+      },
+      "power": {
+        "value": 5,
+        "unit": "W",
+        "applicable": true
+      },
+      "materials": [
+        "acrylic",
+        "LED",
+        "plastic"
+      ],
+      "color": "SoftBlue",
+      "capacity": {
+        "value": null,
+        "unit": null,
+        "applicable": false
+      },
+      "compatibility": [
+        "infant rooms",
+        "nursery",
+        "sleeping areas"
+      ]
+    },
+    "warranty_months": 12,
+    "country_of_origin": "Vietnam",
+    "release_date": "2024-10-15",
+    "price": {
+      "amount": 34.99,
+      "currency": "USD"
+    },
+    "stock_status": "low_stock",
+    "seller": {
+      "name": "BabyNest Supplies",
+      "rating": 4.5,
+      "location": "Ho Chi Minh City, Vietnam"
+    },
+    "tags": [
+      "night light",
+      "baby",
+      "nursery",
+      "soft",
+      "LED"
+    ]
+  }
+}

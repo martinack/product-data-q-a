@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the model number of the Velora SwitchLite 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many watts of power does the Velora SwitchLite 2.0 consume?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the Velora SwitchLite 2.0 in months?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Which wireless protocols is the Velora SwitchLite 2.0 compatible with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Velora SwitchLite 2.0 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the Velora SwitchLite 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Velora SwitchLite 2.0 support voice control via Siri?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What firmware version is pre-installed on the Velora SwitchLite 2.0?",
+    "question_type": "trap"
+  }
+]

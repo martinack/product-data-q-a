@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the height of the Luminara SolarGlow 12-LED Stake?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many LEDs does the Luminara SolarGlow 12-LED Stake contain?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the Luminara SolarGlow 12-LED Stake?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the Luminara SolarGlow 12-LED Stake manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Luminara SolarGlow 12-LED Stake in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the power consumption of the Luminara SolarGlow 12-LED Stake?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the battery capacity of the Luminara SolarGlow 12-LED Stake in mAh?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum operating temperature range of the Luminara SolarGlow 12-LED Stake?",
+    "question_type": "trap"
+  }
+]

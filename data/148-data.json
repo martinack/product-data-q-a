@@ -1,0 +1,67 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "148",  
+    "category": "Fitness & Health",  
+    "subcategory": "Activity Tracker",  
+    "name": "Aerobex StepTracker 5K",  
+    "brand_name": "Aerobex",  
+    "model_number": "AT-5K",  
+    "sku": "AER-STEP-5K-RED",  
+    "synthetic_code": "1234567890123",  
+    "description": "The Aerobex StepTracker 5K is a lightweight activity monitor designed for daily use. Measuring 6 cm long, 2 cm wide and 1.5 cm thick, it fits comfortably on the wrist or can be clipped to a belt. The device records steps, distance, and calories burned, and syncs data via Bluetooth 5.0 to iOS and Android apps. Its 200 mAh lithium‑polymer battery delivers up to 30 days of use on a single charge. The body is made from durable ABS plastic and a soft silicone strap, available in Crimson Red. Ideal for runners, walkers, or anyone looking to track movement effortlessly.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 6,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 0.08,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 0.5,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "ABS plastic",  
+        "silicone"  
+      ],  
+      "color": "Crimson Red",  
+      "capacity": {  
+        "value": 200,  
+        "unit": "mAh",  
+        "applicable": true  
+      },  
+      "compatibility": [  
+        "Bluetooth 5.0",  
+        "iOS",  
+        "Android"  
+      ]  
+    },  
+    "warranty_months": 12,  
+    "country_of_origin": "Thailand",  
+    "release_date": "2025-09-15",  
+    "price": {  
+      "amount": 49.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "FitGear Hub",  
+      "rating": 4.2,  
+      "location": "Bangkok, Thailand"  
+    },  
+    "tags": [  
+      "fitness",  
+      "step counter",  
+      "activity tracker",  
+      "Bluetooth",  
+      "compact"  
+    ]  
+  }  
+}

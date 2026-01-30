@@ -1,0 +1,65 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "73",  
+    "category": "Garden & Outdoor",  
+    "subcategory": "Garden Hose",  
+    "name": "TerraFlex 30m Garden Hose",  
+    "brand_name": "TerraFlex",  
+    "model_number": "TF-30M",  
+    "sku": "TF-HOSE-30M",  
+    "synthetic_code": "7423912345679",  
+    "description": "The TerraFlex 30m Garden Hose delivers reliable water flow for lawns, gardens, and outdoor projects. Its 30‑meter length provides ample reach while the reinforced nylon core and high‑density PVC outer layer resist kinks, abrasions, and UV degradation. The 0.5‑inch diameter offers standard compatibility with most garden connectors, and the flexible construction allows easy storage in sheds or garages. A quick‑release coupling system ensures fast attachment and detachment, reducing time during watering or cleaning. The deep‑green finish blends with outdoor décor, and the hose’s lightweight design—only 3.5 kg—makes handling effortless. Ideal for residential or commercial use, it balances durability with convenience.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 30,  
+        "unit": "m"  
+      },  
+      "weight": {  
+        "value": 3.5,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "PVC",  
+        "Reinforced Nylon"  
+      ],  
+      "color": "Deep Green",  
+      "capacity": {  
+        "value": null,  
+        "unit": "pieces",  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "Standard garden fittings"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Thailand",  
+    "release_date": "2024-10-01",  
+    "price": {  
+      "amount": 79.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "GardenGear Hub",  
+      "rating": 4.2,  
+      "location": "London, UK"  
+    },  
+    "tags": [  
+      "garden hose",  
+      "outdoor",  
+      "flexible",  
+      "PVC",  
+      "reinforced"  
+    ]  
+  }  
+}

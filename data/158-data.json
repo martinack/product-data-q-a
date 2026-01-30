@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "158",
+    "category": "Office/Stationery",
+    "subcategory": "Desk Organizer",
+    "name": "ChronoDesk 360° Modular Organizer",
+    "brand_name": "ChronoCraft",
+    "model_number": "CD-360",
+    "sku": "CC-ORG-360-BLK",
+    "synthetic_code": "7483921574831",
+    "description": "The ChronoDesk 360° Modular Organizer is designed for professionals who need a tidy and adaptable workspace. Constructed from high‑density polypropylene and reinforced cardboard, the unit features a rotating base that allows quick access to multiple compartments. The sleek jet‑black finish complements modern office décor, while the adjustable dividers accommodate documents, stationery, and small gadgets. Measuring 45 cm in length, the organizer fits comfortably on most desks and can be stacked with other units for expanded storage. It is lightweight at 1.2 kg, making it easy to relocate between rooms or offices.",
+    "specs": {
+      "dimensions": {
+        "value": 45,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 1.2,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "high‑density polypropylene",
+        "reinforced cardboard"
+      ],
+      "color": "Jet Black",
+      "capacity": {
+        "value": 5,
+        "unit": "pieces",
+        "applicable": true
+      },
+      "compatibility": [
+        "desks",
+        "office furniture"
+      ]
+    },
+    "warranty_months": 12,
+    "country_of_origin": "Germany",
+    "release_date": "2025-09-01",
+    "price": {
+      "amount": 49.95,
+      "currency": "EUR"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "OfficeHub Supplies",
+      "rating": 4.3,
+      "location": "Berlin, DE"
+    },
+    "tags": [
+      "desk organizer",
+      "modular",
+      "workspace",
+      "storage",
+      "jet black"
+    ]
+  }
+}

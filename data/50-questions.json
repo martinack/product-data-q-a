@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the TrailForge TrekPro 2.0 trekking poles?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What are the dimensions of the TrekPro 2.0 poles?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "In what color are the TrekPro 2.0 poles sold?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the TrekPro 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "How much does the TrekPro 2.0 cost in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the serial number of the TrekPro 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the return policy for the TrekPro 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum temperature the TrekPro 2.0 can withstand?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the maximum power consumption of the Aurelio SmartSwitch 5.0 when idle?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which communication protocols are supported by the Aurelio SmartSwitch 5.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "How many months of warranty does the Aurelio SmartSwitch 5.0 come with?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the weight of the Aurelio SmartSwitch 5.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Aurelio SmartSwitch 5.0 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the Aurelio SmartSwitch 5.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Aurelio SmartSwitch 5.0 support voice control via Alexa or Google Assistant?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum number of devices that can be connected in a single Zigbee network with this switch?",
+    "question_type": "trap"
+  }
+]

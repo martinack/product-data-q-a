@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of each dog bed in the Pawsome UltraComfort 4‑Piece Dog Bed Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the price of the Pawsome UltraComfort 4‑Piece Dog Bed Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "In which country was the Pawsome UltraComfort 4‑Piece Dog Bed Set manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the Pawsome UltraComfort 4‑Piece Dog Bed Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the length dimension of each bed in the Pawsome UltraComfort 4‑Piece Dog Bed Set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the Pawsome UltraComfort 4‑Piece Dog Bed Set come with a warranty for the memory foam core?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Is the Pawsome UltraComfort 4‑Piece Dog Bed Set compatible with cats?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the estimated delivery time for the Pawsome UltraComfort 4‑Piece Dog Bed Set?",
+    "question_type": "trap"
+  }
+]

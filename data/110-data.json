@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "110",
+    "category": "Automotive Accessories",
+    "subcategory": "Dashboard Organizer",
+    "name": "Aurelio CarCompartment 3.0",
+    "brand_name": "Aurelio",
+    "model_number": "AC-3.0",
+    "sku": "AUR-CARCOM-3",
+    "synthetic_code": "1234567890123",
+    "description": "The Aurelio CarCompartment 3.0 is a modular dashboard organizer designed to keep essential items within easy reach while driving. Constructed from durable polypropylene and a flexible silicone lining, it fits snugly on most vehicle dashboards, providing compartments for phones, pens, sunglasses, and small documents. The organizer features a removable tray, a built‑in card holder, and a detachable pocket for a wallet or key fob. Its matte black finish blends seamlessly with interior décor, and the lightweight design adds minimal bulk. Ideal for commuters and road‑trip enthusiasts alike, the CarCompartment 3.0 offers a practical, stylish solution for on‑the‑go organization.",
+    "specs": {
+      "dimensions": {
+        "value": 30,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.8,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "Polypropylene",
+        "Silicone"
+      ],
+      "color": "Matte Black",
+      "capacity": {
+        "value": null,
+        "unit": "pieces",
+        "applicable": false
+      },
+      "compatibility": [
+        "Toyota Camry",
+        "Honda Accord",
+        "Ford Focus",
+        "Nissan Altima"
+      ]
+    },
+    "warranty_months": 12,
+    "country_of_origin": "China",
+    "release_date": "2025-10-15",
+    "price": {
+      "amount": 29.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "AutoGearHub",
+      "rating": 4.5,
+      "location": "Los Angeles, US"
+    },
+    "tags": [
+      "dashboard",
+      "organizer",
+      "car",
+      "storage",
+      "polypropylene"
+    ]
+  }
+}

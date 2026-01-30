@@ -1,0 +1,67 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "48",  
+    "category": "Garden & Outdoor",  
+    "subcategory": "Hydroponic Lighting",  
+    "name": "GreenSprout Hydroponic Grow Light",  
+    "brand_name": "GreenSprout",  
+    "model_number": "GS-HG100",  
+    "sku": "GRS-HG100-LED",  
+    "synthetic_code": "7412345678901",  
+    "description": "The GreenSprout Hydroponic Grow Light delivers full-spectrum illumination for indoor plants, supporting efficient photosynthesis in hydroponic setups. Designed with 120 high‑brightness LEDs arranged in a 60‑cm panel, it offers adjustable intensity via a built‑in dimmer and can be powered by a 12‑V LED driver or a USB‑C cable for portable use. The lightweight aluminum frame and polycarbonate housing provide durability while keeping the unit under 3 kg. Energy consumption is capped at 15 W, making it suitable for continuous operation without excessive heat. The light’s white‑light spectrum mimics natural daylight, promoting healthy growth for seedlings, herbs, and leafy greens.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 60,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 2.5,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 15,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "LED",  
+        "aluminum",  
+        "polycarbonate"  
+      ],  
+      "color": "white",  
+      "capacity": {  
+        "value": null,  
+        "unit": null,  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "LED driver 12V",  
+        "USB-C"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "China",  
+    "release_date": "2024-11-15",  
+    "price": {  
+      "amount": 89.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "GardenPro Supplies",  
+      "rating": 4.2,  
+      "location": "Berlin, Germany"  
+    },  
+    "tags": [  
+      "hydroponic",  
+      "grow light",  
+      "LED",  
+      "solar",  
+      "indoor garden"  
+    ]  
+  }  
+}

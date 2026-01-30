@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the power rating of the LumenField Solar Path Light 12V?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the battery capacity of the LumenField Solar Path Light 12V?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for this product?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the weight of the LumenField Solar Path Light 12V?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the color of the LumenField Solar Path Light 12V?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum operating temperature of the LumenField Solar Path Light 12V?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the product come with a user manual in PDF format?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "How many units are included in a bundle purchase of the LumenField Solar Path Light 12V?",
+    "question_type": "trap"
+  }
+]

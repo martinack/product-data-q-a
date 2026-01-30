@@ -1,0 +1,71 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "61",  
+    "category": "Smart Home",  
+    "subcategory": "Smart Light Switch",  
+    "name": "Velora SwitchLite 2.0",  
+    "brand_name": "Velora",  
+    "model_number": "VS-LS2",  
+    "sku": "VEL-SWITCHLITE-2-RED",  
+    "synthetic_code": "9876543210123",  
+    "description": "The Velora SwitchLite 2.0 is a compact dual‑switch module designed for modern homes that require wireless control and energy insight. Each switch supports 2.5 A continuous current and is rated for 2 kW of power, making it suitable for standard lighting circuits. Integrated Wi‑Fi 802.11 b/g/n and optional Zigbee 3.0 firmware allow direct app connectivity or inclusion in a mesh network, while a built‑in energy monitor reports real‑time consumption to the companion app. The matte black enclosure is constructed from ABS plastic and ceramic glass, with metal contacts for reliable operation. Users can schedule on/off times, set dimming levels, and receive alerts for unusual usage patterns, all from a single interface.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 5.5,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 0.2,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 5,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "ABS plastic",  
+        "ceramic glass",  
+        "metal contacts"  
+      ],  
+      "color": "Matte Black",  
+      "capacity": {  
+        "value": null,  
+        "unit": null,  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "Wi‑Fi 802.11 b/g/n",  
+        "Zigbee 3.0",  
+        "Z‑Wave",  
+        "Alexa",  
+        "Google Assistant"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Vietnam",  
+    "release_date": "2024-11-15",  
+    "price": {  
+      "amount": 29.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "HomeTech Hub",  
+      "rating": 4.3,  
+      "location": "Seattle, US"  
+    },  
+    "tags": [  
+      "smart",  
+      "light switch",  
+      "Wi‑Fi",  
+      "Zigbee",  
+      "energy monitoring",  
+      "dual‑switch"  
+    ]  
+  }  
+}

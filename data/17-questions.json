@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the Trailblaze Trek 20L backpack?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which materials are used in the construction of the Trailblaze Trek 20L backpack?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the Trailblaze Trek 20L backpack?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the Trailblaze Trek 20L backpack manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Trailblaze Trek 20L backpack in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period in years for the Trailblaze Trek 20L backpack?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the power consumption of the Trailblaze Trek 20L backpack?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the release date of the Trailblaze Trek 20L backpack in the format DD/MM/YYYY?",
+    "question_type": "trap"
+  }
+]

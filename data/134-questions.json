@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the TrailBlaze TrekPro 22L backpack?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the capacity of the TrailBlaze TrekPro 22L?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What color is the TrailBlaze TrekPro 22L?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How much does the TrailBlaze TrekPro 22L cost?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the TrailBlaze TrekPro 22L?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the TrailBlaze TrekPro 22L?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the return policy for the TrailBlaze TrekPro 22L?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "Does the TrailBlaze TrekPro 22L have a built‑in GPS?",
+    "question_type": "trap"
+  }
+]

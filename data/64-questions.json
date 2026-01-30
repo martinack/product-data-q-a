@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Aurelio SafeView 3D Goggles?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the warranty period for the Aurelio SafeView 3D Goggles?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the color of the Aurelio SafeView 3D Goggles?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What material are the lenses of the Aurelio SafeView 3D Goggles made from?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "How much does the Aurelio SafeView 3D Goggles cost in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum temperature the Aurelio SafeView 3D Goggles can withstand?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What cleaning solution is recommended for the Aurelio SafeView 3D Goggles?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the battery life of the Aurelio SafeView 3D Goggles?",
+    "question_type": "trap"
+  }
+]

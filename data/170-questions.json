@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the price of the ChronoQuest Time Travel Board Game?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What are the board's dimensions?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "How many players can play the ChronoQuest Time Travel Board Game?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for this board game?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What materials are used to make the ChronoQuest Time Travel Board Game?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the battery life of the ChronoQuest Time Travel Board Game?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the game come with a digital companion app?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the shipping weight of the board game in pounds?",
+    "question_type": "trap"
+  }
+]

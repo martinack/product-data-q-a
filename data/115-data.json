@@ -1,0 +1,69 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "115",  
+    "category": "Smart Home",  
+    "subcategory": "Smart Doorbell",  
+    "name": "Veridian PulseDoor 100",  
+    "brand_name": "Veridian",  
+    "model_number": "VD-DS100",  
+    "sku": "VERI-DS100-STD",  
+    "synthetic_code": "9876543210123",  
+    "description": "The Veridian PulseDoor 100 is a compact, Wi‑Fi enabled doorbell designed for modern homes. It delivers clear two‑way audio, motion‑triggered alerts, and a bright LED indicator that syncs with the user’s smartphone app. The unit supports Matter, Zigbee, and standard Wi‑Fi 802.11 b/g/n, allowing seamless integration with existing smart‑home ecosystems. Battery operation is optional, with a 12‑hour standby time on a single AA set, while the 5‑W AC adapter provides continuous power for wired installations. The brushed aluminum housing and tempered glass front give a sleek, durable finish that resists fingerprints and scratches. Ideal for entryways, apartments, or small houses, it offers reliable connectivity and intuitive setup.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 10,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 0.3,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 5,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "Aluminum",  
+        "Plastic",  
+        "Glass"  
+      ],  
+      "color": "Matte Black",  
+      "capacity": {  
+        "value": null,  
+        "unit": "L",  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "Wi‑Fi 802.11 b/g/n",  
+        "Zigbee 3.0",  
+        "Matter"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Vietnam",  
+    "release_date": "2024-09-12",  
+    "price": {  
+      "amount": 79.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "HomeGear Hub",  
+      "rating": 4.2,  
+      "location": "Berlin, Germany"  
+    },  
+    "tags": [  
+      "doorbell",  
+      "smart",  
+      "wifi",  
+      "zigbee",  
+      "matter",  
+      "home"  
+    ]  
+  }  
+}

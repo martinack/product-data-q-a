@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the accuracy range of the Velara SmartTherm 4.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which connectivity protocols are supported by the Velara SmartTherm 4.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the Velara SmartTherm 4.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the Velara SmartTherm 4.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the Velara SmartTherm 4.0 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the CPU model used in the Velara SmartTherm 4.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Velara SmartTherm 4.0 support Bluetooth connectivity?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum temperature range the Velara SmartTherm 4.0 can handle?",
+    "question_type": "trap"
+  }
+]

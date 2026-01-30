@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the Velara DeskPro 5-in-1?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the price of the Velara DeskPro 5-in-1 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What are the dimensions of the Velara DeskPro 5-in-1?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What color is the Velara DeskPro 5-in-1?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the warranty period for the Velara DeskPro 5-in-1?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the power consumption of the Velara DeskPro 5-in-1 in watts?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum capacity of the Velara DeskPro 5-in-1 in liters?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What devices is the Velara DeskPro 5-in-1 compatible with?",
+    "question_type": "trap"
+  }
+]

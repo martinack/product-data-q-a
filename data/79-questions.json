@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the TerraForge EmberLite 2000?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the TerraForge EmberLite 2000 in kilograms?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the price of the TerraForge EmberLite 2000 in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the warranty period for the TerraForge EmberLite 2000?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What materials are used in the construction of the TerraForge EmberLite 2000?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "Does the TerraForge EmberLite 2000 have a built-in windscreen?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum altitude at which the TerraForge EmberLite 2000 can operate?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the recommended storage temperature for the TerraForge EmberLite 2000?",
+    "question_type": "trap"
+  }
+]

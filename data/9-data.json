@@ -1,0 +1,66 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "9",  
+    "category": "Furniture",  
+    "subcategory": "Ergonomic Office Chair",  
+    "name": "ErgoComfort Pro 300",  
+    "brand_name": "ErgoFlex",  
+    "model_number": "EF-P300",  
+    "sku": "ERGO-PRO-300-RED",  
+    "synthetic_code": "8456123456789",  
+    "description": "The ErgoComfort Pro 300 delivers a blend of support and style for long‑hour work sessions. A breathable mesh back distributes pressure evenly while a padded lumbar cushion adapts to the spine’s natural curve. The chair’s aluminum frame provides stability, and the adjustable armrests accommodate a range of desk heights. Height and tilt can be fine‑tuned via a single lever, and a 360° swivel base allows effortless movement. Designed for both office and home environments, the chair offers a sleek, modern look without compromising comfort.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 120,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 15,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": null,  
+        "unit": "W",  
+        "applicable": false  
+      },  
+      "materials": [  
+        "mesh fabric",  
+        "aluminum frame",  
+        "polyurethane foam"  
+      ],  
+      "color": "Midnight Charcoal",  
+      "capacity": {  
+        "value": null,  
+        "unit": null,  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "standard office chair armrest attachment"  
+      ]  
+    },  
+    "warranty_months": 24,  
+    "country_of_origin": "Vietnam",  
+    "release_date": "2024-11-01",  
+    "price": {  
+      "amount": 199.99,  
+      "currency": "USD"  
+    },  
+    "stock_status": "low_stock",  
+    "seller": {  
+      "name": "FurniMart",  
+      "rating": 4.3,  
+      "location": "London, UK"  
+    },  
+    "tags": [  
+      "ergonomic",  
+      "office chair",  
+      "mesh",  
+      "adjustable",  
+      "back support"  
+    ]  
+  }  
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the Quantix UltraSlide 12-Pos?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many slides are included in the Quantix UltraSlide 12-Pos set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the Quantix UltraSlide 12-Pos?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What are the dimensions of each slide in the Quantix UltraSlide 12-Pos?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Quantix UltraSlide 12-Pos in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the shipping cost for the Quantix UltraSlide 12-Pos?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the power consumption of the Quantix UltraSlide 12-Pos?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "When does the Quantix UltraSlide 12-Pos expire?",
+    "question_type": "trap"
+  }
+]

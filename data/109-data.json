@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "109",
+    "category": "Sports & Outdoors",
+    "subcategory": "Portable Lighting",
+    "name": "VividTrail Solar Lantern 200",
+    "brand_name": "VividTrail",
+    "model_number": "VT-SL200",
+    "sku": "VIV-SL200-STD",
+    "synthetic_code": "9876543210987",
+    "description": "The VividTrail Solar Lantern 200 delivers bright, reliable illumination for any outdoor adventure. Designed with a lightweight aluminum frame and durable polycarbonate housing, the lantern features a 200‑lumens LED array powered by a built‑in solar panel that charges during daylight. When sunlight is unavailable, a USB‑C port allows quick recharging from external power sources. The lantern offers adjustable brightness settings and a 30‑minute auto‑shutdown for safety. Its compact 15‑cm diameter and 0.4‑kg weight make it easy to pack in a backpack or attach to a tent. Ideal for camping, hiking, or emergency preparedness, the VividTrail Solar Lantern 200 combines eco‑friendly power with rugged construction.",
+    "specs": {
+      "dimensions": {
+        "value": 15,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.4,
+        "unit": "kg"
+      },
+      "power": {
+        "value": 5,
+        "unit": "W",
+        "applicable": true
+      },
+      "materials": [
+        "Aluminum",
+        "Polycarbonate",
+        "LED"
+      ],
+      "color": "Sunset Orange",
+      "capacity": {
+        "value": null,
+        "unit": "pieces",
+        "applicable": false
+      },
+      "compatibility": [
+        "Solar panel",
+        "USB-C"
+      ]
+    },
+    "warranty_months": 24,
+    "country_of_origin": "Vietnam",
+    "release_date": "2025-11-01",
+    "price": {
+      "amount": 39.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "OutdoorsHub",
+      "rating": 4.7,
+      "location": "Denver, US"
+    },
+    "tags": [
+      "solar",
+      "portable",
+      "camping",
+      "lantern",
+      "LED"
+    ]
+  }
+}

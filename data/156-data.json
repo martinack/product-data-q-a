@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "156",
+    "category": "Baby Products",
+    "subcategory": "Cribs & Bedding",
+    "name": "NurtureNest Crib Mattress 75cm",
+    "brand_name": "NurtureNest",
+    "model_number": "CN-75",
+    "sku": "NUR-CM-75-IND",
+    "synthetic_code": "8423910765432",
+    "description": "The NurtureNest Crib Mattress 75cm is engineered for newborn comfort and safety. Constructed with a 3‑layer foam core that offers gentle support, the mattress is topped with a breathable cotton cover that resists moisture and dust. Its dimensions of 75 cm by 45 cm fit standard crib frames, while a removable, machine‑washable cover simplifies maintenance. The mattress includes a hypoallergenic fill that meets international safety standards for low VOC emissions. Designed for long‑term use, the mattress maintains its shape and firmness for up to three years, reducing the need for frequent replacement. Ideal for parents seeking a clean, durable, and supportive sleeping surface for infants.",
+    "specs": {
+      "dimensions": {
+        "value": 75,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 4.5,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "3‑layer foam core",
+        "breathable cotton cover",
+        "wooden frame"
+      ],
+      "color": "Soft White",
+      "capacity": {
+        "value": null,
+        "unit": "pieces",
+        "applicable": false
+      },
+      "compatibility": [
+        "Standard crib frame"
+      ]
+    },
+    "warranty_months": 12,
+    "country_of_origin": "India",
+    "release_date": "2025-04-01",
+    "price": {
+      "amount": 129.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "BabyNest Supplies",
+      "rating": 4.5,
+      "location": "Mumbai, India"
+    },
+    "tags": [
+      "crib",
+      "baby mattress",
+      "soft",
+      "cotton cover",
+      "foam"
+    ]
+  }
+}

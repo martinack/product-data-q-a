@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the Aurelio LightSync 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Aurelio LightSync 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What power rating does the Aurelio LightSync 2.0 have?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What materials are used in the Aurelio LightSync 2.0?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Which wireless protocols does the Aurelio LightSync 2.0 support?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum operating temperature of the Aurelio LightSync 2.0?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Aurelio LightSync 2.0 have a built‑in motion sensor?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the firmware version of the Aurelio LightSync 2.0?",
+    "question_type": "trap"
+  }
+]

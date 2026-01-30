@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the seat height of the TerraCraft Rustic Oak Bench?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the warranty period for the TerraCraft Rustic Oak Bench?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the TerraCraft Rustic Oak Bench?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "How much does the TerraCraft Rustic Oak Bench cost?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "In which country was the TerraCraft Rustic Oak Bench manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty coverage for the bench's electrical components?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the maximum load capacity of the TerraCraft Rustic Oak Bench?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the recommended cleaning frequency for the TerraCraft Rustic Oak Bench?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the brand name of the Pawsome SlickBrush 3-Piece?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the warranty period in months for the Pawsome SlickBrush 3-Piece?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the weight of the Pawsome SlickBrush 3-Piece set?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the Pawsome SlickBrush 3-Piece manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Pawsome SlickBrush 3-Piece in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the power consumption of the Pawsome SlickBrush 3-Piece?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the capacity of the Pawsome SlickBrush 3-Piece set?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum temperature the Pawsome SlickBrush 3-Piece can withstand?",
+    "question_type": "trap"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What are the dimensions of the Aurelio UltraPort 8-in-1 Hub?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What is the weight of the Aurelio UltraPort 8-in-1 Hub?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "Which materials are used in the construction of the Aurelio UltraPort 8-in-1 Hub?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the Aurelio UltraPort 8-in-1 Hub?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "Which ports are supported by the Aurelio UltraPort 8-in-1 Hub?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum power draw of the Aurelio UltraPort 8-in-1 Hub in watts?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the capacity of the Aurelio UltraPort 8-in-1 Hub in liters?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the return policy for the Aurelio UltraPort 8-in-1 Hub?",
+    "question_type": "trap"
+  }
+]

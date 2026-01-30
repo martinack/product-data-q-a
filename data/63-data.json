@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Synthetic product data for research use."
+  },
+  "product": {
+    "product_id": "64",
+    "category": "Photography",
+    "subcategory": "Camera Lens",
+    "name": "Aurelio FocusMaster 85mm",
+    "brand_name": "Aurelio",
+    "model_number": "AFM-850",
+    "sku": "AUR-FM-850",
+    "synthetic_code": "7423810065932",
+    "description": "The Aurelio FocusMaster 85mm offers sharp, high‑contrast images with a fast f/1.8 aperture, ideal for portraits and low‑light scenes. Its compact 15 cm barrel and 0.8 kg weight make it portable without sacrificing optical quality. The lens features a multi‑coated glass element set within an aluminum housing, providing durability and a matte black finish that resists fingerprints. A built‑in focus‑lock lever allows quick manual focus adjustments, while the 9‑step aperture ring offers precise exposure control. Compatible with full‑frame DSLRs and mirrorless systems, the FocusMaster delivers crisp detail and minimal distortion across the frame. The lens is lightweight, weather‑sealed, and designed for professional use in studio and on‑location shoots.",
+    "specs": {
+      "dimensions": {
+        "value": 15,
+        "unit": "cm"
+      },
+      "weight": {
+        "value": 0.8,
+        "unit": "kg"
+      },
+      "power": {
+        "value": null,
+        "unit": "W",
+        "applicable": false
+      },
+      "materials": [
+        "glass",
+        "aluminum"
+      ],
+      "color": "Matte Black",
+      "capacity": {
+        "value": null,
+        "unit": "L",
+        "applicable": false
+      },
+      "compatibility": [
+        "Full-frame DSLRs",
+        "Mirrorless cameras"
+      ]
+    },
+    "warranty_months": 24,
+    "country_of_origin": "China",
+    "release_date": "2024-10-01",
+    "price": {
+      "amount": 249.99,
+      "currency": "USD"
+    },
+    "stock_status": "in_stock",
+    "seller": {
+      "name": "PhotoGear Hub",
+      "rating": 4.5,
+      "location": "London, UK"
+    },
+    "tags": [
+      "macro lens",
+      "prime",
+      "85mm",
+      "full-frame",
+      "photography"
+    ]
+  }
+}

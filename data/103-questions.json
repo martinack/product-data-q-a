@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Aurelio FlexiDock 4K?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which materials are used in the construction of the Aurelio FlexiDock 4K?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the power consumption of the Aurelio FlexiDock 4K?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the Aurelio FlexiDock 4K manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the Aurelio FlexiDock 4K in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the warranty period in years for the Aurelio FlexiDock 4K?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Aurelio FlexiDock 4K support charging a laptop?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the maximum HDMI resolution supported by the Aurelio FlexiDock 4K?",
+    "question_type": "trap"
+  }
+]

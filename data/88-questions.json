@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the weight of the Velora Resonance 12?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "Which materials are used in the construction of the Velora Resonance 12?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the Velora Resonance 12?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "Where was the Velora Resonance 12 manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the color of the Velora Resonance 12?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the expected delivery time for the Velora Resonance 12?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the Velora Resonance 12 come with a built‑in pickup?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the return policy for the Velora Resonance 12?",
+    "question_type": "trap"
+  }
+]

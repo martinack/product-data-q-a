@@ -1,0 +1,67 @@
+{  
+  "meta": {  
+    "version": "1.0",  
+    "description": "Synthetic product data for research use."  
+  },  
+  "product": {  
+    "product_id": "38",  
+    "category": "Smart Home",  
+    "subcategory": "Smart Plug",  
+    "name": "Velara SmartPlug 2.0",  
+    "brand_name": "Velara",  
+    "model_number": "VS-PLUG-20",  
+    "sku": "VEL-SMPLUG-20-BL",  
+    "synthetic_code": "7423910065932",  
+    "description": "The Velara SmartPlug 2.0 is a compact, Wi‑Fi enabled power strip that lets users control and monitor household appliances from any smartphone. Featuring two standard outlets and a built‑in surge protector, it supports up to 60 W per socket, ensuring safe operation for lamps, chargers, and small kitchen gadgets. The device connects via 802.11 b/g/n Wi‑Fi or Zigbee 3.0, offering flexible integration with existing smart‑home hubs. A dedicated app provides real‑time energy consumption data, scheduled on/off timers, and voice‑assistant compatibility. The sleek midnight‑gray enclosure is made from ABS plastic and copper wiring, and the plug is rated for 16 A. With a 12‑month warranty, the SmartPlug 2.0 delivers convenience and peace of mind for modern living spaces.",  
+    "specs": {  
+      "dimensions": {  
+        "value": 6.5,  
+        "unit": "cm"  
+      },  
+      "weight": {  
+        "value": 0.15,  
+        "unit": "kg"  
+      },  
+      "power": {  
+        "value": 60,  
+        "unit": "W",  
+        "applicable": true  
+      },  
+      "materials": [  
+        "ABS",  
+        "Copper",  
+        "Plastic"  
+      ],  
+      "color": "Midnight Gray",  
+      "capacity": {  
+        "value": null,  
+        "unit": "L",  
+        "applicable": false  
+      },  
+      "compatibility": [  
+        "Wi‑Fi 802.11 b/g/n",  
+        "Zigbee 3.0"  
+      ]  
+    },  
+    "warranty_months": 12,  
+    "country_of_origin": "Vietnam",  
+    "release_date": "2024-10-15",  
+    "price": {  
+      "amount": 29.99,  
+      "currency": "EUR"  
+    },  
+    "stock_status": "in_stock",  
+    "seller": {  
+      "name": "HomeTech Bazaar",  
+      "rating": 4.7,  
+      "location": "Berlin, Germany"  
+    },  
+    "tags": [  
+      "smart plug",  
+      "Wi‑Fi",  
+      "energy monitoring",  
+      "Zigbee",  
+      "home automation"  
+    ]  
+  }  
+}

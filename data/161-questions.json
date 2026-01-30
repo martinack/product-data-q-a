@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the capacity of the ChemGuard 500ml Safety Flask?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "What materials are used to construct the ChemGuard 500ml Safety Flask?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What is the warranty period for the ChemGuard 500ml Safety Flask?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "In which country was the ChemGuard 500ml Safety Flask manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "What is the price of the ChemGuard 500ml Safety Flask in USD?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the maximum pressure rating of the ChemGuard 500ml Safety Flask?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "What is the shipping weight of the ChemGuard 500ml Safety Flask in pounds?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the product's expiration date?",
+    "question_type": "trap"
+  }
+]

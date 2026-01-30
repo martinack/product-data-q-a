@@ -1,0 +1,42 @@
+[
+  {
+    "id": "q_1",
+    "question": "What is the width of each blanket in the CuddleNest Organic Cotton Swaddle Blanket 3-Pack?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_2",
+    "question": "How many blankets are included in the CuddleNest Organic Cotton Swaddle Blanket 3-Pack?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_3",
+    "question": "What materials are used in the CuddleNest Organic Cotton Swaddle Blanket?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_4",
+    "question": "What is the price of the CuddleNest Organic Cotton Swaddle Blanket 3-Pack?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_5",
+    "question": "From which country is the CuddleNest Organic Cotton Swaddle Blanket manufactured?",
+    "question_type": "factual"
+  },
+  {
+    "id": "q_6",
+    "question": "What is the recommended washing temperature for the CuddleNest Organic Cotton Swaddle Blanket?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_7",
+    "question": "Does the CuddleNest Organic Cotton Swaddle Blanket come in a navy blue color?",
+    "question_type": "trap"
+  },
+  {
+    "id": "q_8",
+    "question": "What is the power rating of the CuddleNest Organic Cotton Swaddle Blanket?",
+    "question_type": "trap"
+  }
+]
