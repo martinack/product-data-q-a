@@ -4,7 +4,7 @@ Generate fully synthetic product records and grounded Q&A pairs using a local Ol
 
 ## Prerequisites
 
-- Python 3.9+ (this repo works with `python3`)
+- Python 3.9+
 - Ollama installed and running (the script calls the local Ollama API)
 
 ## Setup

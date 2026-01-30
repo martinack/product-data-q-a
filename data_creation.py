@@ -46,13 +46,6 @@ class Statistics:
     """Track statistics for generated products."""
     product_count: int = 0
     domains: Dict[str, int] = None
-    subcategories: Dict[str, int] = None
-    units: Dict[str, int] = None
-    currencies: Dict[str, int] = None
-    colors: Dict[str, int] = None
-    materials: Dict[str, int] = None
-    capacities: Dict[str, int] = None
-    stock_statuses: Dict[str, int] = None
     product_names: List[str] = None
     latest_product: Optional[Dict[str, Any]] = None
 
@@ -60,20 +53,6 @@ class Statistics:
         """Initialize defaultdict fields."""
         if self.domains is None:
             self.domains = defaultdict(int)
-        if self.subcategories is None:
-            self.subcategories = defaultdict(int)
-        if self.units is None:
-            self.units = defaultdict(int)
-        if self.currencies is None:
-            self.currencies = defaultdict(int)
-        if self.colors is None:
-            self.colors = defaultdict(int)
-        if self.materials is None:
-            self.materials = defaultdict(int)
-        if self.capacities is None:
-            self.capacities = defaultdict(int)
-        if self.stock_statuses is None:
-            self.stock_statuses = defaultdict(int)
         if self.product_names is None:
             self.product_names = []
 
@@ -82,13 +61,12 @@ class Statistics:
 class QAStatistics:
     """Track Q&A generation statistics."""
     factual: int = 0
-    multihop: int = 0
     trap: int = 0
 
     @property
     def total(self) -> int:
         """Return total Q&A count."""
-        return self.factual + self.multihop + self.trap
+        return self.factual + self.trap
 
 class ConversationLogger:
     """Logger for LLM conversations."""
@@ -169,7 +147,6 @@ class ConversationLogger:
         with open(log_path, 'w', encoding='utf-8') as f:
             json.dump(log_entry, f, indent=2, ensure_ascii=False)
 
-
 class LLMClient:
     """Client for interacting with Ollama LLM."""
 
@@ -222,7 +199,6 @@ class LLMClient:
         except Exception as e:
             raise Exception(f"LLM generation failed: {str(e)}") from e
 
-
 class FileHandler:
     """Handle file operations for generated data."""
 
@@ -235,7 +211,8 @@ class FileHandler:
         """
         self.output_dir = output_dir
 
-    def load_prompt(self, prompt_file: Path) -> str:
+    @staticmethod
+    def load_prompt(prompt_file: Path) -> str:
         """
         Load prompt from file.
 
@@ -288,7 +265,6 @@ class FileHandler:
         except Exception as e:
             raise IOError(f"Failed to save text to {filename}: {str(e)}") from e
 
-
 class StatisticsTracker:
     """Track and update generation statistics."""
 
@@ -303,36 +279,10 @@ class StatisticsTracker:
         """
         stats.product_count += 1
 
-        # Track basic fields
         if 'category' in product:
             stats.domains[product['category']] += 1
-        if 'subcategory' in product:
-            stats.subcategories[product['subcategory']] += 1
         if 'name' in product:
             stats.product_names.append(product['name'])
-
-        # Track specs
-        specs = product.get('specs', {})
-        if 'dimensions' in specs and 'unit' in specs['dimensions']:
-            stats.units[f"dimensions_{specs['dimensions']['unit']}"] += 1
-        if 'weight' in specs and 'unit' in specs['weight']:
-            stats.units[f"weight_{specs['weight']['unit']}"] += 1
-        if 'capacity' in specs and specs['capacity'].get('applicable') and 'unit' in specs['capacity']:
-            stats.capacities[specs['capacity']['unit']] += 1
-        if 'color' in specs:
-            stats.colors[specs['color']] += 1
-        if 'materials' in specs:
-            for material in specs['materials']:
-                stats.materials[material] += 1
-
-        # Track price currency
-        price = product.get('price', {})
-        if 'currency' in price:
-            stats.currencies[price['currency']] += 1
-
-        # Track stock status
-        if 'stock_status' in product:
-            stats.stock_statuses[product['stock_status']] += 1
 
     @staticmethod
     def update_qa_stats(qa_items: List[Dict[str, Any]], qa_stats: QAStatistics) -> None:
@@ -347,8 +297,6 @@ class StatisticsTracker:
             question_type = item['question_type']
             if question_type == 'factual':
                 qa_stats.factual += 1
-            elif question_type == 'multihop':
-                qa_stats.multihop += 1
             elif question_type == 'trap':
                 qa_stats.trap += 1
 
@@ -392,7 +340,6 @@ Latest generated product:
         """
         distribution_info = f"""Current Q&A distribution:
 - Factual: {qa_stats.factual}
-- Multihop: {qa_stats.multihop}
 - Trap: {qa_stats.trap}
 - Total: {qa_stats.total}
 
